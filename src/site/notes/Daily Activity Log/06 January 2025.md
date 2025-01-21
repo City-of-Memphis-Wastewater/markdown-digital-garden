@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/06-january-2025/","created":"2025-01-06T07:38:11.413-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/06-january-2025/","noteIcon":"","created":"2025-01-06T07:38:11.413-06:00"}
 ---
 
 #dailylog

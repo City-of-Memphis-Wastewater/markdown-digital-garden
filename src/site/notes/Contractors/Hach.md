@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contractors/hach/","created":"2025-01-02T09:00:30.559-06:00"}
+{"dg-publish":true,"permalink":"/contractors/hach/","noteIcon":"","created":"2025-01-02T09:00:30.559-06:00"}
 ---
 
 Recently merged with [[Contractors/Aquatic Informatics\|Aquatic Informatics]]

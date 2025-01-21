@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/iron-salt/","created":"2025-01-08T09:50:21.068-06:00"}
+{"dg-publish":true,"permalink":"/information-heap/iron-salt/","noteIcon":"","created":"2025-01-08T09:50:21.068-06:00"}
 ---
 
 At dewatering

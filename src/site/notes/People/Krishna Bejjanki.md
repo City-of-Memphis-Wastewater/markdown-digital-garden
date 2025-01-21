@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/krishna-bejjanki/","created":"2025-01-10T14:54:24.317-06:00"}
+{"dg-publish":true,"permalink":"/people/krishna-bejjanki/","noteIcon":"","created":"2025-01-10T14:54:24.317-06:00"}
 ---
 
 AKA: [[People/Krish\|Krish]]

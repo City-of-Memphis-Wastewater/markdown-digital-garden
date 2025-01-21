@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/kim-crawford/","created":"2025-01-07T08:44:45.318-06:00"}
+{"dg-publish":true,"permalink":"/people/kim-crawford/","noteIcon":"","created":"2025-01-07T08:44:45.318-06:00"}
 ---
 
 Maintenance foreman

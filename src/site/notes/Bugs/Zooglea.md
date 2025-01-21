@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bugs/zooglea/","created":"2025-01-02T10:32:34.963-06:00"}
+{"dg-publish":true,"permalink":"/bugs/zooglea/","noteIcon":"","created":"2025-01-02T10:32:34.963-06:00"}
 ---
 
 #bacteria

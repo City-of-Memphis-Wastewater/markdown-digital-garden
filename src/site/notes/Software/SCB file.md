@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/scb-file/","created":"2025-01-10T12:54:09.103-06:00"}
+{"dg-publish":true,"permalink":"/software/scb-file/","noteIcon":"","created":"2025-01-10T12:54:09.103-06:00"}
 ---
 
 String control byte .

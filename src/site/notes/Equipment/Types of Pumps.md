@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/types-of-pumps/","created":"2025-01-06T14:34:49.291-06:00"}
+{"dg-publish":true,"permalink":"/equipment/types-of-pumps/","noteIcon":"","created":"2025-01-06T14:34:49.291-06:00"}
 ---
 
 #pumps

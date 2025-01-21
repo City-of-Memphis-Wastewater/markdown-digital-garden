@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/aeration-basin/","created":"2025-01-15T13:31:36.629-06:00"}
+{"dg-publish":true,"permalink":"/equipment/aeration-basin/","noteIcon":"","created":"2025-01-15T13:31:36.629-06:00"}
 ---
 
 D.O. values are not reading consistently 

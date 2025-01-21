@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/08-january-2025/","created":"2025-01-08T13:39:35.663-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/08-january-2025/","noteIcon":"","created":"2025-01-08T13:39:35.663-06:00"}
 ---
 
 Goal: Every time I complete a report via my standard activity form, use power automate to generate a PDF report and also a markdown file.

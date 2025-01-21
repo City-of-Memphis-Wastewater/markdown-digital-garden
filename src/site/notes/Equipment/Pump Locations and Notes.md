@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/pump-locations-and-notes/","created":"2025-01-07T07:35:46.464-06:00"}
+{"dg-publish":true,"permalink":"/equipment/pump-locations-and-notes/","noteIcon":"","created":"2025-01-07T07:35:46.464-06:00"}
 ---
 
 Jargon

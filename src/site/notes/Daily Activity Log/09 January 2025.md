@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/09-january-2025/","created":"2025-01-09T09:13:11.169-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/09-january-2025/","noteIcon":"","created":"2025-01-09T09:13:11.169-06:00"}
 ---
 
 - [x] Change a screen to portrait mode, as a dedicated reading screen

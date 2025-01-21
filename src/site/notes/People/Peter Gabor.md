@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/peter-gabor/","created":"2025-01-13T11:03:29.065-06:00"}
+{"dg-publish":true,"permalink":"/people/peter-gabor/","noteIcon":"","created":"2025-01-13T11:03:29.065-06:00"}
 ---
 
 [[Contractors/Stantec\|Stantec]]

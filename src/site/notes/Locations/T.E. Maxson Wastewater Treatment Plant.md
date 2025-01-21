@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/t-e-maxson-wastewater-treatment-plant/","created":"2025-01-02T08:47:19.427-06:00"}
+{"dg-publish":true,"permalink":"/locations/t-e-maxson-wastewater-treatment-plant/","noteIcon":"","created":"2025-01-02T08:47:19.427-06:00"}
 ---
 
 [[Organizations/City of Memphis\|City of Memphis]]

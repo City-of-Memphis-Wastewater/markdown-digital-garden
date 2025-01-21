@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/21-january-2025/","created":"2025-01-21T07:56:09.490-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/21-january-2025/","noteIcon":"","created":"2025-01-21T07:56:09.490-06:00"}
 ---
 
 - [x] Create digital version of BioRem quiz 2 for Stacy Bullard : https://forms.office.com/g/iRuMPgQuwE

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/02-january-2025/","created":"2025-01-02T14:04:47.856-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/02-january-2025/","noteIcon":"","created":"2025-01-02T14:04:47.856-06:00"}
 ---
 
 - Punchlist walk with CDM Smith

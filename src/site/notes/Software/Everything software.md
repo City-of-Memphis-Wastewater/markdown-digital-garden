@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/everything-software/","created":"2025-01-10T14:04:48.438-06:00"}
+{"dg-publish":true,"permalink":"/software/everything-software/","noteIcon":"","created":"2025-01-10T14:04:48.438-06:00"}
 ---
 
 voidtools.com

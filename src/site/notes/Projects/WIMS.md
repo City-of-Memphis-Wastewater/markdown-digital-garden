@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/wims/","created":"2025-01-02T08:58:11.747-06:00"}
+{"dg-publish":true,"permalink":"/projects/wims/","noteIcon":"","created":"2025-01-02T08:58:11.747-06:00"}
 ---
 
 #projects

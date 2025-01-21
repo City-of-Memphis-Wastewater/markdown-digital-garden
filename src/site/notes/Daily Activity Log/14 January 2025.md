@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/14-january-2025/","created":"2025-01-14T07:03:13.758-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/14-january-2025/","noteIcon":"","created":"2025-01-14T07:03:13.758-06:00"}
 ---
 
 - [x] Check survey email from CoM IT

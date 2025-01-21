@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vocabulary/fog/","created":"2025-01-08T14:09:33.842-06:00"}
+{"dg-publish":true,"permalink":"/vocabulary/fog/","noteIcon":"","created":"2025-01-08T14:09:33.842-06:00"}
 ---
 
 Fats oils and greases

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/16-january-2025-tioga-stantec/","created":"2025-01-16T15:26:48.173-06:00"}
+{"dg-publish":true,"permalink":"/meetings/16-january-2025-tioga-stantec/","noteIcon":"","created":"2025-01-16T15:26:48.173-06:00"}
 ---
 
 Tioga is contracted to cleaning and calibration of S10 unit

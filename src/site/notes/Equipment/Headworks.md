@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/headworks/","created":"2025-01-10T15:38:31.007-06:00"}
+{"dg-publish":true,"permalink":"/equipment/headworks/","noteIcon":"","created":"2025-01-10T15:38:31.007-06:00"}
 ---
 
 Includes:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/centrifugal-non-clog-pump/","created":"2025-01-06T15:01:17.059-06:00"}
+{"dg-publish":true,"permalink":"/equipment/centrifugal-non-clog-pump/","noteIcon":"","created":"2025-01-06T15:01:17.059-06:00"}
 ---
 
 ![Pasted image 20250106150118.png](/img/user/Secondary/Images/Pasted%20image%2020250106150118.png)[https://youtu.be/FjMDemnQD_U](https://youtu.be/FjMDemnQD_U)

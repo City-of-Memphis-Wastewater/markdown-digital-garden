@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/15-january-2025/","created":"2025-01-15T08:18:48.566-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/15-january-2025/","noteIcon":"","created":"2025-01-15T08:18:48.566-06:00"}
 ---
 
 Hang out with [[People/Peter Gabor\|Peter Gabor]] from [[Contractors/Stantec\|Stantec]]

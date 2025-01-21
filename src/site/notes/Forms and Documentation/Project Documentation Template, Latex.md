@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forms-and-documentation/project-documentation-template-latex/","created":"2025-01-08T08:26:11.461-06:00"}
+{"dg-publish":true,"permalink":"/forms-and-documentation/project-documentation-template-latex/","noteIcon":"","created":"2025-01-08T08:26:11.461-06:00"}
 ---
 
 https://www.overleaf.com/7424888998crwzdvsptydg#c89a7f

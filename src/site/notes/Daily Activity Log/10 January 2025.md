@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/10-january-2025/","created":"2025-01-10T12:30:03.726-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/10-january-2025/","noteIcon":"","created":"2025-01-10T12:30:03.726-06:00"}
 ---
 
 I would like to make an IT request to:

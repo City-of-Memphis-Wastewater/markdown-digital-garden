@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/biogas-flare-reports/","created":"2025-01-02T14:30:50.346-06:00"}
+{"dg-publish":true,"permalink":"/projects/biogas-flare-reports/","noteIcon":"","created":"2025-01-02T14:30:50.346-06:00"}
 ---
 
 Redundant link; [[Projects/Biogas Flare Reports\|Biogas Flare Reports]]

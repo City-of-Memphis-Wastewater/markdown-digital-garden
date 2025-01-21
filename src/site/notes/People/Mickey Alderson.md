@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/mickey-alderson/","created":"2025-01-15T12:07:32.318-06:00"}
+{"dg-publish":true,"permalink":"/people/mickey-alderson/","noteIcon":"","created":"2025-01-15T12:07:32.318-06:00"}
 ---
 
 89666893

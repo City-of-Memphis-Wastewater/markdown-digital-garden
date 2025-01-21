@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/07-january-2025/","created":"2025-01-07T07:36:36.204-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/07-january-2025/","noteIcon":"","created":"2025-01-07T07:36:36.204-06:00"}
 ---
 
 - [x] Make map, list, and type of all pumps

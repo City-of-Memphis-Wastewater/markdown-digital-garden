@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-activity-log/17-january-2025/","created":"2025-01-17T06:59:51.322-06:00"}
+{"dg-publish":true,"permalink":"/daily-activity-log/17-january-2025/","noteIcon":"","created":"2025-01-17T06:59:51.322-06:00"}
 ---
 
 - [x] Install Blender from windows store

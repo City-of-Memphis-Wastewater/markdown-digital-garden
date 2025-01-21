@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/nonconnah-interceptor-sampling/","created":"2025-01-02T08:31:32.832-06:00"}
+{"dg-publish":true,"permalink":"/projects/nonconnah-interceptor-sampling/","noteIcon":"","created":"2025-01-02T08:31:32.832-06:00"}
 ---
 
 Contractors:

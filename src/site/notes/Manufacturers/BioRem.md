@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manufacturers/bio-rem/","created":"2025-01-10T15:13:40.644-06:00"}
+{"dg-publish":true,"permalink":"/manufacturers/bio-rem/","noteIcon":"","created":"2025-01-10T15:13:40.644-06:00"}
 ---
 
 In jargon, [[Manufacturers/BioRem\|BioRem]] is not the same as the [[Manufacturers/BioGas\|Manufacturers/BioGas]] system.

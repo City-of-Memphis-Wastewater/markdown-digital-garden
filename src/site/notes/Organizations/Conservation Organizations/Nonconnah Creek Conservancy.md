@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizations/conservation-organizations/nonconnah-creek-conservancy/","created":"2025-01-02T14:22:24.567-06:00"}
+{"dg-publish":true,"permalink":"/organizations/conservation-organizations/nonconnah-creek-conservancy/","noteIcon":"","created":"2025-01-02T14:22:24.567-06:00"}
 ---
 
 [Nonconnah.org](https://www.nonconnah.org/)

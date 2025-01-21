@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vocabulary/digital-twin/","created":"2025-01-07T08:58:25.958-06:00"}
+{"dg-publish":true,"permalink":"/vocabulary/digital-twin/","noteIcon":"","created":"2025-01-07T08:58:25.958-06:00"}
 ---
 
 [Urban digital twin | Hexagon](https://hexagon.com/go/sig/urban-digital-twin)

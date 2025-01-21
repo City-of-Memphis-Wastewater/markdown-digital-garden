@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/14-january-pete-gabor-stantec-emerson/","created":"2025-01-14T08:12:04.505-06:00"}
+{"dg-publish":true,"permalink":"/meetings/14-january-pete-gabor-stantec-emerson/","noteIcon":"","created":"2025-01-14T08:12:04.505-06:00"}
 ---
 
 [[Equipment/DCS\|Equipment/DCS]]: Distributed control system: Not the same as a PLC

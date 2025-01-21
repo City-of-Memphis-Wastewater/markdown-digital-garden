@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/christopher-puccio/","created":"2025-01-02T08:43:56.822-06:00"}
+{"dg-publish":true,"permalink":"/people/christopher-puccio/","noteIcon":"","created":"2025-01-02T08:43:56.822-06:00"}
 ---
 
 Employer: [[Contractors/Stantec\|Stantec]]
