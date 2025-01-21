@@ -19,7 +19,7 @@ Today's activities:
 - Enhance operation of my equipment
 
 Talking with [[People/Henry Nakayama\|Henry Nakayama]] about aluminum wiring Pros and Cons
-- #aluminum is [[Amphoteric\|Amphoteric]]
+- #aluminum is [[Information Heap/Amphoteric\|Amphoteric]]
 - aluminum loosens up over time and the contact points need to be tightened every ~2 years
 - more brittle
 - less corrosion
