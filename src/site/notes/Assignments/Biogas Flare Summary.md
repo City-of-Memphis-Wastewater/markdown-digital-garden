@@ -108,5 +108,7 @@ Learn from the big dogs:
 - Great example: [[Organizations/East Bay MUD\|East Bay MUD]]
 - To get an actual biogas reactor would cost 30+ million dollars
 - Agitate the lagoon with a [[Equipment/Submarine Drone\|equipment/Submarine Drone]]
+
 ////
+
 - [[Records/BioRem Logs 2022-2024\|Records/BioRem Logs 2022-2024]]
