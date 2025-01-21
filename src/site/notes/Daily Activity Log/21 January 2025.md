@@ -35,4 +35,6 @@ Health: I experienced minute jaw spasms at 12:43 PM. This was within an hour of 
 
 Meeting: [[Meetings/Evonik - 21 January 2025\|meetings/Evonik - 21 January 2025]]
 
-Here's another good Digital Garden projects: [[-/~EDAV Garden~\|~EDAV Garden~]]
+This site is a great example of an Obsidian-based markdown site generated using the [[-/Digital Garden plugin\|-/Digital Garden plugin]].
+
+Go to site: [EDAV Garden](https://edav-garden.netlify.app/)
