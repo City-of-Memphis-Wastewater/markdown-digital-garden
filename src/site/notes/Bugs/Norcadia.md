@@ -8,6 +8,5 @@ Filamentous
 Historically a problem
 Norcadia foam is great for tomato plants
 
-![[norcadia-stain.jfif]]
 
 ![norcadia brasiliensis.jpg](/img/user/Secondary/Images/norcadia%20brasiliensis.jpg)
