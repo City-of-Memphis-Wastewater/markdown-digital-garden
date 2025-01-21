@@ -35,4 +35,4 @@ Health: I experienced minute jaw spasms at 12:43 PM. This was within an hour of 
 
 Meeting: [[Meetings/Evonik - 21 January 2025\|meetings/Evonik - 21 January 2025]]
 
-Here's another good Digital Garden projects: [[-/EDAV Garden\|-/EDAV Garden]]
+Here's another good Digital Garden projects: [[-/~EDAV Garden~\|~EDAV Garden~]]
