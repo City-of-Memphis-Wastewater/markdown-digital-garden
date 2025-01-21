@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/contractors/stantec/","created":"2025-01-02T08:44:40.533-06:00"}
+---
+
+Contracted to help on [[Projects/WIMS\|WIMS]] contract.
+Point person: [[People/Peter Gabor\|Peter Gabor]]
+
+
+#contractor
+
+HQ Address:
+600 Grant Street Suite 4940  
+Pittsburgh PA 15219-2722

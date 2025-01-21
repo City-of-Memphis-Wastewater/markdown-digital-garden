@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/contractors/cdm-smith/","created":"2025-01-02T08:21:41.322-06:00"}
+---
+
+Primary contact: [[People/Brian Stacks\|Brian Stacks]]
+#contractor

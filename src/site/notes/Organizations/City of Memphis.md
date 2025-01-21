@@ -3,4 +3,4 @@
 ---
 
 Mayor [[People/Paul Young\|People/Paul Young]]
-[City of Memphis Public Works]([Environmental Engineering - The City of Memphis](https://www.memphistn.gov/environmental-engineering/))
+[City of Memphis Public Works](https://www.memphistn.gov/environmental-engineering/)

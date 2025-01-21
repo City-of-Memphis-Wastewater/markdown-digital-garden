@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/contractors/pro-tec/","created":"2025-01-16T15:21:53.214-06:00"}
+---
+
+Fiber contract with [[Organizations/City of Memphis\|City of Memphis]]
+#fiber

@@ -1,0 +1,51 @@
+---
+{"dg-publish":true,"permalink":"/daily-activity-log/15-january-2025/","created":"2025-01-15T08:18:48.566-06:00"}
+---
+
+Hang out with [[People/Peter Gabor\|Peter Gabor]] from [[Contractors/Stantec\|Stantec]]
+ - [x] Speak with [[People/Mickey Alderson\|People/Mickey Alderson]] ticket number:  **REQ0048802** [Request Summary - Service Portal](https://memphistn.service-now.com/sp?id=order_status&table=sc_request&sys_id=0f0518b63b039650ed83098c24e45abc)
+ - [x] ServiceNow ticket opened[^ServiceNow]  [[Assignments/EDS Static IP\|Assignments/EDS Static IP]]
+
+
+[^ServiceNow]: Message: *EDS Server needs to be assigned a static IP address, to improve remote monitoring and information access. This is for monitoring the Emerson Ovation system at the T.E. Maxson plant. Currently, the IP is in a DHCP subnet.*
+
+
+[[Projects/D.O. Sensor Auto-Purge\|D.O. Sensor Auto-Purge]] is already underway by [[Contractors/CDM Smith\|CDM Smith]], for new [[Equipment/Re-Aeration Basin\|Re-Aeration Basin]]and old [[Equipment/Aeration Basin\|Equipment/Aeration Basin]]
+
+
+OV115 book - Gary has it
+Who wiring our controller and wiring cabinets: [[Contractors/Electrical Corporation of America\|Electrical Corporation of America]]
+
+Goal: Start carrying around radio at all times.
+
+Instrumentation list, do we have one somewhere
+Create a matrix / registry of instruments - PDF
+
+Email from Henry: Subject: *RE: Kanguru Defender USB Flash Drive for Ovation Use* at 1:45 PM, Wednesday, 15 January
+- [ ] Order USB: [[Assignments/Kanguru USB Drive\|Kanguru USB Drive]]
+
+#dailylog 
+
+Local file sync, without power automate: 
+[FreeFileSync: Open Source File Synchronization & Backup Software](https://freefilesync.org/)
+
+Obsidian note pblishing
+- Create Vercel site for hosting my own Obsidian notes site. 
+- Alternatively: [Welcome to Quartz 4](https://quartz.jzhao.xyz/)
+- Zola: [GitHub - ppeetteerrs/obsidian-zola: A no-brainer solution to turning your Obsidian PKM into a Zola site.](https://github.com/ppeetteerrs/obsidian-zola)
+-
+
+C:\Users\george.bennett\OneDrive - City of Memphis\Documents\Dev\quartz\
+Use git-cmd at: C:\Users\george.bennett\AppData\Roaming\PortableGit\
+to run npm, in powershell use:
+- C:\Users\george.bennett\AppData\Local\node-v22.13.0-win-x64\node-v22.13.0-win-x64\npm install
+- C:\Users\george.bennett\AppData\Local\node-v22.13.0-win-x64\node-v22.13.0-win-x64\npx quartz create
+
+Gary says Pete should talk to Jack.
+
+Ovation tricks 
+- Print screen utility
+- Database comparison tool
+
+
+Assignment: [[Assignments/z-Email Brian Hilts\|z-Email Brian Hilts]]
