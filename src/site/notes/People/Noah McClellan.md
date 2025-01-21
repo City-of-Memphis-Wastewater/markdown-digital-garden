@@ -3,7 +3,7 @@
 ---
 
 Employer: [[Organizations/City of Memphis\|City of Memphis]]
-Primary engineering contact for [[Contractors/CDM Smith\|CDM Smith]] onsite at [[Locations/T.E. Maxson\|T.E. Maxson]]
-Previously was the Plant Engineer at [[Locations/T.E. Maxson\|T.E. Maxson]]
+Primary engineering contact for [[Contractors/CDM Smith\|CDM Smith]] onsite at [[Locations/T.E. Maxson Wastewater Treatment Plant\|T.E. Maxson Wastewater Treatment Plant]]
+Previously was the Plant Engineer at [[Locations/T.E. Maxson Wastewater Treatment Plant\|T.E. Maxson Wastewater Treatment Plant]]
 
 #people 
