@@ -3,9 +3,9 @@
 ---
 
 In jargon, [[Manufacturers/BioRem\|BioRem]] is not the same as the [[Manufacturers/BioGas\|Manufacturers/BioGas]] system.
-Both the [[Manufacturers/BioRem\|BioRem]] system and the [[Manufacturers/BioGas\|BioGas]] system handle [[Chemicals/biogasses\|biogasses]]
+Both the [[Manufacturers/BioRem\|BioRem]] system and the [[Manufacturers/BioGas\|BioGas]] system handle [[Chemicals/Biogasses\|Biogasses]]
 
-The bio-remediation system is installed at the lagoons to handled captured [[Chemicals/biogasses\|biogasses]]
+The bio-remediation system is installed at the lagoons to handled captured [[Chemicals/Biogasses\|Biogasses]]
 
 Look at:
 [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]]

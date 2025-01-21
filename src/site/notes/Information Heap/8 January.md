@@ -8,7 +8,7 @@ FOG disposal - landfill, biodiesel, soap manufactures, anaerobic digesters
 
 
 anaerobic digesters produce biogas
-Eastbay Mud in California has produced enough [[Chemicals/biogasses\|biogasses]] to be net zero
+Eastbay Mud in California has produced enough [[Chemicals/Biogasses\|Biogasses]] to be net zero
 They use the biogas to make CNG to power their vehicles, and burn it in a boiler to produce electricity
 CNG is 99% methane, and is gaseous
 Air to fuel ratio ideal air-to-cng is 30:1 (lean burn - burns a lot hotter)
