@@ -11,6 +11,7 @@
 - [x] Learning with Stacy Bullard
 - [ ] Order poster for activated sludge troubleshooting: [Activated Sludge Troubleshooting Guide | USABlueBook.com](https://www.usabluebook.com/activated-sludge-troubleshooting-guide-70245), [Tetra-Tech-Technical-Products-Wastewater.pdf](https://www.tetratech.com/wp-content/uploads/2025/01/Tetra-Tech-Technical-Products-Wastewater.pdf)
 - [x] Lubricate lab cart wheels, to resolve squeaking
+- [ ] Activate digital garden site: [Welcome to Maxson](https://markdown-digital-garden-git-main-clayton-bennetts-projects.vercel.app/)
 
 
 BioRem
