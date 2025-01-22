@@ -15,7 +15,7 @@ Work from home today
 - [x] Communicate with Matthew East, [[People/Peter Gabor\|Peter Gabor]], et al, about Teams meeting for (Th 23 Jan) or (F 24 Jan)
 - [x] Try to edit [[-/~Welcome to Maxson~\|~Welcome to Maxson~]] by uploading this new file direcly to GitHub, via Edge browser login.
 - [ ] Consider using a GitHub branch for manual browser editng, rather than commiting directly to Main.
-- [x] Discover Digital Garden syntax for propertly editing raw MD to propagate links %%[[folder/notename\|notename]]%%
+- [x] Discover Digital Garden syntax for propertly editing raw MD to propagate links %%example syntax failure%%
 
 If i can put the app data for Obsidian on my work computer in a OneDrive location (my Files/Apps), then i should be able to sync my Obsidian settings across a remote instance.
 Really, I just need to be able to run "Publish" on the Digital Garden plugin in my Obsidian instance at work
