@@ -1,6 +1,9 @@
 ---
 dg-publish: true
 dg-home: false
+permalink:	/daily-activity-log/21-january-2025/
+noteIcon:	
+created: 2025-01-21T07:56:09.490-06:00
 ---
 Work from home today
 
