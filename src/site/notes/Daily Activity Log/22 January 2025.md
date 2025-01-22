@@ -3,7 +3,7 @@ dg-publish: true
 dg-home: false
 permalink:	/daily-activity-log/22-january-2025/
 noteIcon:	
-created: 2025-01-21T07:56:09.490-06:00
+created: 2025-01-22T07:56:09.490-06:00
 ---
 Work from home today
 
@@ -29,5 +29,7 @@ permalink:	/daily-activity-log/22-january-2025/ ~~*(example)*~~
 noteIcon:	
 created: 2025-01-22T07:56:09.490-06:00 ~~*(example)*~~
 I think only the permalink is truly necessary. Otherwise the note will manifest as the homepage. 
+Update: Actually, use brackets: {"dg-publish":true,"permalink":"/daily-activity-log/17-january-2025/","noteIcon":"","created":"2025-01-17T06:59:51.322-06:00"}
+Low priority, but cool: Find some awesome note icons
 
 I'm curious to see what happens back at base, especially when the github-edited file differs from the OneDrive file.
