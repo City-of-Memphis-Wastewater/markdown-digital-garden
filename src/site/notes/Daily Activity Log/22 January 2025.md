@@ -12,8 +12,8 @@ Work from home today
 - [x] Set up Edge browser for remote access
 - [x] Access and edit Obsidian notes remotely, via OneDrive
 ~~- [ ] Toggle Publish, to sync to *Maxson-Engineering-Notes*~~
-- [x] Communicate with Matthew East, [[people/Pete Gabor]], et al, about Teams meeting for (Th 23 Jan) or (F 24 Jan)
-- [x] Try to edit [[-/~Welcome to Maxson~]] by uploading this new file direcly to GitHub, via Edge browser login.
+- [x] Communicate with Matthew East, [[/people/Pete Gabor]], et al, about Teams meeting for (Th 23 Jan) or (F 24 Jan)
+- [x] Try to edit [[/-/~Welcome to Maxson~]] by uploading this new file direcly to GitHub, via Edge browser login.
 - [ ] Consider using a GitHub branch for manual browser editng, rather than commiting directly to Main.
 
 If i can put the app data for Obsidian on my work computer in a OneDrive location (my Files/Apps), then i should be able to sync my Obsidian settings across a remote instance.
