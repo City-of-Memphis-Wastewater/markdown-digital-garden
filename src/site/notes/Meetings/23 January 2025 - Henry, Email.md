@@ -1,6 +1,8 @@
 ---
-{"dg-publish:true,"dg-home":false,"permalink":"/Meetings/23-january-2025-henry-email/","noteIcon":"",	"created":"2025-01-23T06:56:09.490-06:00"}
+{"dg-publish:true,"permalink":"/meetings/23-january-2025-henry-email/","noteIcon":"","created":"2025-01-23T06:56:09.490-06:00"}
 ---
+
+
 Email from [[/People/Henry Nakayama\|Henry Nakayama]]
   **Hi Clayton, your Obsidian map and nodes shows you have been doing a lot of reading on subjects that are germane to plant operations, issues, and future upgrades. I went on a few of your trails, and I have the following comments.**
 
