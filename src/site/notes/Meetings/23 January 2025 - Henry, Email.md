@@ -1,5 +1,5 @@
 ---
-{"dg-publish:true,"permalink":"/meetings/23-january-2025-henry-email/","noteIcon":"","created":"2025-01-23T06:56:09.490-06:00"}
+{"dg-publish":true,"permalink":"/meetings/23-january-2025-henry-email/","noteIcon":"","created":"2025-01-23T14:07:07.071-06:00"}
 ---
 
 
