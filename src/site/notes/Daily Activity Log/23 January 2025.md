@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-home: false
-permalink:	/daily-activity-log/23-january-2025/
+permalink:	/Emails/23-january-2025/
 noteIcon:	
 created: 2025-01-23T06:56:09.490-06:00
 ---
