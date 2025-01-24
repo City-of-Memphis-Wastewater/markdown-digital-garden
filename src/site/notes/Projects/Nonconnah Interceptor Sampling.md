@@ -3,7 +3,7 @@
 ---
 
 Contractors:
-- [[Contractors/Malasari Engineering PLLC\|Malasari Engineering PLLC]]
+- [[Contractors/Malasari Engineering\|Malasari Engineering]]
 - [[Contractors/AECOM\|AECOM]]
 - [[Contractors/RJN\|RJN]]
 - [[Contractors/Tioga Environmental\|Tioga Environmental]]
