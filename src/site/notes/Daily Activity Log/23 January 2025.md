@@ -11,8 +11,11 @@
 - [x] Receive [[Assignments/Kanguru USB Drive\|Kanguru USB Drive]]
 - [x] Discuss digesters and activated carbon systems with Stacy and Mike
 - [x] Send [[Pete Gabor\|Pete Gabor]] the information he requested
-- [ ] Check access to CDM's Bentley records
-- [ ] Free CAD! for better moving-part modelling of the plant 
+- [x] Check access to CDM's Bentley records : [[Emails/Bentley Access - 9 January 2025\|Bentley Access - 9 January 2025]]
+- [x] Free CAD! for better moving-part modelling of the plant 
 
 Persistent disk management, particularly for the fourth persistent drive as well as for the:
 https://chatgpt.com/share/6792b3dc-f514-8001-9699-c151c7aed6bb
+
+
+Tomorrow: [[Daily Activity Log/24 January 2025\|24 January 2025]]

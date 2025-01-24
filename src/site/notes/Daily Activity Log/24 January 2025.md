@@ -13,4 +13,7 @@ In [[software/FreeCAD\|software/FreeCAD]], identify jargon:
 - Can I drive Placement using Python?
 - "Apply incremental": [How to simply use: Placement "Apply incremental" [Python] - FreeCAD Forum](https://forum.freecad.org/viewtopic.php?t=2530)
 - "Expressions": [Expressions - FreeCAD Documentation](https://wiki.freecad.org/Expressions)
-- 
+- "Simulation": [Freecad: Spring animation / simulation in Python. Beginners guide to macro programming / scripting](https://www.youtube.com/watch?v=1T8znLnUBYM&t=5s)
+
+![Pasted image 20250124131430.png](/img/user/Pasted%20image%2020250124131430.png)
+

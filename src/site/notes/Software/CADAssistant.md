@@ -14,3 +14,4 @@ Check out this neat feature in [[Software/Obsidian\|Obsidian]], to show nested t
 Each new entry is differentiated automatically using number, which comes after the defined name, with a space between the name and the numeric iterator. '
 Like this: *cad-assistant 3*
 
+Animation example: [Robot in CAD Assistant application](https://www.youtube.com/watch?v=fv_OtzXiq7M&t=18s)
