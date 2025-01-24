@@ -3,10 +3,16 @@
 ---
 
 ---
-- [x] Meeting with [[People/Peter Gabor\|Peter Gabor]] and Matthew East: [[Meeting/EDS Server - 23 January 2025\|Meeting/EDS Server - 23 January 2025]]
+- [x] Meeting with [[People/Peter Gabor\|Peter Gabor]] and Matthew East: [[Meetings/EDS Server - 23 January 2025\|EDS Server - 23 January 2025]]
 - [x] Start new ticket for data loss issue, beyond **REQ0048802**. 
 - [x] Migrate offshore notes - download md files from GitHub, add to Vault in browser 
-- [ ] Make IT request to show file extensions in browser
+- [x] Make IT request to show file extensions in browser: Not necessary, changed the setting manually in GUI, via searchbar "Show file extrensions"
 - [x] meet with Krish, Don, Mike, Henry, and Stacy to discuss Hexagon system migration and expectations. The [[Manufacturers/BioRem\|BioRem]] system should be used in Hexagon in an ideal fashion such that all other systems can aspire to converge upon ideal operation. 
 - [x] Receive [[Assignments/Kanguru USB Drive\|Kanguru USB Drive]]
 - [x] Discuss digesters and activated carbon systems with Stacy and Mike
+- [x] Send [[Pete Gabor\|Pete Gabor]] the information he requested
+- [ ] Check access to CDM's Bentley records
+- [ ] Free CAD! for better moving-part modelling of the plant 
+
+Persistent disk management, particularly for the fourth persistent drive as well as for the:
+https://chatgpt.com/share/6792b3dc-f514-8001-9699-c151c7aed6bb
