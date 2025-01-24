@@ -18,3 +18,4 @@ In [[software/FreeCAD\|software/FreeCAD]], identify jargon:
 ![Pasted image 20250124131430.png](/img/user/Pasted%20image%2020250124131430.png)
 
 Discuss [[Assignments/Purafil Unit in Admin Furnace Room Louvre\|Purafil Unit in Admin Furnace Room Louvre]] with [[People/Henry Nakayama\|Henry Nakayama]]
+Also add as assignment: [[Assignments/Air Permit, Tioga Oversight\|Air Permit, Tioga Oversight]]

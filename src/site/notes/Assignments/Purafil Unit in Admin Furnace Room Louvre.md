@@ -9,3 +9,5 @@ Created: [[Daily Activity Log/24 January 2025\|24 January 2025]]
 
 Is there money in the budget this year? Talk to [[People/Mars\|Mars]]. Or FY26.
 We need to get that in ASAP or else all equipment in the mechanical room will be toast within three years, and the PLC's in the control room are at risk as well.
+
+Within the next 10 days

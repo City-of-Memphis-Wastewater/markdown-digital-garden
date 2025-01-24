@@ -4,7 +4,7 @@
 
 Hang out with [[People/Peter Gabor\|Peter Gabor]] from [[Contractors/Stantec\|Stantec]]
  - [x] Speak with [[People/Mickey Alderson\|People/Mickey Alderson]] ticket number:  **REQ0048802** [Request Summary - Service Portal](https://memphistn.service-now.com/sp?id=order_status&table=sc_request&sys_id=0f0518b63b039650ed83098c24e45abc)
- - [x] ServiceNow ticket opened[^ServiceNow]  [[Assignments/EDS Static IP\|Assignments/EDS Static IP]]
+ - [x] ServiceNow ticket opened[^ServiceNow]  [[Assignments/z-EDS Static IP\|z-EDS Static IP]]
 
 
 [^ServiceNow]: Message: *EDS Server needs to be assigned a static IP address, to improve remote monitoring and information access. This is for monitoring the Emerson Ovation system at the T.E. Maxson plant. Currently, the IP is in a DHCP subnet.*
@@ -22,7 +22,7 @@ Instrumentation list, do we have one somewhere
 Create a matrix / registry of instruments - PDF
 
 Email from Henry: Subject: *RE: Kanguru Defender USB Flash Drive for Ovation Use* at 1:45 PM, Wednesday, 15 January
-- [ ] Order USB: [[Assignments/Kanguru USB Drive\|Kanguru USB Drive]]
+- [ ] Order USB: [[Assignments/z-Kanguru USB Drive\|z-Kanguru USB Drive]]
 
 #dailylog 
 
