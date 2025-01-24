@@ -3,11 +3,15 @@
 ---
 
 Project: [[Projects/Biogas Flare Reports\|Biogas Flare Reports]]
-Deliver to Don a summary of all operation activities for [[Manufacturers/BioRem\|BioRem]] for 2023 and 2024.
+Deliver to Don a summary of all operation activities for [[Systems/BioRem\|BioRem]] for 2023 and 2024.
 Customer: in house
 Purpose: Documentation, standardization, iterative improvement
 #deadline: 30 January 2025
 #assignment 
+
+
+Audio info from [[people/Rodney Williams\|people/Rodney Williams]]: (C:\Users\george.bennett\OneDrive - City of Memphis\Documents\Projects\0000-Maxson\2023-2024 BioRem Activity\Rodney Williams - BioRem Maintenance 2023-2024.m4a - Shortcut)
+
 
 [[People/Don Hudgins\|Don Hudgins]]
 *George, you should be able to get the maintenance data from Krishna regarding Hexagon data. He may need your guidance how to identify it in the system. Check with Mike Brower for any log books that can be reviewed for Biorem activities so you can start getting up to speed. My other email should explain some of the big picture related to this project. Thanks for your assistance! -* 
@@ -15,8 +19,8 @@ Purpose: Documentation, standardization, iterative improvement
 - [x] Ask Mike for log books, to review BioRem activites
 - [x] Mike said to ask [[People/Chris Luss\|Chris Luss]] for log books
 - [x] Speak to Krish about BioRem maintenance data in the Hexagon records - he is working on it
-- [ ] Recieve [[Manufacturers/BioRem\|BioRem]] system maintenance data from Krish via [[Software/Hexagon\|Hexagon]] 
-- [ ] Check weekly [[Contractors/Tioga Environmental\|Tioga Environmental]] field reports on Sharepoint for [[Manufacturers/BioRem\|BioRem]]
+- [ ] Recieve [[Systems/BioRem\|BioRem]] system maintenance data from Krish via [[Software/Hexagon\|Hexagon]] 
+- [ ] Check weekly [[Contractors/Tioga Environmental\|Tioga Environmental]] field reports on Sharepoint for [[Systems/BioRem\|BioRem]]
 	- [ ] [OneDrive](https://memphistngov-my.sharepoint.com/shared?id=%2Fsites%2FPWe%2FEnvironmentalMaintenancePlant%2FShared%20Documents%2FTEM%20Biorem%20Reports&listurl=https%3A%2F%2Fmemphistngov%2Esharepoint%2Ecom%2Fsites%2FPWe%2FEnvironmentalMaintenancePlant%2FShared%20Documents)
 - [x] Get Consumables for maintenance list from [[People/Carlton Mull\|Carlton Mull]]: "Equipment, Instrumentation & Spare Parts Catalogue"
 
@@ -89,7 +93,7 @@ Automation operating: flow meters to trigger a sump, talk to Mike
 
 Filters for sensor
 /////
-[[People/Chris Luss\|Chris Luss]] says that the [[Manufacturers/BioRem\|BioRem]] system has already been winterized as of early December - it is drained of water and there should be no issues
+[[People/Chris Luss\|Chris Luss]] says that the [[Systems/BioRem\|BioRem]] system has already been winterized as of early December - it is drained of water and there should be no issues
 ////
 
 Learn from the big dogs:

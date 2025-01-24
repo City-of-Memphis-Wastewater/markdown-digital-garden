@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contractors/stantec/","noteIcon":"","created":"2025-01-02T08:44:40.533-06:00"}
 ---
 
-Contracted to help on [[Projects/WIMS\|WIMS]] contract.
+Contracted to help on [[Assignments/Hach WIMS Improvements\|Hach WIMS Improvements]] contract.
 Point person: [[People/Peter Gabor\|Peter Gabor]]
 
 

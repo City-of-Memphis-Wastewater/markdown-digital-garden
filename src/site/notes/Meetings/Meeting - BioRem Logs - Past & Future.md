@@ -73,7 +73,7 @@ Look at equipment ID's in Ovation (points) for BioRem equipment
 
 RFID tagging / QR code tagging for spares, consumables, etc
 ![Pasted image 20250123124915.png](/img/user/Pasted%20image%2020250123124915.png)
-Strictly maintenance, operators will not benefit directly from the Hexagon system - but they can benefit from the [[Contractors/Hach\|Hach]] [[Projects/WIMS\|WIMS]] interface (which will talk to Hexagon)
+Strictly maintenance, operators will not benefit directly from the Hexagon system - but they can benefit from the [[Contractors/Hach\|Hach]] [[Assignments/Hach WIMS Improvements\|Hach WIMS Improvements]] interface (which will talk to Hexagon)
 Operators will be able to enter work request, but will live mostly/entirely on paper:
 
 Goal for Hexagon:

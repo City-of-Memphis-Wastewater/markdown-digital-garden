@@ -6,5 +6,5 @@
 ![[Email-13January2025-Plant-visit-Peter-gabor.pdf]]
 
 - [ ] Call / email / find Chris Luss
-- [ ] Find log books for [[Manufacturers/BioRem\|BioRem]] activity
+- [ ] Find log books for [[Systems/BioRem\|BioRem]] activity
 #dailylog

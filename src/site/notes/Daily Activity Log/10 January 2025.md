@@ -38,7 +38,7 @@ Assignments:
 	- Email excerpt:
 		- *I need two things from your guys:*
 			*1) a printout from Hexagon showing all maintenance activities done on the Biorem for 2023 and 2024, and 
-			*2) a summary of all operation activities for [[Manufacturers/BioRem\|BioRem]] for 2023 and 2024.*
+			*2) a summary of all operation activities for [[Systems/BioRem\|BioRem]] for 2023 and 2024.*
 			Deadline; 30 January 2025
 - Make a report to IT, to request my firewall is changed so that I can  access the internet on [[COM184025\|COM184025]]
 - Please install the Enhanced Markdown plugin  as well as the Natural Language plugin for [[Software/Obsidian\|Obsidian]]

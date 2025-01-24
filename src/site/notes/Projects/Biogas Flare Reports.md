@@ -35,6 +35,6 @@ backwash the filter media.*
 
 
 # Responsibilities
-[[People/Krish\|Krish]] has stated that he will:  *compile the maintenance activities report for the [[Manufacturers/BioRem\|BioRem]] system for 2....*
+[[People/Krish\|Krish]] has stated that he will:  *compile the maintenance activities report for the [[Systems/BioRem\|BioRem]] system for 2....*
 
 [[FailureModes/Sulfur\|FailureModes/Sulfur]] is the enemy.

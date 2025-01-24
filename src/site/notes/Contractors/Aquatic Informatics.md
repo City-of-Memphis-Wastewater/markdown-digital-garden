@@ -3,7 +3,7 @@
 ---
 
 [Aquatic Informatics | Water Data Management Software](https://aquaticinformatics.com/)
-[[Projects/WIMS\|WIMS]] project
+[[Assignments/Hach WIMS Improvements\|Hach WIMS Improvements]] project
 Recently merged with [[Contractors/Hach\|Hach]]
 Foot print in New Zealand [[Vocabulary/NIWA\|NIWA]]
 
