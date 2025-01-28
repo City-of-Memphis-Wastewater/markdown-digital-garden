@@ -6,7 +6,7 @@ Goal: Every time I complete a report via my standard activity form, use power au
 #dailylog 
 Also create a meeting form.
 
-- [] Email quiz to Gary
+- [x] Email quiz to Gary
 
 Today's activities:
 - Meet with Carl
