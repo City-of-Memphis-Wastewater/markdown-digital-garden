@@ -4,11 +4,10 @@
 
 Work from home today
 
-
 - [x] Order #coveralls, to enhance my ability and willingness to go to #thefield
 - [x] Set up Edge browser for remote access
 - [x] Access and edit Obsidian notes remotely, via OneDrive
-- [ ] Toggle Publish, to sync to [Maxson-Engineering-Notes](https://markdown-digital-garden-git-main-clayton-bennetts-projects.vercel.app/) - i dont think this will be possible, though a duplicated fine-grain token might do it
+- [x] Toggle Publish, to sync - i dont think this will be possible, though a duplicated fine-grain token might do it
 - [x] Communicate with Matthew East, [[people/Pete Gabor\|people/Pete Gabor]], et al, about Teams meeting for (Th 23 Jan) or (F 24 Jan)
 - [x] Try to edit [[-/~Welcome to Maxson~\|-/~Welcome to Maxson~]] by uploading this new file direcly to GitHub, via Edge browser login. Success, GitHub login is enough, Edge not necessary. though it is ideal for sandboxing.
 
