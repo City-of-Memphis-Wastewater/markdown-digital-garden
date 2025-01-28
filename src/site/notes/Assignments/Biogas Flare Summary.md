@@ -19,7 +19,7 @@ Audio info from [[people/Rodney Williams\|people/Rodney Williams]]: (C:\Users\ge
 - [x] Ask Mike for log books, to review BioRem activites
 - [x] Mike said to ask [[People/Chris Luss\|Chris Luss]] for log books
 - [x] Speak to Krish about BioRem maintenance data in the Hexagon records - he is working on it
-- [ ] Recieve [[Systems/BioRem\|BioRem]] system maintenance data from Krish via [[Software/Hexagon\|Hexagon]] 
+- [x] Recieve [[Systems/BioRem\|BioRem]] system maintenance data from Krish via [[Software/Hexagon\|Hexagon]] - does not exist, Krish will create the system
 - [ ] Check weekly [[Contractors/Tioga Environmental\|Tioga Environmental]] field reports on Sharepoint for [[Systems/BioRem\|BioRem]]
 	- [ ] [OneDrive](https://memphistngov-my.sharepoint.com/shared?id=%2Fsites%2FPWe%2FEnvironmentalMaintenancePlant%2FShared%20Documents%2FTEM%20Biorem%20Reports&listurl=https%3A%2F%2Fmemphistngov%2Esharepoint%2Ecom%2Fsites%2FPWe%2FEnvironmentalMaintenancePlant%2FShared%20Documents)
 - [x] Get Consumables for maintenance list from [[People/Carlton Mull\|Carlton Mull]]: "Equipment, Instrumentation & Spare Parts Catalogue"
@@ -116,3 +116,5 @@ Learn from the big dogs:
 ////
 
 - [[Records/BioRem Logs 2022-2024\|Records/BioRem Logs 2022-2024]]
+///
+Plan now: Use the information from Rodney Williams to create a list like:

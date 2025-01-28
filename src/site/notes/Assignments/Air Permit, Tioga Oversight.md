@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/assignments/air-permit-tioga-oversight/","noteIcon":"","created":"2025-01-24T14:54:33.680-06:00"}
 ---
 
-#assignment 
+#assignment : Read the air permit, get in touch with Tioga ("ask five good questions")
 
 Communicated by [[People/Henry Nakayama\|Henry Nakayama]]
 
@@ -18,3 +18,4 @@ At the end we have a flow meter of how much gas is going into the flares themsel
 Fire arrestors prevent flame from going into the system. The [[Equipment/Fire Arrestors\|Equipment/Fire Arrestors]] themselves burned out due to excessive heat and excessive oxygen. #failuremode. Fire arrestors #1 and #3 were replaced within the 2023-2024 period (citation [[people/Rodney Williams\|people/Rodney Williams]]).
 
 
+#assignment

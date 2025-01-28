@@ -8,6 +8,12 @@
 	- [x] Emerson: Send materials
 	- [ ] City of Memphis Training flyer - sign up for "Time Management" (Zoom) class on Feb 12 and for "Emotional Intelligence" (in person at city hall) on Feb 13, by contacting OTDCOM@MEMPHISTN.GOV - all courses must be approved by supervisor.
 	- [ ] Try to use [[sofware/EDS Excel plugin\|sofware/EDS Excel plugin]] from [[People/Matt Dannemueller\|People/Matt Dannemueller]]
+	- [ ] Read Lagoon 5 Project files from [[people/Mike Brower\|Mike Brower]] - it will be a covered lagoon
 
-- [ ] Write up spreadsheet for [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]] as per [[people/Rodney Williams\|people/Rodney Williams]]
+- [x] Write up draft spreadsheet for [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]] as per [[people/Rodney Williams\|people/Rodney Williams]]. Find example: [[2024 Annual accomplishment report.xlsx\|2024 Annual accomplishment report.xlsx]]. Additional reference:  TEM BioRem Data-Calcs v2.
+	- [x] Send draft to Don
+	- [ ] Find Rodney Williams, laptop in hand, to specify month estimations for each item. Also improve wording specificity.
 - [x] Check OV100 schedule with [[People/Krish\|Krish]]: Starts at 9 AM on 3rd February. Mail materials. Contact person: Kristen at pws.education@emerson.com.
+- [ ] Talk to [[People/Gary Garrison\|Gary Garrison]] about [[Assignments/Purafil Unit in Admin Furnace Room Louvre\|Purafil Unit in Admin Furnace Room Louvre]]
+- [x] Sit in on [[Government/TAUD\|TAUD]] course in the conference room.
+- [x] Register Kanguru FlashTrust drive for support and warranty, at kanguru.com/pages/register
