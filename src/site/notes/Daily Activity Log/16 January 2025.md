@@ -3,7 +3,7 @@
 ---
 
 #dailylog 
-- [ ] Get EDS system accessed for configuration - ticket number **REQ0048836**]: [Request Summary - Service Portal](https://memphistn.service-now.com/sp?id=order_status&table=sc_request&sys_id=9463914b3b035210191ac8c5e4e45aba)) 
+- [x] Get EDS system accessed for configuration - ticket number **REQ0048836**]: [Request Summary - Service Portal](https://memphistn.service-now.com/sp?id=order_status&table=sc_request&sys_id=9463914b3b035210191ac8c5e4e45aba)) 
 - [ ] Get 3D image of all locations and cabinets
 - [ ] Link Ovation alarms to PM's in Hexagon
 - [ ] Map out a data structure

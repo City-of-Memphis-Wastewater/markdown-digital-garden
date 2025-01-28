@@ -11,3 +11,5 @@ Point person: [[People/Peter Gabor\|Peter Gabor]]
 HQ Address:
 600 Grant Street Suite 4940  
 Pittsburgh PA 15219-2722
+
+Stantec Vice President: [[People/John Abrera\|John Abrera]]
