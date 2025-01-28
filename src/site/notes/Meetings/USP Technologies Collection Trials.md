@@ -9,3 +9,12 @@ Keywords:
 
 Key question:
 - What is the ideal interval for caustic shocking?
+
+People:
+- Michael Fagan
+- Sammy Kohl
+- Michael Ratley
+
+Get pH higher to mitigate corrosion, then hit it with peroxide for headworks
+
+Remove sulfur in influent.
