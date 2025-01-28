@@ -4,7 +4,7 @@
 
 - Meeting: [[Meetings/USP Technologies Collection Trials\|USP Technologies Collection Trials]]
 	- There is an attempt to control the pH from [[Industry/Solae\|Solae]], so that less hydrogen sulfide builds up by the time it reaches the plant interceptor
-- Discuss Purafil units with [[people/Mike\|people/Mike]]
+- Discuss Purafil units with [[people/Mike Brower\|people/Mike Brower]], to mitigate further corrosion caused by the open window in the Maxson Admin building furnace room.
 - Sit in on [[Government/TAUD\|TAUD]] operator training, Fundamentals of Wastewater:
 	- Source text: Wastewater Treatment Study Guide, 3rd Edition
 	- Organized by [[people/Sam Jenkins\|people/Sam Jenkins]] and [[People/Stacy Bullard\|Stacy Bullard]]
