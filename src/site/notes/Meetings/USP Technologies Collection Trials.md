@@ -20,3 +20,6 @@ People:
 Get pH higher to mitigate corrosion, then hit it with peroxide for headworks
 
 Remove sulfur in influent.
+
+
+PDF from USP:![[USP - Memphis Collections Proposal - Peroxide and Caustic 1-27-25.pdf]]
