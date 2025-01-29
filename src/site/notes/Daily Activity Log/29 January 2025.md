@@ -24,3 +24,8 @@
 	- OR, convert the single sheet to many sheets, is how you could get this to work, with relevant group and subgroup names in the filenames. These could be in a meta data row in the single-sheet version.
 - [ ] Send email to Giovanni at Emerson about "EDS archive" function failures, check syntax
 - [ ] Find [[People/Rodney Williams\|Rodney Williams]] at Lagoons and ask to see log book again
+- [ ] Adjust Digital Garden style
+	- Ars Magna was good but I don't like how it shows text boxes
+	- Consolas is good in every way (bullets, aesthetic, color) except for the yellow headings
+	- Attempted to override colors in github, no luck
+	- Cobalt Peacock has a lot of good things going for it but the font isnt ideal. Busy.
