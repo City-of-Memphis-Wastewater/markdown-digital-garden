@@ -15,6 +15,10 @@
 		 - [x] Look for the mechanical plans: Sheet  M0.0 
 	- [x] Subject: EDS Excel Plug in download
 		- [x] Launch plugin (EDS92ExcelAddin-64bit-rel.9.2.1.1.msi), using PDF directions (pws_010134-Excel Plugin.pdf)
+	- [ ] [[People/Peter Gabor\|Peter Gabor]],[[Contractors/Stantec\|Stantec]]: [[Emails/Maxson EDS Synchronization and PAA Points - 29 January 2025\|Emails/Maxson EDS Synchronization and PAA Points - 29 January 2025]] 
 		
 - [ ] Practice using [[Software/Overleaf\|Overleaf]] - convert REV_TEM Semi-Annual Report Dec 2024_no PDF.docx
 - [x] Meet with [[People/John Abrera\|John Abrera]] to configure and use the EDS Excel plugin
+- [ ] Use [[Software/Pavlov 3D\|Pavlov 3D]] to generate some graphs from historic EDS data, using the right click Insert Tabular Trend in Excel. We want to see a single sheet, with a time column and then height from several "height" columns
+	- This invites grouping beyond the filename;
+	- OR, convert the single sheet to many sheets, is how you could get this to work, with relevant group and subgroup names in the filenames. These could be in a meta data row in the single-sheet version.
