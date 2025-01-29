@@ -25,7 +25,9 @@
 - [ ] Send email to Giovanni at Emerson about "EDS archive" function failures, check syntax
 - [ ] Find [[People/Rodney Williams\|Rodney Williams]] at Lagoons and ask to see log book again
 - [ ] Adjust Digital Garden style
-	- Ars Magna was good but I don't like how it shows text boxes
-	- Consolas is good in every way (bullets, aesthetic, color) except for the yellow headings
-	- Attempted to override colors in github, no luck
-	- Cobalt Peacock has a lot of good things going for it but the font isnt ideal. Busy.
+	- *Ars Magna* was good but I don't like how it shows text boxes
+	- *Consolas* is good in every way (bullets, aesthetic, color) except for the yellow headings
+	- [x] Attempted to override colors in GitHub, no luck
+	- *Cobalt Peacock* has a lot of good things going for it but the font isn't ideal. Busy.
+	- *Pxld* looks cool but in unprofessional and unreadable
+	- The [original Digital Garden]([04 Appearance Settings](https://dg-docs.ole.dev/getting-started/04-appearance-settings/)) site uses *Red Graphite*, which is not red at all and looks great 
