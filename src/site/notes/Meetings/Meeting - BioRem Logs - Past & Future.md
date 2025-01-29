@@ -17,7 +17,7 @@ Maintenance can log activity with appropriate
 
 [[People/Krish\|Krish]]:
 Show screenshare of Hexagon
-Discussion with [[people/Rodney Williams\|people/Rodney Williams]]
+Discussion with [[People/Rodney Williams\|people/Rodney Williams]]
 Identify communication failure modes #failuremode , when information is not passed into the system.
 Manual notebook (will use in future) needs to be data-entry-ed to Hexagon.
 

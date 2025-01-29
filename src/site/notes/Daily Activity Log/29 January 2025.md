@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/daily-activity-log/29-january-2025/","noteIcon":"","created":"2025-01-29T07:31:08.245-06:00"}
+---
+
+#dailylog 
+- [x] Check email
+	- [ ] Subject: T.E. Maxson Semi-Annual Report & ACC Review
+		- [ ] Read File: REV_TEM Semi-Annual Report Dec 2024_no PDF.docx
+		- [ ] Read File: TEM ACC SCHD and EPA Cover Letters Dec 2024.docx
+		- [ ] Characterize tone and content of correspondence between [[People/Margaret Strom\|Margaret Strom]], [[People/Henry Nakayama\|Henry Nakayama]], and [[People/Don Hudgins\|Don Hudgins]]: [[Email/T.E. Maxson Semi-Annual Report & ACC Review - 29 January 2025\|Email/T.E. Maxson Semi-Annual Report & ACC Review - 29 January 2025]]
+	- [x] Subject: Admin Building fresh air
+		1. Mike Gross from CS3 will come out today (28 January 2024)
+		2. Ideally the  mechanical plans will be located, to determine the CFM of combustion air needed. If not, the CFM design can be based on the BTUH input of the furnaces / gas appliances.
+		3. Design a scrubbing unit.
+		 - [x] Look for the mechanical plans: Sheet  M0.0 
+	- [x] Subject: EDS Excel Plug in download
+		- [x] Launch plugin (EDS92ExcelAddin-64bit-rel.9.2.1.1.msi), using PDF directions (pws_010134-Excel Plugin.pdf)
+		
+- [ ] Practice using [[Software/Overleaf\|Overleaf]] - convert REV_TEM Semi-Annual Report Dec 2024_no PDF.docx
+- [x] Meet with [[People/John Abrera\|John Abrera]] to configure and use the EDS Excel plugin

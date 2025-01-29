@@ -10,7 +10,7 @@ Purpose: Documentation, standardization, iterative improvement
 #assignment 
 
 
-Audio info from [[people/Rodney Williams\|people/Rodney Williams]]: (C:\Users\george.bennett\OneDrive - City of Memphis\Documents\Projects\0000-Maxson\2023-2024 BioRem Activity\Rodney Williams - BioRem Maintenance 2023-2024.m4a - Shortcut)
+Audio info from [[People/Rodney Williams\|people/Rodney Williams]]: (C:\Users\george.bennett\OneDrive - City of Memphis\Documents\Projects\0000-Maxson\2023-2024 BioRem Activity\Rodney Williams - BioRem Maintenance 2023-2024.m4a - Shortcut)
 
 
 [[People/Don Hudgins\|Don Hudgins]]

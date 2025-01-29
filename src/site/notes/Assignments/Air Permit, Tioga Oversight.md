@@ -15,7 +15,7 @@ Flow meters (smaller) going into each biogas tank.
 Some (the main flow meters) were lost replaced by [[Contractors/Bar Environmental\|Contractors/Bar Environmental]].
 At the end we have a flow meter of how much gas is going into the flares themselves or to TVA - this flow meter has gone out too in the past, with #failuremode overexposure to oxygen.
 
-Fire arrestors prevent flame from going into the system. The [[Equipment/Fire Arrestors\|Equipment/Fire Arrestors]] themselves burned out due to excessive heat and excessive oxygen. #failuremode. Fire arrestors #1 and #3 were replaced within the 2023-2024 period (citation [[people/Rodney Williams\|people/Rodney Williams]]).
+Fire arrestors prevent flame from going into the system. The [[Equipment/Fire Arrestors\|Equipment/Fire Arrestors]] themselves burned out due to excessive heat and excessive oxygen. #failuremode. Fire arrestors #1 and #3 were replaced within the 2023-2024 period (citation [[People/Rodney Williams\|people/Rodney Williams]]).
 
 
 #assignment

@@ -9,9 +9,9 @@ Log book dates:
 Received Green Book from [[People/Chris Luss\|Chris Luss]]
 Much of the records are written by [[People/Stacy Bullard\|Stacy Bullard]], from the end of 2022
 
-Received information from: [[people/Rodney Williams\|people/Rodney Williams]]
+Received information from: [[People/Rodney Williams\|people/Rodney Williams]]
 
 Log book from Rodney Williams read and copied, with audio recording of discussion.
-Audio info from [[people/Rodney Williams\|people/Rodney Williams]]: (C:\Users\george.bennett\OneDrive - City of Memphis\Documents\Projects\0000-Maxson\2023-2024 BioRem Activity\Rodney Williams - BioRem Maintenance 2023-2024.m4a - Shortcut)
+Audio info from [[People/Rodney Williams\|people/Rodney Williams]]: (C:\Users\george.bennett\OneDrive - City of Memphis\Documents\Projects\0000-Maxson\2023-2024 BioRem Activity\Rodney Williams - BioRem Maintenance 2023-2024.m4a - Shortcut)
 
 Clayton's handwriting: ![BioRemMaintenance-RodneyWilliams-1.jpg](/img/user/BioRemMaintenance-RodneyWilliams-1.jpg)

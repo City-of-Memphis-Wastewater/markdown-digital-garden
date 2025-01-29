@@ -7,14 +7,14 @@
 	- [x] Gary Garrison: *Tuesday February 11, 2025, CoM IT dept will be updating the Firmware in their 5 network switches, one at a time starting at 8PM. This will knock down our phones and Internet for up to 2 hours total.  As each update completes the service should be restored.*
 	- [x] Emerson: Send materials
 	- [ ] City of Memphis Training flyer - sign up for "Time Management" (Zoom) class on Feb 12 and for "Emotional Intelligence" (in person at city hall) on Feb 13, by contacting OTDCOM@MEMPHISTN.GOV - all courses must be approved by supervisor.
-	- [ ] Try to use [[sofware/EDS Excel plugin\|sofware/EDS Excel plugin]] from [[People/Matt Dannemueller\|People/Matt Dannemueller]]
-	- [x] Read Lagoon 5 Project files from [[people/Mike Brower\|Mike Brower]] - it will be a covered lagoon
+	- [x] Try to use [[sofware/EDS Excel plugin\|sofware/EDS Excel plugin]] from [[People/Matt Dannemueller\|People/Matt Dannemueller]]
+	- [x] Read Lagoon 5 Project files from [[People/Mike Brower\|Mike Brower]] - it will be a covered lagoon
 
-- [x] Write up draft spreadsheet for [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]] as per [[people/Rodney Williams\|people/Rodney Williams]]. Find example: [[2024 Annual accomplishment report.xlsx\|2024 Annual accomplishment report.xlsx]]. Additional reference:  TEM BioRem Data-Calcs v2.
+- [x] Write up draft spreadsheet for [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]] as per [[People/Rodney Williams\|people/Rodney Williams]]. Find example: [[2024 Annual accomplishment report.xlsx\|2024 Annual accomplishment report.xlsx]]. Additional reference:  TEM BioRem Data-Calcs v2.
 	- [x] Send draft to Don
 	- [ ] Find Rodney Williams, laptop in hand, to specify month estimations for each item. Also improve wording specificity.
 - [x] Check OV100 schedule with [[People/Krish\|Krish]]: Starts at 9 AM on 3rd February. Mail materials. Contact person: Kristen at pws.education@emerson.com.
 - [x] Talk to [[People/Gary Garrison\|Gary Garrison]] about [[Assignments/Purafil Unit in Admin Furnace Room Louvre\|Purafil Unit in Admin Furnace Room Louvre]]
-	- [ ] Gary sent an email to [[people/Mike Gross\|people/Mike Gross]] at CS3, about specc'ing a scrubber. We would also need to get Purafil guys out to look.
+	- [x] Gary sent an email to [[People/Mike Gross\|people/Mike Gross]] at CS3, about specc'ing a scrubber. We would also need to get Purafil guys out to look.
 - [x] Sit in on [[Government/TAUD\|TAUD]] course in the conference room.
 - [x] Register Kanguru FlashTrust drive for support and warranty, at kanguru.com/pages/register

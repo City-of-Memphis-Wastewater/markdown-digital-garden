@@ -8,12 +8,12 @@ The key issue is that natural gas furnaces require airflow. To allow for airflow
 
 We do not want this corrosion to cause expensive damage to any components within the admin building. Ergo, it would be prudent to 
 
-If we do not filter the furnace room window, the equipment within the furnace room is likely to fail within 36 months. Sources: [[People/Gary Garrison\|Gary Garrison]], [[people/Mike Brower\|Mike Brower]], [[People/Henry Nakayama\|Henry Nakayama]].
+If we do not filter the furnace room window, the equipment within the furnace room is likely to fail within 36 months. Sources: [[People/Gary Garrison\|Gary Garrison]], [[People/Mike Brower\|Mike Brower]], [[People/Henry Nakayama\|Henry Nakayama]].
 
 Solutions:
 - [[Equipment/Purafil\|Equipment/Purafil]]: [Purafil Website](https://www.purafil.com/)
 
-On [[Daily Activity Log/27 January 2025\|27 January 2025]], [[people/Mike Brower\|Mike Brower]] suggested that I circle back to [[People/Gary Garrison\|Gary Garrison]] about choosing and ordering a Purafil unit. Typically this would be handled through the maintenance manager [[People/Mars\|Mars]], who is currently  on vacation.
+On [[Daily Activity Log/27 January 2025\|27 January 2025]], [[People/Mike Brower\|Mike Brower]] suggested that I circle back to [[People/Gary Garrison\|Gary Garrison]] about choosing and ordering a Purafil unit. Typically this would be handled through the maintenance manager [[People/Mars\|Mars]], who is currently  on vacation.
 
 To mitigate the [[FailureModes/hydrogen sulfide\|hydrogen sulfide]] issue after the building was build, [[Manufacturers/Allen Air\|Manufacturers/Allen Air]] air filtration units were distributed throughout the building, within proximity to key components of the Emerson Ovation sytem. 
 
