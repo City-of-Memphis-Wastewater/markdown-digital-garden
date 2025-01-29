@@ -22,3 +22,5 @@
 - [ ] Use [[Software/Pavlov 3D\|Pavlov 3D]] to generate some graphs from historic EDS data, using the right click Insert Tabular Trend in Excel. We want to see a single sheet, with a time column and then height from several "height" columns
 	- This invites grouping beyond the filename;
 	- OR, convert the single sheet to many sheets, is how you could get this to work, with relevant group and subgroup names in the filenames. These could be in a meta data row in the single-sheet version.
+- [ ] Send email to Giovanni at Emerson about "EDS archive" function failures, check syntax
+- [ ] Find [[People/Rodney Williams\|Rodney Williams]] at Lagoons and ask to see log book again
