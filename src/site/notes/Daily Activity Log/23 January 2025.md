@@ -10,7 +10,7 @@
 - [x] meet with Krish, Don, Mike, Henry, and Stacy to discuss Hexagon system migration and expectations. The [[Systems/BioRem\|BioRem]] system should be used in Hexagon in an ideal fashion such that all other systems can aspire to converge upon ideal operation. 
 - [x] Receive [[Assignments/z-Kanguru USB Drive\|z-Kanguru USB Drive]]
 - [x] Discuss digesters and activated carbon systems with Stacy and Mike
-- [x] Send [[Pete Gabor\|Pete Gabor]] the information he requested
+- [x] Send [[People/Pete Gabor\|Pete Gabor]] the information he requested
 - [x] Check access to CDM's Bentley records : [[Emails/Bentley Access - 9 January 2025\|Bentley Access - 9 January 2025]]
 - [x] Free CAD! for better moving-part modelling of the plant 
 
