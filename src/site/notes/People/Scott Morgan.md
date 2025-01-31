@@ -3,3 +3,5 @@
 ---
 
 Director of Public works, as of December 2024
+Email: scott.morgan@memphistn.gov
+Office: 9016367124
