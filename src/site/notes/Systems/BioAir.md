@@ -7,11 +7,13 @@ Installed at the plant at the [[equipment/junction box\|equipment/junction box]]
 Monitor:
 - pH
 - conductivity, because it indicates the ratio of solids to liquids
-Operations people:
+
+Key people or groups:
 - [[Contractors/CDM Smith\|CDM Smith]]
+- [[People/Carl Stevenson\|Carl Stevenson]]
 - [[people/William Carrick\|people/William Carrick]]
 - [[people/Michael Johnson\|people/Michael Johnson]]
-- [[People/Carl Stevenson\|Carl Stevenson]]
+- 
 
 Multiple installations, primarily for reducing odor / odor control
 The [[Systems/BioAir\|BioAir]] system pulls significantly less [[FailureModes/Hydrogen sulfide\|Hydrogen sulfide]] volume compared to the [[Systems/BioRem\|BioRem]] system.
@@ -19,3 +21,6 @@ The [[Systems/BioAir\|BioAir]] system pulls significantly less [[FailureModes/Hy
 The most substantial, highest volume [[Systems/BioAir\|BioAir]] unit is the wet well or the one on the [[equipment/junction box\|equipment/junction box]].
 
 ![[GMP3 - P&ID.pdf]]
+
+Training:
+![[P20114 Training Presentation (1).pdf]]
