@@ -4,6 +4,7 @@
 
 Website: [Evonik - Leading Beyond Chemistry](https://www.evonik.com/en.html)
 They provide out [[Chemicals/Peracetic Acid\|Peracetic Acid]]
+The [[Contractors/Evonik\|Evonik]] plant is right next door to [[Locations/M.C. Stiles Wastewater Treatment Plant\|M.C. Stiles Wastewater Treatment Plant]].
 
 > [!NOTE]
 > Fun fact:
