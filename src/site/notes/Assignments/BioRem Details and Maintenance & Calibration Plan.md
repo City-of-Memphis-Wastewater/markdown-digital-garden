@@ -17,7 +17,7 @@ Talk to [[people/Tersea Espy\|people/Tersea Espy]] at [[contractors/Diamond Scie
 - [ ] All major parts and equipment put into [[Software/Hexagon\|Hexagon]], with [[People/Krishna Bejjanki\|Krishna Bejjanki]]
 - [ ] Make list of all major parts, with serial numbers and model numbers
 - [ ] Keep spare parts on hand
-- [ ] Build/acquire shelf for office storage
+- [ ] Build/acquire shelf for office storage: staples.com, order with [[people/Tieraney Washington\|people/Tieraney Washington]]
 Best location for spare parts: 
 1. [[People/Clayton Bennett\|Clayton Bennett]]'s office (good for low mass, high sensitivity)
 2. The pipe gallery (low [[FailureModes/Hydrogen sulfide\|Hydrogen sulfide]], but high humidity)

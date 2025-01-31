@@ -19,4 +19,7 @@
 - [ ] Read up on the Tioga contracts
 - [x] [[Information Heap/Access Emerson training tools with Krish - 31 January 2025\|Access Emerson training tools with Krish - 31 January 2025]]
 - [ ] Get rolling with Ubuntu windows
-
+- [x] Talk to Henry about:
+	- [x] [[Assignments/10 MW Solar Array\|10 MW Solar Array]]
+	- [x] [[Assignments/BioRem Details and Maintenance & Calibration Plan\|BioRem Details and Maintenance & Calibration Plan]]
+	- [x] [[government/Shelby County Health Department\|Shelby County Health Department]] Title V Air Permit: [[Assignments/Air Permit, Tioga Oversight\|Air Permit, Tioga Oversight]]
