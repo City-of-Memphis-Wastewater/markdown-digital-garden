@@ -13,3 +13,19 @@ We need to get that in ASAP or else all equipment in the mechanical room will be
 Within the next 10 days, Henry says. But Mike says there is no rush of this sort.
 
 As of [[Daily Activity Log/30 January 2025\|30 January 2025]], the ball is in [[People/Mike Gross\|Mike Gross]]'s court, in terms of identifying a CFM value.
+
+As of [[Daily Activity Log/31 January 2025\|31 January 2025]]:
+	
+
+> [!NOTE]
+> Email from Mike Gross (to gary.garrison@memphistn.gov, CC billy.parker@cs3.com, todd.badgley@cs3.com):
+Hello George,
+> Yes, sir.  We found that about 200 CFM is needed for combustion air for the six (6) gas-fired furnaces in the heating season.
+> 
+> We are now working with Purfafil for an outside-mounted unit to inject 100% clean air into the mechanical room.
+> 
+> We should have a proposal and equipment specification for everyone’s review soon.
+> 
+> Thanks again for this opportunity,
+> 
+> Mike
