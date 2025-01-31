@@ -11,3 +11,5 @@ Is there money in the budget this year? Talk to [[People/Mars\|Mars]]. For FY26.
 We need to get that in ASAP or else all equipment in the mechanical room will be toast within three years, and the PLC's in the control room are at risk as well.
 
 Within the next 10 days, Henry says. But Mike says there is no rush of this sort.
+
+As of [[Daily Activity Log/30 January 2025\|30 January 2025]], the ball is in [[People/Mike Gross\|Mike Gross]]'s court, in terms of identifying a CFM value.
