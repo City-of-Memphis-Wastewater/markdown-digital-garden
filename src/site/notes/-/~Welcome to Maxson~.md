@@ -12,7 +12,6 @@ Use the file explorer, the search feature, or the graph view to explore my growi
 
 This site was made using the Obsidian Digital Garden plugin: (https://dg-docs.ole.dev/)
 
-
-![plant-diagram-bennett-Jan2025.png](/img/user/plant-diagram-bennett-Jan2025.png)
+![Pasted image 20250131112612.png](/img/user/Pasted%20image%2020250131112612.png)
 
 ![Pasted image 20250121134125.png](/img/user/Pasted%20image%2020250121134125.png)
