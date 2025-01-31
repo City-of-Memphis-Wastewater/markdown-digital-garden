@@ -4,7 +4,7 @@
 
 #dailylog 
 - [x] Check Emails
-- [x] Ride around with [[people/Josh\|Josh]]
+- [x] Ride around with [[People/Josh\|Josh]]
 	- [x] Distribute sludge from primary clarifier sludge boxes to pit at the lagoons
 	- [x] Identify process optimization - Josh checks the lug nuts every day. provid epaint pen for lug nuts
 - [x] Meet pump seller in Gary's office
@@ -15,7 +15,7 @@
 	- [ ] Develop scaling algorithm
 	- [ ] Allow dates and times to be time axis values, rather than using doubles. Check existing approaches.
 - [x] Access [[Contractors/CDM Smith\|CDM Smith]] files on [[Software/Bentley\|Software/Bentley]] / [[Software/ProjectWise Web View\|Software/ProjectWise Web View]]: [specific project URL](https://connect-projectwisewebview.bentley.com/connection/9ec17b8d957a12eaa066d17a77c184371328ab9e?project=22e9fe05-ab91-4d9c-9086-b0db16cffeea)
-- [x] Work through "EDS Archive functions" email instructions from [[people/Geovanny Martinez\|people/Geovanny Martinez]] concerning the [[information heap/EDS archive function problem\|information heap/EDS archive function problem]]; We cannot do it without access to the EDS server - I should aim to etsablish RDP access at will
+- [x] Work through "EDS Archive functions" email instructions from [[People/Geovanny Martinez\|people/Geovanny Martinez]] concerning the [[Information Heap/EDS archive function problem\|information heap/EDS archive function problem]]; We cannot do it without access to the EDS server - I should aim to etsablish RDP access at will
 - [ ] Read up on the Tioga contracts
 - [x] [[Information Heap/Access Emerson training tools with Krish - 31 January 2025\|Access Emerson training tools with Krish - 31 January 2025]]
 - [ ] Get rolling with Ubuntu windows
