@@ -8,4 +8,10 @@
 	- [x] Distribute sludge from primary clarifier sludge boxes to pit at the lagoons
 	- [ ] Identify process optimization - Josh checks the lug nuts every day
 - [x] Meet pump seller in Gary's office
-- [x] Troubleshoot [[Software/Pavlov 3D\|Pavlov 3D]], to feed EDS point data from [[Locations/M.C. Stiles Wastewater Treatment Plant\|Stiles]]
+- [x] Troubleshoot [[Software/Pavlov 3D\|Pavlov 3D]], to feed EDS point data from [[Locations/M.C. Stiles Wastewater Treatment Plant\|Stiles]]. Key problem now: Scaling. Also, group ID, with missing character "@" (ascii char_64)
+	- [ ] Design svg.html alphanumeric character file for "@" (ascii char_64)
+	- [ ] Develop scaling algorithm
+	- [ ] Allow dates and times to be time axis values, rather than using doubles. Check existing approaches.
+- [ ] Access [[Contractors/CDM Smith\|CDM Smith]] files on [[Software/Bentley\|Software/Bentley]] / [[Software/ProjectWise Web View\|Software/ProjectWise Web View]]: [specific project URL](https://connect-projectwisewebview.bentley.com/connection/9ec17b8d957a12eaa066d17a77c184371328ab9e?project=22e9fe05-ab91-4d9c-9086-b0db16cffeea)
+- [ ] 
+- [ ] 
