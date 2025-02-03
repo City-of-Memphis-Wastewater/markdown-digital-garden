@@ -13,4 +13,4 @@ Field folk:
 - [[people/Spencer Belcher\|people/Spencer Belcher]]
 
 Reports:
-- [[people/Marian Coussan\|people/Marian Coussan]]
+- [[People/Marian Coussan\|people/Marian Coussan]]

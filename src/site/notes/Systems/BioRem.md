@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/systems/bio-rem/","noteIcon":"","created":"2025-01-10T15:13:40.644-06:00"}
 ---
 
+URL: [BIOREM – Air Emissions Abatement – experience. integrity. performance](https://www.biorem.biz/)
+
+#### Purpose at [[Locations/T.E. Maxson Wastewater Treatment Plant\|T.E. Maxson Wastewater Treatment Plant]]: 
+	Biogas Desulfurization
+	Protect boilers and engines from corrosion by using biological oxidation to remove the H2S.
+
 In jargon, [[Systems/BioRem\|BioRem]] is not the same as the [[Systems/BioAir\|BioAir]] system.
 Both the [[Systems/BioRem\|BioRem]] system and the [[Systems/BioAir\|BioAir]] system handle [[Chemicals/Biogasses\|Biogasses]]
 
