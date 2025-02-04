@@ -10,7 +10,7 @@ Information:
 - [Pipe network analysis - Wikipedia](https://en.wikipedia.org/wiki/Pipe_network_analysis)
 - [Computer Aided Analysis of Flow and Pressure in Pipe Networks](https://doras.dcu.ie/18301/1/Mohamed_A_Salam_Ali_20130306165806.pdf)
 - [WaterCAD example](https://www.bing.com/ck/a?!&&p=30665b78b66989c9f983995a2a3110e29dd84f9f4417dd800c6093c945fb97dfJmltdHM9MTczODYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=138f8086-8921-64a9-205a-95fb884565f6&psq=pipe+and+tank+and+valve+network+analysis&u=a1aHR0cHM6Ly9lbmdyeGl2Lm9yZy9wcmVwcmludC9kb3dubG9hZC8xNzU1LzM1NzgvMjY1Mw&ntb=1)
-- [Analsis of Centrifugal Pumps and Pipe Network Flow](https://cse.sc.edu/~gatzke/460/B-Pumps-2008.pdf)
+- [Analysis of Centrifugal Pumps and Pipe Network Flow](https://cse.sc.edu/~gatzke/460/B-Pumps-2008.pdf)
 - [CheGuide ‐ Pipe Network Analysis](https://www.cheguide.com/pipe_network.html)
 - [Use of Excel-Solver as an Optimization Tool in Design of Pipe Network](http://article.sapub.org/10.5923.j.ijhe.20130204.01.html)
 - [(PDF) UTILIZING EXCEL SOLVER FOR COMPLEX PIPE NETWORK ANALYSIS AND DEVELOPMENT OF AN EDUCATIONAL TOOL](https://www.researchgate.net/publication/385909951_UTILIZING_EXCEL_SOLVER_FOR_COMPLEX_PIPE_NETWORK_ANALYSIS_AND_DEVELOPMENT_OF_AN_EDUCATIONAL_TOOL)
