@@ -8,9 +8,19 @@ Information:
 - [Loops, Nodes and Pipes](https://www.pipeflow.com/public/PipeFlowExpertSoftwareHelp/html/LoopsNodesandPipes.html)
 - [Design of a Hydronic Pipe Network — Pipe and Duct Flow Calculations with Python](https://tomlxxvi.github.io/jbFluidFlow/closed_pipe_network_design.html)
 - [Pipe network analysis - Wikipedia](https://en.wikipedia.org/wiki/Pipe_network_analysis)
+- [Computer Aided Analysis of Flow and Pressure in Pipe Networks](https://doras.dcu.ie/18301/1/Mohamed_A_Salam_Ali_20130306165806.pdf)
+- [WaterCAD example](https://www.bing.com/ck/a?!&&p=30665b78b66989c9f983995a2a3110e29dd84f9f4417dd800c6093c945fb97dfJmltdHM9MTczODYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=138f8086-8921-64a9-205a-95fb884565f6&psq=pipe+and+tank+and+valve+network+analysis&u=a1aHR0cHM6Ly9lbmdyeGl2Lm9yZy9wcmVwcmludC9kb3dubG9hZC8xNzU1LzM1NzgvMjY1Mw&ntb=1)
+- [Analsis of Centrifugal Pumps and Pipe Network Flow](https://cse.sc.edu/~gatzke/460/B-Pumps-2008.pdf)
 
 Keywords:
 - Pipe network
+
+Key goal:
+- Modelling of network that includes pipe, tanks, and values. Density designation for separate fluids would be great.
+
+Conclusion:
+- Look at EPANET, the Python fluids package, and QSDsan.
+
 
 Free software candidates:
 - [System - QSDsan 1.4.1](https://qsdsan.readthedocs.io/en/latest/tutorials/6_System.html)
