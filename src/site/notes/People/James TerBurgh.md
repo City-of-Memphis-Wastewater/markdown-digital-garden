@@ -4,5 +4,5 @@
 
 James TerBurgh, E.I.
 
-Environmental Eng Designer Intern
+Environmental Eng Designer Professional
 james.terburgh@memphistn.gov
