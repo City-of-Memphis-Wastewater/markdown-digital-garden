@@ -128,4 +128,10 @@ Answer:
 > - Freeware version available with limited features.
 > - **Website:** [KYPipe](https://www.kypipe.com/)
 > 
-> If you need a completely **free and open-source** tool, **EPANET** is your best choice. Would you like recommendations for software with specific features like surge analysis or real-time monitoring?
+> If you need a completely **free and open-source** tool, **EPANET** is your best choice. Would you like recommendations for software with specific features like surge analysis or real-time monitoring?\
+
+
+More information:
+- [Fundamentals-of-control-valve-engineering.pdf](https://fluidcontrolsolutions.com/wp-content/uploads/2020/04/Fundamentals-of-control-valve-engineering.pdf)
+- [Piping and Pipeline Calculations Manual: Construction, Design Fabrication and Examination](https://fluidcontrolsolutions.com/wp-content/uploads/2020/04/Piping-and-pipeline-calculations-manual.pdf)
+- 
