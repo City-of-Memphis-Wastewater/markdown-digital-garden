@@ -29,3 +29,6 @@ Answer:
 >     
 > 
 > Each of these tools offers unique features that can assist in modeling water flow through treatment plants. I recommend exploring them to determine which best fits your specific needs.
+
+People to talk to about this: [[People/Henry Nakayama\|Henry Nakayama]], [[People/Stacy Bullard\|Stacy Bullard]]
+Check the functionality we can expect from [[Assignments/Hach WIMS Improvements\|Hach WIMS Improvements]]: talk to [[People/Peter Gabor\|Peter Gabor]]
