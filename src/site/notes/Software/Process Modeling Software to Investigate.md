@@ -2,9 +2,24 @@
 {"dg-publish":true,"permalink":"/software/process-modeling-software-to-investigate/","noteIcon":"","created":"2025-02-04T09:28:35.074-06:00"}
 ---
 
-[System - QSDsan 1.4.1](https://qsdsan.readthedocs.io/en/latest/tutorials/6_System.html)
+## Highlights:
+Information:
+- [Balanced Flow State](https://www.pipeflow.com/public/PipeFlowExpertSoftwareHelp/html/BalancedFlowState.html)
+- [Loops, Nodes and Pipes](https://www.pipeflow.com/public/PipeFlowExpertSoftwareHelp/html/LoopsNodesandPipes.html)
+- [Design of a Hydronic Pipe Network — Pipe and Duct Flow Calculations with Python](https://tomlxxvi.github.io/jbFluidFlow/closed_pipe_network_design.html)
+- [Pipe network analysis - Wikipedia](https://en.wikipedia.org/wiki/Pipe_network_analysis)
+
+Keywords:
+- Pipe network
+
+Free software candidates:
+- [System - QSDsan 1.4.1](https://qsdsan.readthedocs.io/en/latest/tutorials/6_System.html)
+- [EPANET | US EPA](https://www.epa.gov/water-research/epanet?utm_source=chatgpt.com)
+- [fluids · PyPI](https://pypi.org/project/fluids/)
+
 ![Pasted image 20250204092854.png](/img/user/Pasted%20image%2020250204092854.png)
 
+## Query 1
 ChatGPT Query:
 *Please recommend free process modeling softwares Linux, windows, or browser software for modelling water flow through a water treatment plant. I do not need CFD. Examples of software include FluidSim and Dynamita Sumo.*
 
@@ -52,14 +67,7 @@ Free software:
 - [samadritakarmakar/LiquiNet: LiquiNet is a free, open source, pipe network software, that can solve complex Water, or any other Liquid, Pipe Network problems easily. Based on Paper published by Anthony G. Collins in May 1973, it applies Finite Element Method.](https://github.com/samadritakarmakar/LiquiNet)
 
 
-Information:
-- [Balanced Flow State](https://www.pipeflow.com/public/PipeFlowExpertSoftwareHelp/html/BalancedFlowState.html)
-- [Loops, Nodes and Pipes](https://www.pipeflow.com/public/PipeFlowExpertSoftwareHelp/html/LoopsNodesandPipes.html)
-- [Design of a Hydronic Pipe Network — Pipe and Duct Flow Calculations with Python](https://tomlxxvi.github.io/jbFluidFlow/closed_pipe_network_design.html)
-- [Pipe network analysis - Wikipedia](https://en.wikipedia.org/wiki/Pipe_network_analysis)
 
-Keywords:
-- Pipe network
 
 
 ## Query 2
