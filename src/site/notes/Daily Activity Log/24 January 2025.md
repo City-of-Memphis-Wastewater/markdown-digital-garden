@@ -5,10 +5,10 @@
 - [x] Connect Canon G7020 printer: open a Service Now request: INC0238414
 - [x] Copy (some) Emerson disks
 - [x] Find a CAD to drive nice visual models
-	- [x] Download and install FreeCAD: [FreeCAD: Your own 3D parametric modeler](https://www.freecad.org/downloads.php)
+	- [x] Download and install [[software/FreeCAD\|FreeCAD]]: [FreeCAD: Your own 3D parametric modeler](https://www.freecad.org/downloads.php)
 	- [x] Download CAD Sketcher Blender Add-On: [CAD Sketcher | Blender Parametric Precision Modeling](https://www.cadsketcher.com/)
 
-In [[software/FreeCAD\|software/FreeCAD]], identify jargon:
+In [[software/FreeCAD\|FreeCAD]], identify jargon:
 - "Placement": [Placement - FreeCAD Documentation](https://wiki.freecad.org/Placement)
 - Can I drive Placement using Python?
 - "Apply incremental": [How to simply use: Placement "Apply incremental" [Python] - FreeCAD Forum](https://forum.freecad.org/viewtopic.php?t=2530)
