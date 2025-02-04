@@ -20,6 +20,10 @@ Key goal:
 
 Conclusion:
 - Look at EPANET, the Python fluids package, and QSDsan.
+- Play with Dynamita SUMO free version.
+- Talk to Henry about what to expect from the Hach WIMS Digital Twin
+- Know what we already have available through Emerson Ovation.
+- Create basic balance model in Excel. 
 
 
 Free software candidates:
