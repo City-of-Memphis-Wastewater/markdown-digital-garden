@@ -134,4 +134,5 @@ Answer:
 More information:
 - [Fundamentals-of-control-valve-engineering.pdf](https://fluidcontrolsolutions.com/wp-content/uploads/2020/04/Fundamentals-of-control-valve-engineering.pdf)
 - [Piping and Pipeline Calculations Manual: Construction, Design Fabrication and Examination](https://fluidcontrolsolutions.com/wp-content/uploads/2020/04/Piping-and-pipeline-calculations-manual.pdf)
-- 
+- [ASHRAE, HVAC: Fundamentals of Water System Design](https://www.ashrae.org/professional-development/self-directed-learning-group-learning-texts/fundamentals-of-water-system-design)
+- [Wastewater Plants](https://cdn.thomasnet.com/ccp/30846382/301003.pdf)
