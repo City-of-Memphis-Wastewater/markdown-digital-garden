@@ -136,3 +136,5 @@ More information:
 - [Piping and Pipeline Calculations Manual: Construction, Design Fabrication and Examination](https://fluidcontrolsolutions.com/wp-content/uploads/2020/04/Piping-and-pipeline-calculations-manual.pdf)
 - [ASHRAE, HVAC: Fundamentals of Water System Design](https://www.ashrae.org/professional-development/self-directed-learning-group-learning-texts/fundamentals-of-water-system-design)
 - [Wastewater Plants](https://cdn.thomasnet.com/ccp/30846382/301003.pdf)
+- [Chemical Engineering Instrumentation and Process Control Theory](https://www.bing.com/ck/a?!&&p=58d051bf6740f04221b682e321ef6bffd75422953c7163da6d513b554625d9afJmltdHM9MTczODYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=138f8086-8921-64a9-205a-95fb884565f6&psq=chemical+engineering+process+control+theory+textbook&u=a1aHR0cHM6Ly9tYWRlZWFzeXB1YmxpY2F0aW9ucy5vcmcvcG9zdGFsL1VwbG9hZHMvY2hfYnJhbmNoX2ltYWdlcy9JbnN0cnVtZW50YXRpb25fYW5kX1Byb2Nlc3NfQ29udHJvbF9DSF8yMDIyLnBkZg&ntb=1)
+- 
