@@ -14,4 +14,6 @@ Ovation jargon:
 
 ![Pasted image 20250205085632.png](/img/user/Pasted%20image%2020250205085632.png)
 
-	![Pasted image 20250205085713.png](/img/user/Pasted%20image%2020250205085713.png)The Signal Diagram Viewer is where we view the live config, not where we edit the diagram
+
+
+The roll of the PID is to make the set point of the process variable equal to the set point in the shortest possible time while maintaining the stability
