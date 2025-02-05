@@ -4,7 +4,7 @@
 
 #dailylog
 - [x] Walk plant
-- [ ] Read Metcalf, take notes
+- [ ] Read [[Books/Metcalf\|Metcalf]], take notes
 - [x] Make map of plant
 - [ ] Prep for tomorrow's meetings
 	- [ ] T.E. Maxson monthly staff meeting at 8 AM
