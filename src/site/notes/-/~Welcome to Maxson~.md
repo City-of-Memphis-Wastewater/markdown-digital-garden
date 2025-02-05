@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"//welcome-to-maxson/","tags":["gardenEntry"],"noteIcon":"","created":"2025-01-17T14:30:51.854-06:00"}
 ---
 
-The [[Organizations/City of Memphis\|City of Memphis]] operates two wastewater treatment plants:
+The [[Government/City of Memphis\|City of Memphis]] operates two wastewater treatment plants:
 1) [[Locations/M.C. Stiles Wastewater Treatment Plant\|Locations/M.C. Stiles Wastewater Treatment Plant]]
 2) [[Locations/T.E. Maxson Wastewater Treatment Plant\|Locations/T.E. Maxson Wastewater Treatment Plant]]
 

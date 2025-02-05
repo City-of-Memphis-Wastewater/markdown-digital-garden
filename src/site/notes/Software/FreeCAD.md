@@ -5,7 +5,7 @@
 
 Download and install FreeCAD: [FreeCAD: Your own 3D parametric modeler](https://www.freecad.org/downloads.php)
 
-[[software/FreeCAD\|FreeCAD]], jargon:
+[[Software/FreeCAD\|FreeCAD]], jargon:
 - "Placement": [Placement - FreeCAD Documentation](https://wiki.freecad.org/Placement)
 - Can I drive Placement using Python?
 - "Apply incremental": [How to simply use: Placement "Apply incremental" [Python] - FreeCAD Forum](https://forum.freecad.org/viewtopic.php?t=2530)

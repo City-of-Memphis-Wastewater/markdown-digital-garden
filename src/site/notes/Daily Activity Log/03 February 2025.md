@@ -11,3 +11,5 @@ Great link for setting up GUI apps on WSL2 Ubuntu: [nvidia-driver is installed, 
 - [x] Converted existing WSL Ubuntu from version 1 to version 2. Be careful out there, kids, version 1 still walks among us.
 	- Check version: wsl --list --verbose
 	- Change version: wsl --set-version Ubuntu 2
+
+Tomorrow: [[Daily Activity Log/04 February 2025\|04 February 2025]]
