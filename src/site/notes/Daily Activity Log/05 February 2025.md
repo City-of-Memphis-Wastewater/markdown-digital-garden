@@ -17,3 +17,11 @@ Ovation jargon:
 
 
 The roll of the PID is to make the set point of the process variable equal to the set point in the shortest possible time while maintaining the stability
+
+![Pasted image 20250205140832.png](/img/user/Pasted%20image%2020250205140832.png)
+SNUD:
+1. System level
+2. Network level
+3. Unit level
+4. Drop level
+![Pasted image 20250205143340.png](/img/user/Pasted%20image%2020250205143340.png)
