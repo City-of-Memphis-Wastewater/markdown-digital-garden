@@ -7,7 +7,7 @@ Where will it go: Vacant area with high-powered lines off of River Port Rd , som
 Who is paying for it: [[Government/City of Memphis\|City of Memphis]], out of [[People/Scott Morgan\|people/Scott Morgan]]'s office.
 
 Start: FY26, or start construction within the next two years.
-Time to build: Depends on the contractor ([[contractor/Keiwit\|Keiwit]] built the [[Government/TVA\|government/TVA]] plant in less than three years, they could do this solar array in less than a year)
+Time to build: Depends on the contractor ([[Contractors/Keiwit\|Keiwit]] built the [[Government/TVA\|government/TVA]] plant in less than three years, they could do this solar array in less than a year)
 Projected completion / in-service date: within the next three or four years (FY28, FY29)
 
 Designed by [[Contractors/CDM Smith\|CDM Smith]].
