@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/daily-activity-log/14-january-2025/","noteIcon":"","created":"2025-01-14T07:03:13.758-06:00"}
+---
+
+- [x] Check survey email from CoM IT
+- [x] Plant check with Sam
+- [ ] Print map
+- [ ] Get printer going
+- [x] Meeting with Pete Gabor [[Meetings/14 January Pete Gabor - Stantec - Emerson\|14 January Pete Gabor - Stantec - Emerson]]]
+
+IT Survey email comments:
+*Comment: Due to the casual yet professional tone of our conversation, I felt comfortable telling the technician on the phone that I had a Bitlocker key request - the technician immediately knew what this was and was interested in helping to resolve it. This experience has increased my trust in CoM IT. Ultimately, the Bitlocker key was unnecessary once the live disk was removed, and the computer was able to boot the typical OS. 
+
+*While we're on the topic of Linux - I am interested in getting approval to install/allow WSL2 on my work computer. To be able to use Linux software would improve my workflow, in terms of data management and automation.*
+
+#dailylog

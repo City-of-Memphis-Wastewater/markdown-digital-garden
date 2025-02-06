@@ -1,0 +1,129 @@
+---
+{"dg-publish":true,"permalink":"/daily-activity-log/07-january-2025/","noteIcon":"","created":"2025-01-07T07:36:36.204-06:00"}
+---
+
+- [x] Make map, list, and type of all pumps
+- [x] 8 am staff meeting
+- [x] 10 am pretreatment meeting
+- [x] talk to Carlton, Mars, Mike,+ and Krish about pumps, automation, etc
+
+#dailylog 
+#meeting
+
+Staff meeting notes:
+- #enelx enel x is the software we use to track power usage history. https://trends.apps.enelx.com
+- #hydrograph : avg flow 74.8 MGD
+
+
+- Training
+	- When is hexagon training? [About us | Hexagon](https://hexagon.com/company) #hexagon
+	- Ovation 
+		- user group scheduled scheduled July 21st - fund using Emerson contract to pay for travel and conference. #conference
+		- I should take OV100 first. [Ovation Training - 2025 Calendar | Emerson US](https://www.ovationusers.com/Training/Training_Calendar_2025 "https://www.ovationusers.com/Training/Training_Calendar_2025")
+	- Waste water training - Theresa was talking to Carl
+
+- MMOR for overall plant maintenance.
+	- Monthly Equipment Status Report 2 (2) on CoM Public, monthly report - how to I acess this document? talk to [[People/Kim Crawford\|Kim Crawford]]
+
+- Monthly statistics
+	- 1.2 Waste activated sludge
+	- loading has been low
+	- Evonik effluence ADF mgd: 59.1
+	- Final effluence BOD: 172 mg/L
+	- ![Pasted image 20250107084921.png](/img/user/Secondary/Images/Pasted%20image%2020250107084921.png)
+	- ![Pasted image 20250107091128.png](/img/user/Secondary/Images/Pasted%20image%2020250107091128.png)
+
+vocabulary
+- [[Vocabulary/digital twin\|digital twin]] #digitaltwin
+- [[Vocabulary/encumbered\|encumbered]] and unencumbered funds
+- M1 trainee. currently have two, we can have six.
+
+
+Tasks:
+- [ ] Excel solver, talk to Mike, to help on Monthly Statistics 
+- [ ] Follow up with Emerson about scheduling OV100
+- [ ] Schedule Hexagon training 
+
+files:
+- Monthly Statistics.xlsx
+- Monthly Equipment Status Report 2 (2).xlsx
+
+Projects:
+- Treat sulfide at source. George can be involved - putting chemical in at Solae, at lift station ("USP Technology") - [SulFelox - USP Technologies](https://usptechnologies.com/SulFeLox/) - Low hazard iron salt. - at Solae
+- Nonconnah Sampling starts next week
+
+Defensive driver training.
+
+
+
+
+------
+
+Copied from meeting info:
+AGENDA
+
+1. Lost Time OJI
+
+2. Permit Compliance
+
+3. Laboratory
+
+4. Contract Review
+
+- Expiring contracts
+
+5. Main Power Review
+
+6. Flow and Rainfall
+
+7. Training
+
+- Ovation
+- Hexagon
+- Wastewater
+- CDL
+
+8. MMOR
+
+9. Monthly Statistics
+
+10. CMAR
+
+- GMP 3 (Package 2A)       Two Secondary Clarifiers, Odor Control, and FBD
+- GMP 4 (Package 2B)        RAS Reaeration including 3 new blowers and basins
+- GMP 5 (Package 3)          Tricking filter media replacement and improvements
+
+11. WIFIA Project Status
+
+- Lagoon 2A Upgrade
+- Secondary Dewatering Improvements
+- Lagoon 5 Expansion
+
+12. Other Projects
+
+- New flares, biogas treatment, sulfur disposal
+- USP Technology [SulFelox - USP Technologies](https://usptechnologies.com/SulFeLox/)
+- Nonconnah, PI, HLI sampling and flow metering
+- Collosus WRF (CWRF)
+
+13. Open for Discussion
+
+________________________________________________________________________________
+
+**Microsoft Teams**[Need help?](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Den-US&data=05%7C02%7CGEORGE.BENNETT%40memphistn.gov%7Cb2d3ffb7e7c44ad5242f08dd2e816972%7C416475616537442396a9859e89f8919f%7C0%7C0%7C638717855531235732%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=JB8qmsOMi8DmbEeTBZmFm2D%2Bqj3OfPbFeDKX07n44nU%3D&reserved=0 "https://gcc02.safelinks.protection.outlook.com/?url=https%3a%2f%2faka.ms%2fjointeamsmeeting%3fomkt%3den-us&data=05%7c02%7cgeorge.bennett%40memphistn.gov%7cb2d3ffb7e7c44ad5242f08dd2e816972%7c416475616537442396a9859e89f8919f%7c0%7c0%7c638717855531235732%7cunknown%7ctwfpbgzsb3d8eyjfbxb0eu1hcgkionrydwusilyioiiwljaumdawmcisilaioijxaw4zmiisikfoijoitwfpbcisilduijoyfq%3d%3d%7c0%7c%7c%7c&sdata=jb8qmsomi8dmbeetbzmfm2d%2bqj3ofpbfedkx07n44nu%3d&reserved=0")
+
+[**Join the meeting now**](https://gcc02.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_MDQxODBmMDQtZTA5Mi00OWJhLWIwNDgtNDkzMDg4ZTdmOTRl%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252241647561-6537-4423-96a9-859e89f8919f%2522%252c%2522Oid%2522%253a%2522b386dc89-3d00-460f-ab8d-918f041ccf16%2522%257d&data=05%7C02%7CGEORGE.BENNETT%40memphistn.gov%7Cb2d3ffb7e7c44ad5242f08dd2e816972%7C416475616537442396a9859e89f8919f%7C0%7C0%7C638717855531254317%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Mhu3j3k%2FKIEHoKMcBcUUXbMJKaZaD0uz9bqyyzliRlo%3D&reserved=0 "https://gcc02.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3a%2f%2fteams.microsoft.com%2fl%2fmeetup-join%2f19%253ameeting_mdqxodbmmdqtzta5mi00owjhlwiwndgtndkzmdg4ztdmotrl%2540thread.v2%2f0%3fcontext%3d%257b%2522tid%2522%253a%252241647561-6537-4423-96a9-859e89f8919f%2522%252c%2522oid%2522%253a%2522b386dc89-3d00-460f-ab8d-918f041ccf16%2522%257d&data=05%7c02%7cgeorge.bennett%40memphistn.gov%7cb2d3ffb7e7c44ad5242f08dd2e816972%7c416475616537442396a9859e89f8919f%7c0%7c0%7c638717855531254317%7cunknown%7ctwfpbgzsb3d8eyjfbxb0eu1hcgkionrydwusilyioiiwljaumdawmcisilaioijxaw4zmiisikfoijoitwfpbcisilduijoyfq%3d%3d%7c0%7c%7c%7c&sdata=mhu3j3k%2fkiehokmcbcuuxbmjkazad0uz9bqyyzlirlo%3d&reserved=0")
+
+Meeting ID: 284 232 597 099
+
+Passcode: LhShMt
+
+---
+
+**Dial in by phone**
+
+[+1 901-440-0342,,644764766#](tel:+19014400342,,644764766 "tel:+19014400342,,644764766")United States, Memphis
+
+[Find a local number](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2F5017eb90-925d-44f9-a7c0-253cf7ffd87f%3Fid%3D644764766&data=05%7C02%7CGEORGE.BENNETT%40memphistn.gov%7Cb2d3ffb7e7c44ad5242f08dd2e816972%7C416475616537442396a9859e89f8919f%7C0%7C0%7C638717855531268028%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SgA6YxhhdzBi%2B2IzRcAmDujLPe021AcFg2M%2F0we6IcI%3D&reserved=0 "https://gcc02.safelinks.protection.outlook.com/?url=https%3a%2f%2fdialin.teams.microsoft.com%2f5017eb90-925d-44f9-a7c0-253cf7ffd87f%3fid%3d644764766&data=05%7c02%7cgeorge.bennett%40memphistn.gov%7cb2d3ffb7e7c44ad5242f08dd2e816972%7c416475616537442396a9859e89f8919f%7c0%7c0%7c638717855531268028%7cunknown%7ctwfpbgzsb3d8eyjfbxb0eu1hcgkionrydwusilyioiiwljaumdawmcisilaioijxaw4zmiisikfoijoitwfpbcisilduijoyfq%3d%3d%7c0%7c%7c%7c&sdata=sga6yxhhdzbi%2b2izrcamdujlpe021acfg2m%2f0we6ici%3d&reserved=0")
+
+Phone conference ID: 644 764 766#
