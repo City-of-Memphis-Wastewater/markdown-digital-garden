@@ -4,7 +4,7 @@
 
 Yesterday: [[Daily Activity Log/04 February 2025\|04 February 2025]]
 - [ ] Read Title V operating permit, for air quality. Notes: [[Information Heap/Title V Operating Permit notes\|Information Heap/Title V Operating Permit notes]]
-- [x] [[Organizations/Conservation Organizations/OV100 Training\|OV100 Training]]
+- [x] [[Information Heap/OV100 Training\|OV100 Training]]
 
 Ovation jargon:
 - Loops = scans
