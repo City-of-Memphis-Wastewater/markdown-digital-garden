@@ -4,8 +4,8 @@
 
 I would like to make an IT request to:
 - [x] install software: [Everything download URL](voidtools.com.md): rejected: [[Software/Everything software\|Everything software]]
-	- [ ] How: Run the installer and ask for admin password to index the NTFS
-- [ ] install WSL2 access
+	- [x] How: Run the installer and ask for admin password to index the NTFS: they said no
+- [x] install WSL2 access
 	- Options (select one  or more):
 	- [ ] Arch
 	- [ ] ~~Kali~~
