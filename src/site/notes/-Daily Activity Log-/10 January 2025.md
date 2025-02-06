@@ -19,7 +19,7 @@ I would like to make an IT request to:
 
 Learning: 
 - [[Software/QML Document\|QML Document]] #software
-- Try Bitberry File Opener: [Download BitBerry](www.bitberry.com)
+- Try Bitberry File Opener: [Download BitBerry](https://www.bitberry.com)
 - [[Software/SCB file\|SCB file]]
 - [[Software/GPKG file\|GPKG file]]
 - Phone link failed while disconnected from network, error code 0x80190001
