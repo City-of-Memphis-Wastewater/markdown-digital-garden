@@ -33,3 +33,4 @@
 
 
 Check out this [[Personal/Pavlov3D/Chat GPT Django Improvements Report\|Personal/Pavlov3D/Chat GPT Django Improvements Report]]
+Furthermore: https://chatgpt.com/share/67a526cc-a7c0-8001-94cf-948e30600ac0
