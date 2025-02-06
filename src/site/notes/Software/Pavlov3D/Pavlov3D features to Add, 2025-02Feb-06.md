@@ -28,3 +28,8 @@
 - ▅▃▂▅▆▆▆▆▆▆▄▂▂▃▄▆▅▃▂▁▂▃▅▆▆▅▃▂▅▆▆▆▆▆▆▄▂▂▃▄▆▅▃▂▁
 - ▄█▄█▄█▄▄███▄▄▄███▄▄▄▄▄████▄▄▄▄█████
 - Password protected file upload to blob - accept everything
+- .git filetype exception: exe, fbx, glb, build folder, msix folder, 
+- get rid of big files, especially old cli exe files
+
+
+Check out this [[Personal/Pavlov3D/Chat GPT Django Improvements Report\|Personal/Pavlov3D/Chat GPT Django Improvements Report]]
