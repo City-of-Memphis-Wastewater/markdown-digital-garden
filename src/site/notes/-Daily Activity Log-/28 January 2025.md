@@ -10,7 +10,7 @@
 	- [x] Try to use [[Software/EDS Excel plugin\|Software/EDS Excel plugin]] from [[People/Matt Dannemueller\|People/Matt Dannemueller]]
 	- [x] Read Lagoon 5 Project files from [[People/Mike Brower\|Mike Brower]] - it will be a covered lagoon
 
-- [x] Write up draft spreadsheet for [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]] as per [[People/Rodney Williams\|people/Rodney Williams]]. Find example: [[2024 Annual accomplishment report.xlsx\|2024 Annual accomplishment report.xlsx]]. Additional reference:  TEM BioRem Data-Calcs v2.
+- [x] Write up draft spreadsheet for [[Assignments/z-Biogas Flare Summary\|z-Biogas Flare Summary]] as per [[People/Rodney Williams\|people/Rodney Williams]]. Find example: [[2024 Annual accomplishment report.xlsx\|2024 Annual accomplishment report.xlsx]]. Additional reference:  TEM BioRem Data-Calcs v2.
 	- [x] Send draft to Don
 	- [x] Find Rodney Williams, laptop in hand, to specify month estimations for each item. Also improve wording specificity. - sent email
 - [x] Check OV100 schedule with [[People/Krish\|Krish]]: Starts at 9 AM on 3rd February. Mail materials. Contact person: Kristen at pws.education@emerson.com.

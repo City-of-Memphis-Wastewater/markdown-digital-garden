@@ -7,7 +7,7 @@
 - [x] Open github account
 - [ ] Open cloudflare account
 - [x] Order 128 gb non-bitlockered Kanguru drive
-- [x] Talk to [[People/Chris Luss\|People/Chris Luss]] about logs for [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]] , to report to [[People/Don Hudgins\|Don Hudgins]]
+- [x] Talk to [[People/Chris Luss\|People/Chris Luss]] about logs for [[Assignments/z-Biogas Flare Summary\|z-Biogas Flare Summary]] , to report to [[People/Don Hudgins\|Don Hudgins]]
 
 
 Learnings:

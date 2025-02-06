@@ -5,7 +5,7 @@
 - [x] Create digital version of BioRem quiz 2 for Stacy Bullard : https://forms.office.com/g/iRuMPgQuwE
 - [x] Learn about microSiemens/cm  (μS/cm)
 - [x] Check RSA-256 encryption stability: 256 is busted, 2048 should be okay for now, with 2% risk; [Chinese scientists claim they broke RSA encryption with a quantum computer — but there's a catch | Live Science](https://www.livescience.com/technology/computing/chinese-scientists-claim-they-broke-rsa-encryption-with-a-quantum-computer-but-theres-a-catch)
-- [ ] Work on Don's project for [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]] - frequency chart design (what happened and how often and when)
+- [ ] Work on Don's project for [[Assignments/z-Biogas Flare Summary\|z-Biogas Flare Summary]] - frequency chart design (what happened and how often and when)
 - [x] Get files from Stacy Bullard 
 - [x] Install WSL2 Ubuntu
 - [x] Learning with Stacy Bullard

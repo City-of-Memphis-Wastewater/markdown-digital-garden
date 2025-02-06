@@ -29,7 +29,7 @@
 	- [x] Feed CSV files into Pavlov3D. No grouping.
 - [x] Send email to Giovanni at Emerson about "EDS archive" function failures, check syntax
 - [x] Ask [[People/Pete Gabor\|Pete Gabor]] / Mike for Giovanni's contact info
-- [x] Send [[People/Rodney Williams\|Rodney Williams]] an email to clarify dates for [[Assignments/Biogas Flare Summary\|Biogas Flare Summary]]
+- [x] Send [[People/Rodney Williams\|Rodney Williams]] an email to clarify dates for [[Assignments/z-Biogas Flare Summary\|z-Biogas Flare Summary]]
 - [x] Adjust Digital Garden style
 	- *Ars Magna* was good but I don't like how it shows text boxes
 	- *Consolas* is good in every way (bullets, aesthetic, color) except for the yellow headings

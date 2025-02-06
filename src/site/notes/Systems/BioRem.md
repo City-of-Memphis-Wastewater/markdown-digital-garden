@@ -14,4 +14,4 @@ Both the [[Systems/BioRem\|BioRem]] system and the [[Systems/BioAir\|BioAir]] sy
 The bio-remediation system is installed at the lagoons to handled captured [[Chemicals/Biogasses\|Biogasses]]
 
 Look at:
-[[Assignments/Biogas Flare Summary\|Biogas Flare Summary]]
+[[Assignments/z-Biogas Flare Summary\|z-Biogas Flare Summary]]

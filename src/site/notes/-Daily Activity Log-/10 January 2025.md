@@ -30,7 +30,7 @@ Activities:
 2. Attempt to install [[Software/Everything software\|Everything software]]
 3. Learn about AppData\Local and AppData\Roaming as a use case of portable [[Software/CADAssistant\|CADAssistant]] 
 4. Organize Obsidian. Create [[Assignments/z-init\|z-init]] folder
-5. Clarify the [[Assignments/Biogas Flare Summary\|Assignments/Biogas Flare Summary]] assignment
+5. Clarify the [[Assignments/z-Biogas Flare Summary\|z-Biogas Flare Summary]] assignment
 
 Assignments:
 - Help Don and Krish with the [[Projects/Biogas Flare Reports\|Biogas Flare Reports]]
