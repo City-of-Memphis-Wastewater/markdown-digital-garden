@@ -1,1 +1,1 @@
-publish.css:.tree-item-self[data-path^='wte/Blog'] + .tree-item-children { display: flex; flex-direction: column-reverse; }
+.tree-item-self[data-path^='wte/Blog'] + .tree-item-children { display: flex; flex-direction: column-reverse; }
