@@ -16,3 +16,13 @@ To manifest added points:
 	2. Digital value: ON (1)
 	3. Test Mode: ON
 	4. Latched Quality: GOOD
+
+EMOD: 1C31234G01
+PMOD: 1C31238H01
+
+![Pasted image 20250206091219.png](/img/user/Pasted%20image%2020250206091219.png)
+A
+
+Add module point
+Add switch
+Load
