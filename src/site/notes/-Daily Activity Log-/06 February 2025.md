@@ -28,3 +28,7 @@ A
 Add module point
 Add switch
 Load
+
+SW101 FIRST SWITCH ON 1.1.2 COMPACT INPUT
+SW202 SW203 SW204
+Points DI
