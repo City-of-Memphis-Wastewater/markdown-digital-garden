@@ -13,7 +13,7 @@ If we do not filter the furnace room window, the equipment within the furnace ro
 Solutions:
 - [[Equipment/Purafil\|Equipment/Purafil]]: [Purafil Website](https://www.purafil.com/)
 
-On [[-Daily Activity Log-/2025 01January 27\|2025 01January 27]], [[People/Mike Brower\|Mike Brower]] suggested that I circle back to [[People/Gary Garrison\|Gary Garrison]] about choosing and ordering a [[Equipment/Purafil\|equipment/Purafil]] unit. Typically this would be handled through the maintenance manager [[People/Mars\|Mars]], who is currently  on vacation.
+On [[-Daily Activity Log-/2025 01-January 27\|2025 01-January 27]], [[People/Mike Brower\|Mike Brower]] suggested that I circle back to [[People/Gary Garrison\|Gary Garrison]] about choosing and ordering a [[Equipment/Purafil\|equipment/Purafil]] unit. Typically this would be handled through the maintenance manager [[People/Mars\|Mars]], who is currently  on vacation.
 
 To mitigate the [[FailureModes/Hydrogen sulfide\|Hydrogen sulfide]] issue after the building was build, [[Manufacturers/Allen Air\|Manufacturers/Allen Air]] air filtration units were distributed throughout the building, within proximity to key components of the Emerson Ovation system. 
 
