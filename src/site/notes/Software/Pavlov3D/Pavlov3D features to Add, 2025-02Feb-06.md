@@ -10,4 +10,10 @@
 - multiple axes scaling, and kicking out unassigned curves is the easiest way to get to functional visualization of [[Software/Emerson Ovation\|Emerson Ovation]] raw data 
 - Add file support, possibly in config file or in annotation folder, for text box control. Allow users to reference variables using curly brackets
 - call python
+- Android Widget workflow (buttons):
+	- Select zip file for imports (auto load to default project folder)
+	- Generate FBX file
+- Add import file-list pointer file (if not present, use all); (smacks of file filtering....) ("algorithm":"file-filter";"file-list";"try-all")
+	- Zip config, file config. Point to particular folder or zip folder (or multiples of both, as single or multiple item list) within the imports directory. So that the project settings can all stay the same, but data selection can change. Record query history with datetimes. Same for all configs. Keep in array? Array. Load row.
+	- Mixed filetypes would be sweet (STL's, CSV's, GPX's, PNG's with transparency, all auto scaled with same-height multiple axes)
 
