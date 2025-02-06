@@ -17,4 +17,14 @@
 	- Zip config, file config. Point to particular folder or zip folder (or multiples of both, as single or multiple item list) within the imports directory. So that the project settings can all stay the same, but data selection can change. Record query history with datetimes. Same for all configs. Keep in array? Array. Load row.
 	- Mixed filetypes would be sweet (STL's, CSV's, GPX's, PNG's with transparency, all auto scaled with same-height multiple axes)
 - *history* folder in program directory, next to the *projects* folder
-
+- Add do_sketchfab(self,line) command, to open browser URL see sketchfab models
+- Make a legitimately well edited tutorial video? Explain current file structure and workflow
+- Ask user on install where they would like their projects folder to be.  (actually, just ask if they would like a shortcut to be generated that leads to the default location, and where should that shortcut be placed.)
+- Move the ball down the field on grouping standardization
+- Look into YAML or TOML
+- Remove logo topography - it doesn't show in the terminal. Can I should the terminal specs when loading inno? or when running pyinstaller.
+- ![Pasted image 20250206123746.png](/img/user/Pasted%20image%2020250206123746.png)
+- Form spark to use only certain heights - some fail as ascii Seems there are only two heights - half and whole
+- ▅▃▂▅▆▆▆▆▆▆▄▂▂▃▄▆▅▃▂▁▂▃▅▆▆▅▃▂▅▆▆▆▆▆▆▄▂▂▃▄▆▅▃▂▁
+- ▄█▄█▄█▄▄███▄▄▄███▄▄▄▄▄████▄▄▄▄█████
+- Password protected file upload to blob - accept everything

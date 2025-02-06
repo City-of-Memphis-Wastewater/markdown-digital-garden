@@ -23,7 +23,14 @@ EMOD: 1C31234G01
 PMOD: 1C31238H01
 
 ![Pasted image 20250206091219.png](/img/user/Pasted%20image%2020250206091219.png)
-A
+ OVREF1160
+ Thermo couple, compensate for cold junction
+ ![Pasted image 20250206120835.png](/img/user/Pasted%20image%2020250206120835.png)
+ Part number: 5X00070G04
+ ![Pasted image 20250206122505.png](/img/user/Pasted%20image%2020250206122505.png)
+ 
+ ![Pasted image 20250206122518.png](/img/user/Pasted%20image%2020250206122518.png)
+
 
 Add module point
 Add switch
@@ -31,4 +38,22 @@ Load
 
 SW101 FIRST SWITCH ON 1.1.2 COMPACT INPUT
 SW202 SW203 SW204
-Points DI
+
+
+Build for thermocouple
+![Pasted image 20250206122814.png](/img/user/Pasted%20image%2020250206122814.png)
+![Pasted image 20250206123031.png](/img/user/Pasted%20image%2020250206123031.png)
+B---- because we're working in Drop2
+
+
+![Pasted image 20250206123254.png](/img/user/Pasted%20image%2020250206123254.png)
+Assign module point name to particular piece of hardware
+
+This stuff:
+![Pasted image 20250206123428.png](/img/user/Pasted%20image%2020250206123428.png)
+Belongs here:
+![Pasted image 20250206123445.png](/img/user/Pasted%20image%2020250206123445.png)
+
+
+OV1150 pdf
+![Pasted image 20250206125239.png](/img/user/Pasted%20image%2020250206125239.png)
