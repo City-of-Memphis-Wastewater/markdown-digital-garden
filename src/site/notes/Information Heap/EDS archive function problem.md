@@ -6,7 +6,7 @@ The EDS_AV() function works to provide real-time access to a given point. It is 
 
 
 
-Email  "EDS Archive functions" , on [[-Daily Activity Log-/30 January 2025\|30 January 2025]]
+Email  "EDS Archive functions" , on [[-Daily Activity Log-/2025 01January 30\|2025 01January 30]]
 - Hi Geovanny,
 	Here at City of Memphis are having a hard time referencing time values using the EDS Excel plugin, specifically with any of the "EDS archives" functions. For example, the EDS_Avg() function does not work as expected, as shown in the EDS Excel Plug-in User Guide (EDS920_50, Version 9.2.0, February 2018) and on page 19 (page 23 of the PDF). 
 	
