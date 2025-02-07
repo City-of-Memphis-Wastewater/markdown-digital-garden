@@ -9,8 +9,8 @@ President:
  
 
 Field folk:
-- [[people/Ryan Stringer\|people/Ryan Stringer]]
-- [[people/Spencer Belcher\|people/Spencer Belcher]]
+- [[People/Ryan Stringer\|people/Ryan Stringer]]
+- [[People/Spencer Belcher\|people/Spencer Belcher]]
 
 Reports:
 - [[People/Marian Coussan\|people/Marian Coussan]]

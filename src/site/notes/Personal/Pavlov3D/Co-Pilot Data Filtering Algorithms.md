@@ -220,7 +220,7 @@ Actually, the Ramer-Douglas-Peucker algorithm and the Douglas-Peucker algorithm 
 So, whether you call it Ramer-Douglas-Peucker or Douglas-Peucker, you're referring to the same line simplification algorithm that retains significant points while reducing the overall number of points in a data set.
 
 ## Query:
-> If you could only choose one algoirhtm for filtering, you would choose RDP?
+> If you could only choose one algorithm for filtering, you would choose RDP?
 
 ## Answer:
 If I had to choose just one filtering algorithm, the Ramer-Douglas-Peucker (RDP) algorithm would be a strong contender because of its flexibility and effectiveness in reducing complexity while retaining essential features. It's widely used in various applications and provides a good balance between efficiency and accuracy. However, the best choice ultimately depends on the specific characteristics and requirements of your data.
