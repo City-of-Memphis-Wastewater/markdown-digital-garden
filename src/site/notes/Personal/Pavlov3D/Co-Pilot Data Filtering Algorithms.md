@@ -4,7 +4,11 @@
 
 
 ## Key points: THD
-Use the third axis for the alterative filter in the same model.
+- Use the second and third axis for the alterative filters in the same model.
+- Filters: 
+	1. Ramer-Douglas-Peucker (RDP)
+	2. **Anomaly Detection-Based Filtering**
+	3. 
 ## Previous: [[Personal/Pavlov3D/Co-Pilot Halfwidth Cube Plot Scaling Algorithm\|Co-Pilot Halfwidth Cube Plot Scaling Algorithm]]
 Other: [[Personal/Pavlov3D/Co-Pilot Multiple Axis Plot Scaling Algorithm\|Co-Pilot Multiple Axis Plot Scaling Algorithm]] 
 ## Query:
@@ -17,7 +21,7 @@ Absolutely! Let's dive into data filtering algorithms. We'll look at methods to 
 
 #### **For Users Who Care About Outliers**
 
-1. **Douglas-Peucker Algorithm**
+2. **Douglas-Peucker Algorithm**
     
     - **Description:** Simplifies a curve by reducing the number of points, preserving significant points like outliers.
         
@@ -35,7 +39,7 @@ Absolutely! Let's dive into data filtering algorithms. We'll look at methods to 
             
         5. Repeat until all significant points are retained.
             
-2. **Ramer-Douglas-Peucker (RDP) Algorithm**
+3. **Ramer-Douglas-Peucker (RDP) Algorithm**
     
     - **Description:** Similar to Douglas-Peucker, but with a more flexible approach to preserving critical points.
         
@@ -51,7 +55,7 @@ Absolutely! Let's dive into data filtering algorithms. We'll look at methods to 
             
         4. Continue until no points exceed the threshold distance.
             
-3. **Anomaly Detection-Based Filtering**
+4. **Anomaly Detection-Based Filtering**
     
     - **Description:** Uses machine learning techniques to identify and retain outliers as significant data points.
         
@@ -68,7 +72,7 @@ Absolutely! Let's dive into data filtering algorithms. We'll look at methods to 
 
 #### **For Users Who Prefer Ignoring Outliers**
 
-4. **Moving Average Filtering**
+5. **Moving Average Filtering**
     
     - **Description:** Smooths the data by averaging a fixed number of neighboring points, effectively reducing noise and ignoring outliers.
         
@@ -84,7 +88,7 @@ Absolutely! Let's dive into data filtering algorithms. We'll look at methods to 
             
         4. Repeat for all points in the dataset.
             
-5. **Exponential Smoothing**
+6. **Exponential Smoothing**
     
     - **Description:** Applies a smoothing factor to reduce the influence of outliers, prioritizing recent data points.
         
@@ -99,9 +103,9 @@ Absolutely! Let's dive into data filtering algorithms. We'll look at methods to 
 
 St=α⋅Xt+(1−α)⋅St−1S_t = \alpha \cdot X_t + (1 - \alpha) \cdot S_{t-1}
 
-6. Repeat for all points, where StS_t is the smoothed value and XtX_t is the original value.
+7. Repeat for all points, where StS_t is the smoothed value and XtX_t is the original value.
     
-7. **Kalman Filtering**
+8. **Kalman Filtering**
     
     - **Description:** Uses a series of measurements observed over time to produce estimates of unknown variables, minimizing the influence of outliers.
         
@@ -171,7 +175,7 @@ If you know nothing about your data, but you want to reduce filesize and improve
 ## Answer:
 In scenarios where you have no prior knowledge of your data but want to reduce file size and improve efficiency, the following two filters might serve you best:
 
-1. **Douglas-Peucker**
+9. **Douglas-Peucker**
    - **Purpose**: Simplifying data by retaining significant points
    - **Pros**: 
      - Efficiently reduces complexity
@@ -181,7 +185,7 @@ In scenarios where you have no prior knowledge of your data but want to reduce f
      - May miss important details
      - Sensitive to threshold settings
 
-2. **Anomaly Detection-Based Filtering**
+10. **Anomaly Detection-Based Filtering**
    - **Purpose**: Identifying and retaining outliers
    - **Pros**:
      - Effectively detects anomalies
@@ -265,18 +269,18 @@ Here's a summary of how you can achieve this:
 
 ### Step-by-Step Approach
 
-1. **Generate Two Filtered Outputs**:
+11. **Generate Two Filtered Outputs**:
    - Apply the **Anomaly Detection-Based Filtering** to your raw time-series data to identify and retain outliers.
    - Apply the **Douglas-Peucker Filtering** to simplify the data by retaining significant points.
 
-2. **Create Parallel Data Structures**:
+12. **Create Parallel Data Structures**:
    - Store both filtered outputs as separate layers or sets within the same data model.
 
-3. **Visualize on Different Axes**:
+13. **Visualize on Different Axes**:
    - Use the primary axis (Time vs. Height) to display the curve filtered through **Anomaly Detection-Based Filtering**.
    - Use the secondary axis (Time vs. Depth) to display the curve filtered through **Douglas-Peucker Filtering**.
 
-4. **Interactive 3D Visualization**:
+14. **Interactive 3D Visualization**:
    - Implement an interactive 3D visualization where users can rotate the screen to switch between different perspectives.
    - This allows users to see the effect of each filtering algorithm on the same dataset, offering insights into how each method highlights different aspects of the data.
 
@@ -317,3 +321,5 @@ Cite:
 - [pyrdp · PyPI](https://pypi.org/project/pyrdp/?form=MG0AV3)
 
 
+## Next:
+[[Personal/Pavlov3D/Co-Pilot Compare Processing Power Requirements for Filtering and File Import\|Co-Pilot Compare Processing Power Requirements for Filtering and File Import]]
