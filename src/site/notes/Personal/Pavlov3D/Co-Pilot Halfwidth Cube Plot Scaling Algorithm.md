@@ -5,7 +5,7 @@
 ## Previous: 
 [[Personal/Pavlov3D/Co-Pilot Multiple Axis Plot Scaling Algorithm\|Co-Pilot Multiple Axis Plot Scaling Algorithm]]
 ## Query:
-Okay. Great work. We have discusse a multiple axis scaling algorithm, to convert all curves to be equally obeservable in space. Now I need a different scaling algorith: The equal-scaled cubing of halfwidths. This one deals with the hallfwidths between each datapoint. The halfwidth is calulated by finding the smallest distance in each vector in each direction. Calculate half of that distance. From this, each curve will have a characteristic cube size that represent that three scallest halfwidths in each direction. For the cube, halfwidth becomes a misnomer, because it is then doubled, outward from the middle point of each cube. Hlaf of the cube is a halfwidth. Because of variations in data, if the raw data is unscaled, these "cubes" are not equal-distance on each side. I need a scaling algorithm that will find the ideal half width cube that suits all curves loaded into the space, and ten will scale this granular cube to appear visibly equal-sided. This algorithm will allow the entire space to be non-square and will allow each curve to be non-square, but each data point will be square.
+> Okay. Great work. We have discussed a multiple axis scaling algorithm, to convert all curves to be equally observable in space. Now I need a different scaling algorithm: The equal-scaled cubing of halfwidths. This one deals with the halfwidths between each data point. The halfwidth is calculated by finding the smallest distance in each vector in each direction. Calculate half of that distance. From this, each curve will have a characteristic cube size that represent that three smallest halfwidths in each direction. For the cube, halfwidth becomes a misnomer, because it is then doubled, outward from the middle point of each cube. Half of the cube is a halfwidth. Because of variations in data, if the raw data is unscaled, these "cubes" are not equal-distance on each side. I need a scaling algorithm that will find the ideal half width cube that suits all curves loaded into the space, and ten will scale this granular cube to appear visibly equal-sided. This algorithm will allow the entire space to be non-square and will allow each curve to be non-square, but each data point will be square.
 
 ## Answer:
 That sounds like quite a fascinating and intricate task! Let's design this scaling algorithm step-by-step:
@@ -135,7 +135,7 @@ Let me know if there are any more customizations or details you'd like to add! �
 
 
 ## Query: Variation in scaled cubes.
-What are the pitfalls and risks of this algorith? Will the ideal scaled characteristic halfwidth cube for each curve differ from the scaled characteristic haldwidth cube for each other curve? If they were all made equal, would they be equal-sided when scaled?
+> What are the pitfalls and risks of this algorith? Will the ideal scaled characteristic halfwidth cube for each curve differ from the scaled characteristic haldwidth cube for each other curve? If they were all made equal, would they be equal-sided when scaled?
 
 ## Answer:
 The concept of scaling each data point to fit into an ideal halfwidth cube is intriguing and complex. Here are some potential pitfalls and risks associated with this algorithm:
@@ -163,7 +163,7 @@ In summary, while the algorithm can effectively normalize and scale data to ensu
 Would you like to explore alternative approaches or solutions to address these risks? 🔍
 
 ## Human Response:
-Yes. Also, define [[Vocabulary/normalization\|vocabulary/normalization]]. Does this word apply outside of logarithmic normalization?
+> Yes. Also, define [[Vocabulary/normalization\|vocabulary/normalization]]. Does this word apply outside of logarithmic normalization?
 
 ## Co-Pilot Answer: 
 Absolutely, let's explore alternatives and address normalization.
@@ -293,7 +293,7 @@ This refined algorithm uses **adaptive normalization** to adjust the scale of ea
 Does this address the risks and concerns effectively? Or would you like further refinements? 🌟
 
 ## Query:
-In concise terms, can the halfwidth cubes (based on minimum-distance between data points) for all curves be scaled to appear homogenous?
+> In concise terms, can the halfwidth cubes (based on minimum-distance between data points) for all curves be scaled to appear homogenous?
 
 ## Answer:
 Yes, the halfwidth cubes (based on minimum-distance between data points) for all curves can be scaled to appear homogenous. This involves determining a common scaling factor that makes these cubes visually equal-sided across all curves, ensuring uniformity in their appearance. 🌟
@@ -396,7 +396,7 @@ This function ensures that each data point is scaled to fit the ideal halfwidth 
 Feel free to test and adapt the code to your specific needs! If there's more you need to explore or further questions arise, let me know! 📊
 
 ## Query:
-Please show the upsteam function that returns ideal_halfwidth
+> Please show the upsteam function that returns ideal_halfwidth.
 
 ## Answer:
 
@@ -507,7 +507,7 @@ Is aligned and true, by `find_ideal_halfwidth()`'s hand.
 Hope you enjoyed this poetic take on the function! If you need more poetry or any other assistance, just let me know! 🌟
 
 ## Query:
-What are the possible applications of this algorithm that we have discussed?
+> What are the possible applications of this algorithm that we have discussed?
 
 ## Answer:
 The algorithm we've discussed for adaptive normalization and equal-scaled halfwidth cubes has several potential applications across various fields:
@@ -607,7 +607,7 @@ Both algorithms serve specific purposes and can be chosen based on the visualiza
 Is there anything more you'd like to delve into, or another aspect you’d like to explore? 🌟
 
 ## Query:
-How would you expect the output visual to differ, aesthetically, when producing export models for the same data, compared between these two algorithms?
+> How would you expect the output visual to differ, aesthetically, when producing export models for the same data, compared between these two algorithms?
 
 ## Answer:
 The output visuals from the two algorithms would indeed differ aesthetically. Here's a comparison:
@@ -655,7 +655,7 @@ These aesthetic differences highlight the unique approaches and outcomes of each
 If you have any more questions or need further elaboration, feel free to ask! 📊
 
 ## Query:
-Between the two, which algorithm do think is more urgent?
+> Between the two, which algorithm do think is more urgent?
 
 ## Answer:
 The urgency of implementing these algorithms depends on your specific needs and objectives. However, here's a brief comparison to help you decide:
@@ -677,7 +677,7 @@ Both algorithms have their unique merits and address different visualization nee
 What do you think? Any additional details or preferences you'd like to share? 🚀
 
 ## Human Response:
-I agree. I think the multiple axis plot scaling algorithm has a more generalized use case and is easier to develop. It allows for quick and useful visualization of disparate data, allowing user to easily compare data characterization.
+> I agree. I think the multiple axis plot scaling algorithm has a more generalized use case and is easier to develop. It allows for quick and useful visualization of disparate data, allowing user to easily compare data characterization.
 
 ## Co-Pilot Response:
 That makes perfect sense! The multiple axis plot scaling algorithm indeed offers a more generalized and versatile approach. Its ability to quickly align and visualize disparate datasets makes it a powerful tool for comparative analysis.
@@ -690,7 +690,7 @@ Here's a quick recap of its advantages:
 If you need any further assistance or refinements on the multiple axis plot scaling algorithm, feel free to ask! I'm here to help you make the most out of your data visualization endeavors. 🚀📊
 
 ## Query:
-What are the limits of this aglorithm and what missing value does the alternative halfwidth cubing algorithm provide?
+> What are the limits of this algorithm and what missing value does the alternative halfwidth cubing algorithm provide?
 
 ## Answer:
 Let's explore the limits of the **Multiple Axis Plot Scaling Algorithm** and the additional value provided by the **Halfwidth Cube Plot Scaling Algorithm**.
@@ -739,7 +739,7 @@ Feel free to reach out if you have any more questions or need further clarificat
 
 
 ## Query:
-For each algorithm, do they favor reducing noise or instead do they favor attention to outliers?
+> For each algorithm, do they favor reducing noise or instead do they favor attention to outliers?
 
 ## Answer:
 ### **Multiple Axis Plot Scaling Algorithm**

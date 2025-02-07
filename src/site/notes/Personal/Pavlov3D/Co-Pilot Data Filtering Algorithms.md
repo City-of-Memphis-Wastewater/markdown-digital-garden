@@ -3,16 +3,19 @@
 ---
 
 
-## Key points: THD
-- Use the second and third axis for the alterative filters in the same model.
+## Relevant:
+Previous: [[Personal/Pavlov3D/Co-Pilot Halfwidth Cube Plot Scaling Algorithm\|Co-Pilot Halfwidth Cube Plot Scaling Algorithm]]
+Other: [[Personal/Pavlov3D/Co-Pilot Multiple Axis Plot Scaling Algorithm\|Co-Pilot Multiple Axis Plot Scaling Algorithm]] 
+Next: [[Personal/Pavlov3D/Co-Pilot Compare Processing Power Requirements for Filtering and File Import\|Co-Pilot Compare Processing Power Requirements for Filtering and File Import]]
+
+## Key points:
+- THD: Use the second and third axis for the alterative filters in the same model.
 - Filters: 
 	1. Ramer-Douglas-Peucker (RDP)
 	2. **Anomaly Detection-Based Filtering**
-	3. 
-## Previous: [[Personal/Pavlov3D/Co-Pilot Halfwidth Cube Plot Scaling Algorithm\|Co-Pilot Halfwidth Cube Plot Scaling Algorithm]]
-Other: [[Personal/Pavlov3D/Co-Pilot Multiple Axis Plot Scaling Algorithm\|Co-Pilot Multiple Axis Plot Scaling Algorithm]] 
+
 ## Query:
-Let us discuss data filtering algorithms, to reduce the number of points while maintaining the usefulness of the signal. Discuss algorithms for users that care about the outliers and also for users that care about ignoring outliers.
+> Let us discuss data filtering algorithms, to reduce the number of points while maintaining the usefulness of the signal. Discuss algorithms for users that care about the outliers and also for users that care about ignoring outliers.
 
 ## Answer:
 Absolutely! Let's dive into data filtering algorithms. We'll look at methods to reduce the number of points while maintaining the signal's usefulness, catering to both users who care about outliers and those who prefer to ignore them.
@@ -131,7 +134,7 @@ St=α⋅Xt+(1−α)⋅St−1S_t = \alpha \cdot X_t + (1 - \alpha) \cdot S_{t-1}
 | **Anomaly Detection-Based Filtering** | Identifying and retaining outliers    | Detecting anomalies/outliers | Filters data points that significantly deviate from the norm |
 
 ## Query:
-Please show a graph or visual (with 9 or more cells) that demonstrates the characteristic differences between these scaling algorithms.
+> Please show a graph or visual (with 9 or more cells) that demonstrates the characteristic differences between these scaling algorithms.
 
 ## Answer:
 Frozen.
@@ -154,7 +157,7 @@ It looks like you want a visual comparison of different scaling algorithms. Unfo
 This table should help you understand the characteristic differences between these scaling algorithms! If you have any specific algorithms in mind, let me know, and we can dive deeper into them. 😊
 
 ## Query:
-In a similar fashion, please show the puporse, the pros, the and cons for these filtering algorithms: Douglas-Peucker, Ramus-Douglas-Peucker, and Anomaly Detection-Based Filtering.
+> In a similar fashion, please show the puporse, the pros, the and cons for these filtering algorithms: Douglas-Peucker, Ramus-Douglas-Peucker, and Anomaly Detection-Based Filtering.
 
 ## Answer:
 Absolutely! Here's a comparative summary for these filtering algorithms:
@@ -170,7 +173,7 @@ Absolutely! Here's a comparative summary for these filtering algorithms:
 I hope this helps clarify the key differences between these filtering algorithms! If you have more questions or need further details, feel free to ask. 😊
 
 ## Query:
-If you know nothing about your data, but you want to reduce filesize and improve efficiency, what filter would you use? Pick two, both of which allow for optimal characterization of whatever the data is.
+> If you know nothing about your data, but you want to reduce file size and improve efficiency, what filter would you use? Pick two, both of which allow for optimal characterization of whatever the data is.
 
 ## Answer:
 In scenarios where you have no prior knowledge of your data but want to reduce file size and improve efficiency, the following two filters might serve you best:
@@ -198,7 +201,7 @@ In scenarios where you have no prior knowledge of your data but want to reduce f
 These two filters would help reduce file size while maintaining the integrity of critical data points and efficiently characterizing whatever data you have.
 
 ## Query:
-Who is Ramer?
+> Who is Ramer?
 
 ## Answer:
 The Ramer-Douglas-Peucker algorithm, also known simply as the Douglas-Peucker algorithm, was developed by two researchers: **David Douglas** and **Thomas Peucker**. It is sometimes mistakenly attributed to a "Ramer," but there is no known individual by that name associated with the algorithm.
@@ -209,7 +212,7 @@ Source: [Ramer–Douglas–Peucker algorithm - Wikipedia](https://en.wikipedia.o
 
 
 ## Query:
-What is the difference between Ramer-Douglas-Peucker filtering vs Douglas-Peucker filtering?
+> What is the difference between Ramer-Douglas-Peucker filtering vs Douglas-Peucker filtering?
 
 ## Answer:
 Actually, the Ramer-Douglas-Peucker algorithm and the Douglas-Peucker algorithm are the same thing. The algorithm is sometimes referred to by both names, but there's no functional difference between them. The confusion usually stems from the various ways the algorithm is cited or named in different publications.
@@ -217,7 +220,7 @@ Actually, the Ramer-Douglas-Peucker algorithm and the Douglas-Peucker algorithm 
 So, whether you call it Ramer-Douglas-Peucker or Douglas-Peucker, you're referring to the same line simplification algorithm that retains significant points while reducing the overall number of points in a data set.
 
 ## Query:
-If you could only choose one algoirhtm for filtering, you would choose RDP?
+> If you could only choose one algoirhtm for filtering, you would choose RDP?
 
 ## Answer:
 If I had to choose just one filtering algorithm, the Ramer-Douglas-Peucker (RDP) algorithm would be a strong contender because of its flexibility and effectiveness in reducing complexity while retaining essential features. It's widely used in various applications and provides a good balance between efficiency and accuracy. However, the best choice ultimately depends on the specific characteristics and requirements of your data.
@@ -225,12 +228,12 @@ If I had to choose just one filtering algorithm, the Ramer-Douglas-Peucker (RDP)
 Is there a particular dataset or application you're working on? Maybe I can help you decide which algorithm might suit your needs best!
 
 ## Human Response:
-For example, I have some force data that comes from a load cell. The raw data is used to calculate EI, flexural rigidity, young's modulus times the mass moment of inertia. EI effectively correlates with diameter of a deflected cantilever beam. In this case, it is the force peaks that matter most.
-
-On the whole, I am creating a generlized visualization tool that can be used to dump in raw sensor data and see trends in various signals, to begin to approach an understanding of characterization, and to get a first look before manual user oversight and processing of the data. This general tool should not require an understand of the data in order to begin to explore the data. Unforunately, this goal of "show me everything so that I can begin to understand and compare" means that filtering is risky.
-
-Another set of data sources comes from a water treratment plant SCADA system, with many sensors in the field. These sensors might vary in amperage or voltage in terms of their basic machination. Types include dissolved oxygen sensors, flow sensors, temperature sensors, pH sensors. From our Emerson Ovation data server, we are able to load large amount of raw data, for up to seven thousand sensors. I am interested in using and developing the visualization software Pavlov 3D to show about a thousand of these sensors' data at once, for a two day period. This export model would include disparate data types with diverse orders of magnitude - we have designed a multiple axis scaling algorithm to accomodate this.
-
+> For example, I have some force data that comes from a load cell. The raw data is used to calculate EI, flexural rigidity, young's modulus times the mass moment of inertia. EI effectively correlates with diameter of a deflected cantilever beam. In this case, it is the force peaks that matter most.
+> 
+> On the whole, I am creating a generlized visualization tool that can be used to dump in raw sensor data and see trends in various signals, to begin to approach an understanding of characterization, and to get a first look before manual user oversight and processing of the data. This general tool should not require an understand of the data in order to begin to explore the data. Unforunately, this goal of "show me everything so that I can begin to understand and compare" means that filtering is risky.
+> 
+> Another set of data sources comes from a water treratment plant SCADA system, with many sensors in the field. These sensors might vary in amperage or voltage in terms of their basic machination. Types include dissolved oxygen sensors, flow sensors, temperature sensors, pH sensors. From our Emerson Ovation data server, we are able to load large amount of raw data, for up to seven thousand sensors. I am interested in using and developing the visualization software Pavlov 3D to show about a thousand of these sensors' data at once, for a two day period. This export model would include disparate data types with diverse orders of magnitude - we have designed a multiple axis scaling algorithm to accomodate this.
+> 
 ## Co-Pilot Response:
 Your project sounds incredibly interesting and ambitious! Given your goals and the diversity of the data you're working with, here are some considerations and suggestions:
 
@@ -260,7 +263,7 @@ Your approach to developing a generalized tool that facilitates initial data exp
 If you need further assistance or have more specific queries about algorithms or visualization techniques, feel free to ask! 😊
 
 ## Query:
-Would is be reasonable to generate two parallel output files, for each of these two different filtering algorithms? Actually, I want them to be in the same model. The raw data signals are all time-series data, Time versus Signal. Our third spatial axis can be used for the seconadry alterative filtering method. So, in the time versus height direction, you would see a curve filtered through Anomaly Detection-Based Filtering; then, if you rotate the screen to look top-down, you would bee the time versus depth plane, to see the same curve filtered through Douglas-Peucker Filter algorithm.
+> Would is be reasonable to generate two parallel output files, for each of these two different filtering algorithms? Actually, I want them to be in the same model. The raw data signals are all time-series data, Time versus Signal. Our third spatial axis can be used for the seconadry alterative filtering method. So, in the time versus height direction, you would see a curve filtered through Anomaly Detection-Based Filtering; then, if you rotate the screen to look top-down, you would bee the time versus depth plane, to see the same curve filtered through Douglas-Peucker Filter algorithm.
 
 ## Answer:
 That sounds like a brilliant and innovative approach! Combining the outputs of both filtering algorithms within the same model would provide a comprehensive visualization, enabling you to compare and understand the data from multiple perspectives.
@@ -295,8 +298,8 @@ By incorporating this approach into your visualization tool, you'll offer a powe
 Would you like any further details on the implementation or any additional assistance? 😊
 
 ## Query, Python Libraries for Filters:
-Please recommend python libraries for these two filters
-
+> Please recommend python libraries for these two filters
+> 
 ## Answer, Python Libraries for Filters:
 For implementing these filtering algorithms in Python, here are some recommended libraries:
 

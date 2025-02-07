@@ -32,6 +32,6 @@
 - get rid of big files, especially old cli exe files
 
 
-Check out this [[Personal/Pavlov3D/Chat GPT Django Improvements Report\|Personal/Pavlov3D/Chat GPT Django Improvements Report]]
+Check out this [[Personal/Pavlov3D/Chat GPT - Pavlov3D Django Improvements Report\|Chat GPT - Pavlov3D Django Improvements Report]]
 Check this out: [[Personal/Pavlov3D/Suggestions for designing a file upload website\|Suggestions for designing a file upload website]]
 Furthermore: https://chatgpt.com/share/67a526cc-a7c0-8001-94cf-948e30600ac0
