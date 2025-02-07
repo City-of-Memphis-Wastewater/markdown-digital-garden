@@ -19,7 +19,7 @@
 ## Email Response, from [[People/Pete Gabor\|Pete Gabor]]:
 > Clayton,
 > 
-> This topic warrants a discussion in person when I am on-site next week. There are several things to consider that isn’t communicated well in an email. If you have the availability, I suggest we carve out a couple minutes Tuesday-Thursday to provide some more context and talk through what I’ve written below.
+> This topic warrants a discussion in person when I am on-site next week (*Tuesday [[2025 02February 11\|2025 02February 11]]*). There are several things to consider that isn’t communicated well in an email. If you have the availability, I suggest we carve out a couple minutes Tuesday-Thursday to provide some more context and talk through what I’ve written below.
 > 
 > **Why DO and aeration is important:**
 > 
