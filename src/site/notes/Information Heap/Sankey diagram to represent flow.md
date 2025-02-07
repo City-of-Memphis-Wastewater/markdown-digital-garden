@@ -5,6 +5,9 @@
 Date: [[-Daily Activity Log-/2025 02-February 07\|2025 02-February 07]]
 
 Strategy:
+
+- Emerson Ovation .diag file
+	- Create rectangles that change in width based on flow volume through a linked system. Do not change height. Keep rectangles centered. See pen-and-paper drawing below.
 - Excel:
 	- Use an Excel add-in, such as ChartExpo, and insert a sankey chart from the My Apps menu, then select your data and create the chart
 - Python Examples:
