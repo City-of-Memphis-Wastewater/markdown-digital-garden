@@ -163,7 +163,7 @@ In summary, while the algorithm can effectively normalize and scale data to ensu
 Would you like to explore alternative approaches or solutions to address these risks? 🔍
 
 ## Human Response:
-Yes. Also, define [[vocabulary/normalization\|vocabulary/normalization]]. Does this word apply outside of logarithmic normalization?
+Yes. Also, define [[Vocabulary/normalization\|vocabulary/normalization]]. Does this word apply outside of logarithmic normalization?
 
 ## Co-Pilot Answer: 
 Absolutely, let's explore alternatives and address normalization.

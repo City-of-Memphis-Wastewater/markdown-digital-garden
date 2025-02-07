@@ -6,6 +6,6 @@ AKA [[People/Mars\|Mars]]
 Marcelo Natuplag
 Email: marcelo.natuplag@memphistn.gov
 Phone: (901) 636-0305
-Related: [[vocabulary/Preventative Maintenance\|Preventative Maintenance]], [[Maxson/Preventative Maintenance\|Preventative Maintenance]]
+Related: [[Vocabulary/Preventative Maintenance\|Preventative Maintenance]], [[Maxson/Preventative Maintenance\|Preventative Maintenance]]
 #Maintenance manager
 #people

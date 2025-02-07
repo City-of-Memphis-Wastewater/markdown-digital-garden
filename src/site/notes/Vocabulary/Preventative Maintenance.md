@@ -4,7 +4,7 @@
 
 
 Related: [[Software/Hexagon\|Hexagon]]
-People: [[People/Krishna Bejjanki\|Krishna Bejjanki]], [[people/Marcelo Natuplag\|Marcelo Natuplag]], [[People/Kim Crawford\|Kim Crawford]]
+People: [[People/Krishna Bejjanki\|Krishna Bejjanki]], [[People/Marcelo Natuplag\|Marcelo Natuplag]], [[People/Kim Crawford\|Kim Crawford]]
 
 Co-Pilot Definition:
 > **Preventative maintenance** in the context of a water treatment plant involves regular and systematic inspection, detection, and correction of potential failures before they occur. This proactive approach ensures the smooth operation of the plant, minimizes downtime, and extends the lifespan of equipment and infrastructure.

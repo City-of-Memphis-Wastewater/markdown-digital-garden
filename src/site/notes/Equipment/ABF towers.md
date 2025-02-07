@@ -3,5 +3,5 @@
 ---
 
 Activated Biological Filter (ABF) Towers
-See: [[equipment/trickling filter towers\|trickling filter towers]]
+See: [[Equipment/trickling filter towers\|trickling filter towers]]
 [ed252429.tif.pdf](https://files.eric.ed.gov/fulltext/ED252429.pdf)
