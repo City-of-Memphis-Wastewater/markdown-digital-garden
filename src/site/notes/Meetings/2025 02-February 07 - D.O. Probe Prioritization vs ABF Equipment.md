@@ -6,5 +6,6 @@
 
 #budgeting
 #urgency
+#prioritization
 
-Date: [[-Daily Activity Log-/2025 02-February 07\|2025 02-February 07]]
+Date: [[-Daily Activity Log-/2025 02-February 07\|2025 02-February 07]] 
