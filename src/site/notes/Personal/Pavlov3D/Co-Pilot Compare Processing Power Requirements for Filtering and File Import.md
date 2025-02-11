@@ -6,6 +6,7 @@
 Last: [[Personal/Pavlov3D/Co-Pilot Data Filtering Algorithms\|Co-Pilot Data Filtering Algorithms]]
 Related: [[Personal/Pavlov3D/Co-Pilot Multiple Axis Plot Scaling Algorithm\|Co-Pilot Multiple Axis Plot Scaling Algorithm]]
 Date: [[-Daily Activity Log-/2025 02-February 07\|2025 02-February 07]]
+
 ## Question: Processing Power of Filtering, Relative to the Import Process:
 What is more computationally expensive and takes more time for process completion?: - File import, like from a CSV file, using np.genfromtxt(), versus - Filtering, like using the Ramer-Douglas-Peucker (RDP) algorithm or Anomaly Detection-Based Filtering Does the answer differ for orders of magnitudes of the number of datapoints, or will the asnwer be the same regardless of how many datapoints and how many raw data files you have?
 

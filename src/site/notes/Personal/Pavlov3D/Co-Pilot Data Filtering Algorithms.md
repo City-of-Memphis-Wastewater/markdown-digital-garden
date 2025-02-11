@@ -315,6 +315,8 @@ For implementing these filtering algorithms in Python, here are some recommended
 - **pyrdp**: Another implementation of the Ramer-Douglas-Peucker algorithm.
   - **PyPI Page**: [pyrdp](https://pypi.org/project/pyrdp/)
   - **Installation**: `pip install pyrdp`
+  - Creator: [Florian Strasser](https://florianstrasser.com/) (this guy is awesome)
+  
 
 These libraries should help you implement the filtering algorithms effectively in your project. If you need any further assistance or have more questions, feel free to ask!
 
