@@ -18,6 +18,10 @@ derek.mcelroy@memphistn.gov,
 derek.willis@memphistn.gov
 
 Files: C:\Users\george.bennett\OneDrive - City of Memphis\Documents\Projects\0000-Maxson\Metals\Monthly Metals Round Up - 12 Feb 2025.zip
+
+---
+# External Influent Metals
+
 ![Pasted image 20250212130541.png](/img/user/Pasted%20image%2020250212130541.png)
 ![Pasted image 20250212130710.png](/img/user/Pasted%20image%2020250212130710.png)
 
@@ -58,3 +62,12 @@ Look at these industries
 - PMC Biogenics
 - PennaChem
 - other
+
+---
+# Internal Plant Metals
+
+Sampling at Stiles
+
+![[Stiles Internal Metals Investigation_2.5.2025.pdf]]
+
+
