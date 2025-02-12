@@ -19,3 +19,4 @@ I want to represent flow through the plant based on volume. Something like this:
 
 My version:
 ![Flow-Sankey Diagram.jpg](/img/user/Flow-Sankey%20Diagram.jpg)
+![Pasted image 20250211093848.png](/img/user/Pasted%20image%2020250211093848.png)Reference: [[plant-diagram-bennett-31Jan2025.png]]
