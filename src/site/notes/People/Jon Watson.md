@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/people/jon-watson/","noteIcon":"","created":"2025-01-31T11:45:48.859-06:00"}
 ---
 
-Engineer at [[Contractors/Evonik\|Evonik]]
+Engineer at [[Industry/Evonik\|Evonik]]
 Phone: +1(901)273-4559
 email: jon.watson@evonik.com
 

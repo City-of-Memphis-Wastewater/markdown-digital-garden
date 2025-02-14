@@ -3,7 +3,7 @@
 ---
 
 We have 6 of these.
-Calibration procedure: Based on temperature. Send back to the [[manufacturer/Amatek\|manufacturer/Amatek]] factory for calibration. They maintain a water bath as a constant temperature and see if the reading is accurate.
+Calibration procedure: Based on temperature. Send back to the [[Manufacturers/Amatek\|Amatek]] factory for calibration. They maintain a water bath as a constant temperature and see if the reading is accurate.
 This flow meter is a [[Information Heap/hot-wire anemometer\|information heap/hot-wire anemometer]].
 AKA Amatek "Mass Flow Sensors"
 

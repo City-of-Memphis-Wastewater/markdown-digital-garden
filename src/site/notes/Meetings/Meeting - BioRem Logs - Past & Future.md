@@ -102,7 +102,7 @@ EDS allows for outside access.
 Historian has more to access in terms of access.
 
 Key points to analyze and track:
-- [[strategy/PAA dosing\|strategy/PAA dosing]] from [[Contractors/Evonik\|Contractors/Evonik]] 
+- [[strategy/PAA dosing\|strategy/PAA dosing]] from [[Industry/Evonik\|Evonik]] 
 - Hargrove sent us a point list for the PAA system
 ![[HAR-LST01378-EN-CTL-002 Modbus List Rev 1.pdf]]
 

@@ -6,7 +6,7 @@
 #software 
 #filetype
 Plant text configuration files that store software application settings in a structured format
-Instances of INI files can be found on [[COM184025\|COM184025]] in C:\Users\george.bennett\ [^userdirectory] at 
+Instances of INI files can be found on [[Information Heap/COM184025\|COM184025]] in C:\Users\george.bennett\ [^userdirectory] at 
 
 A INI file is generated whenever I open [[Software/CADAssistant\|CADAssistant]], in multiple locations[^AppData-Local][^AppData-Roaming]
 
