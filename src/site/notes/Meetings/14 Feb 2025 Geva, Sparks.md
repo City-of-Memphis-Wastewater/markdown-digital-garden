@@ -7,4 +7,4 @@ Date: 2025 02-February 14
 Software discussed: [[Software/Sparks Data\|Sparks Data]] (includes screenshots), from [[Industry/Flexware\|Flexware]]
 People: [[People/Jonathan Geva\|Jonathan Geva]]
 
-Discussed private network radio hardware:
+Discussed private network radio hardware.
