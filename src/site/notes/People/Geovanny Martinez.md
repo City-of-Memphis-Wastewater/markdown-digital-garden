@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/people/geovanny-martinez/","noteIcon":"","created":"2025-01-31T10:43:36.834-06:00"}
 ---
 
-Date: 2025::02-February::14
+Date: 2025 02-February 14
 
 #people 
 [[Contractors/Emerson\|Emerson]] contact for troubleshooting the EDS

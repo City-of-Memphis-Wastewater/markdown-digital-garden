@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/software/sparks-data/","noteIcon":"","created":"2025-02-14T15:37:03.779-06:00"}
 ---
 
-Date: 2025::02-February::14
+Date: 2025 02-February 14
 
 Meeting: [[Meetings/14 Feb 2025 Geva, Sparks\|14 Feb 2025 Geva, Sparks]]
 
