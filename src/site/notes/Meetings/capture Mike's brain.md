@@ -4,7 +4,7 @@
 
 Date: [[-Daily Activity Log-/2025 02-February 18\|2025 02-February 18]]
 
-## Hi - what is the best way to store a knowledge base so that i can be queried with prompts, much like talking to co-pilot, except the knowledge base is built by audio file transcripts?
+## Hi Co-Pilot, What is the best way to store a knowledge base so that it can be queried with prompts, much like talking to Co-Pilot, except the knowledge base is built by audio file transcripts?
 
 That's a great question! To store a knowledge base built from audio file transcripts and make it queryable with prompts, you can follow these steps:
 
