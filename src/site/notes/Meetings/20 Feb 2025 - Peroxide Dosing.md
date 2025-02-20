@@ -10,7 +10,7 @@ Related: [[Meetings/USP Technologies Collection Trials\|Meetings/USP Technologie
 [[People/Sammy Kohl\|People/Sammy Kohl]]: [[Contractors/USP Technologies\|Contractors/USP Technologies]]
 
 - Help with hydrogen sulfide in the [[Equipment/Nonconnah Interceptor\|Nonconnah Interceptor]]
-- There was an uncharacteristic amount summer 2024 in the wet-well at Maxson 
+- There was an uncharacteristic amount summer 2024 in the wet-well at Maxson .
 - [[People/Sammy Kohl\|People/Sammy Kohl]]: Hydrogen peroxide has been used to control hydrogen sulfide
 	- Key question: How do we best mitigate sulfide coming into the headworks?
 	- Systems survey and discussions with Don, Henry, Mike, and Noah.
@@ -51,7 +51,15 @@ Liquid samples will be taking at the large chest near headworks. A logger will a
 
 This should help us mitigate our biogas in our influent.
 
+Don: How often does BFD it run at lift station? How often does it take to fill up?
+Robert: It is not necessary to add a dome. In wet conditions it has to be in operation, or [[Industry/Solae\|Solae]] will be backed up.
+Sammy: How quickly it is turning over in dry conditions?
+Robert: The lift station runs regularly, day in day out, and the quality is pretty nasty.
 
+SARP10 rebuilt after a corrosion study.
+
+Robert: His station has a polyurea coating. What will happen with the shocking?
+Sammy is not sure if the polyurea will be damaged by caustic.
 
 
 ![Pasted image 20250220143822.png](/img/user/Pasted%20image%2020250220143822.png)
