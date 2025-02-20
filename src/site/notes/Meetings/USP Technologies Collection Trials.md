@@ -6,8 +6,12 @@
 
 Goals:
 - Mitigate [[FailureModes/Hydrogen sulfide\|Hydrogen sulfide]] production between industry, interceptor, and headworks. This can be achieved by maintaining a neutral pH. As the wastewater flows towards the plant, pH tends to drop, increasing the tendency for elemental sulfur to convert to hydrogen sulfide.   
+
+
 Keywords:
 - Caustic shocking
+
+
 
 Key question:
 - What is the ideal interval for caustic shocking?
