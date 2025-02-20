@@ -69,4 +69,10 @@ Sammy: Based on EPA guidance, we're hoping every two weeks. More initial shocks 
 
 [Biofilm - Wikipedia](https://en.wikipedia.org/wiki/Biofilm)
 
+Don says this treatment will comes out of the Stiles budget. It has worked before, and now increasing the scale should work to reduce biofilm coming into the plant, ultimately to reduce corrosion. We are ready to pull the trigger on this right now.
+
+#corrosion
+#caustic
+#peroxide
+
 ![Pasted image 20250220143822.png](/img/user/Pasted%20image%2020250220143822.png)
