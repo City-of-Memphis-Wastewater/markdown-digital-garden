@@ -44,6 +44,8 @@ Robert: The plants will have to reduce flow to their headworks, which will cause
 Sammy: The extended retention time helps us out, because you want as much exposure as possible. Caustic versus peroxide. The ideal 24 hour diurnal profile. Slug dosing: The dosing will come through a flange from a truck.
 
 Don asked if there are plans to add iron salt at the plant: No.
-
+The iron salt program has been paused.
+The peroxide feed downstream will oxidize 50% of the liquid hydrogen sulfide coming into the plant. Collection system flow versus plant flow.
+There needs to be baseline data taken, to achieve an ideal dose of hydrogen peroxide to achieve a 50% decrease.
 
 ![Pasted image 20250220143822.png](/img/user/Pasted%20image%2020250220143822.png)
