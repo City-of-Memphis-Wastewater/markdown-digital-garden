@@ -32,4 +32,8 @@ Tasha King-Davis is concerned about high pH in the lift station. Historically, b
 
 Sammy: The goal is to get the high pH water through the lift station quickly. Was the former problem acute or long-exposure?
 
+Sammy would like to take a closer look at the study brought up by Tasha King-Davis, to ensure mistakes aren't made.
+
+You would expect to see an immediate pH increase in the flow downstream.
+
 ![Pasted image 20250220143822.png](/img/user/Pasted%20image%2020250220143822.png)
