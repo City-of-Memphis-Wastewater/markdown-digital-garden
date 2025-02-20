@@ -35,5 +35,15 @@ Sammy: The goal is to get the high pH water through the lift station quickly. Wa
 Sammy would like to take a closer look at the study brought up by Tasha King-Davis, to ensure mistakes aren't made.
 
 You would expect to see an immediate pH increase in the flow downstream.
+The hypothesis is that you'll see similar or elevated pH for what is going in versus what is going out for a limited number of days, when the shocks are performed.
+
+We should see an immediate jump up in pH, which will degrade a bit as the biofilm grows back. We don't know how long it will take to grow back, until it needs to be shocked again. 
+
+Robert: The plants will have to reduce flow to their headworks, which will cause septic conditions. We will need to be operating the plant consistently throughout the test.
+
+Sammy: The extended retention time helps us out, because you want as much exposure as possible. Caustic versus peroxide. The ideal 24 hour diurnal profile. Slug dosing: The dosing will come through a flange from a truck.
+
+Don asked if there are plans to add iron salt at the plant: No.
+
 
 ![Pasted image 20250220143822.png](/img/user/Pasted%20image%2020250220143822.png)
