@@ -61,5 +61,12 @@ SARP10 rebuilt after a corrosion study.
 Robert: His station has a polyurea coating. What will happen with the shocking?
 Sammy is not sure if the polyurea will be damaged by caustic.
 
+Robert wants to know if they can bypass the whole lift station using pressurized lines.
+Sammy says this is a little different that typical hydrogen sulfide control, due to the nature of the slug treatment. The preference is to not tap forced main. "If i can do it in a wet well, I will. If I have to hot-tap a force main, I can, but we would be concerned about getting enough in to be effective."
+
+Robert: How often? 
+Sammy: Based on EPA guidance, we're hoping every two weeks. More initial shocks may be necessary because the biofilm is entrenched, in this anaerobic environment.
+
+[Biofilm - Wikipedia](https://en.wikipedia.org/wiki/Biofilm)
 
 ![Pasted image 20250220143822.png](/img/user/Pasted%20image%2020250220143822.png)
