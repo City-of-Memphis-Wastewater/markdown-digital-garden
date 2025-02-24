@@ -56,8 +56,7 @@ We have:
 reference: [Transcribe your recordings - Microsoft Support](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)
 ---
 # ChatGPT Analysis success:
-![Pasted image 20250224113808.png](/img/user/Pasted%20image%2020250224113808.png)
-
+![Pasted image 20250224114719.png](/img/user/Pasted%20image%2020250224114719.png)
 ---
 # Markdown Attempt, Paste Word Transcripts into Co-Pilot
 
