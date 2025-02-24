@@ -16,10 +16,9 @@ We have:
 	- A great reminder of how mediocre 2016 was in terms of technology. Let nostalgia die on this hill.
 	- Rechargeable battery (primo for 2016)
 - Transcription in Microsoft Word, of all things. With a OneDrive account, 300 upload and transcription minutes are provided every month. That is 6 hours. Great.
-- Upload Transcript .doc to Co-Pilot, to "generate a knowledge base"
-- How should the knowledge base be codified?
-- How will the knowledge base be queried?
-
+- Upload (copy-paste) Transcript .doc to Co-Pilot, to generate markdown or latex.
+- The final collected markdown file or latex pdf's can be uploaded to ChatGPT, which can be questioned. 
+- Are there more permanent long term options? The answer might well be to make a Digital Garden site from markdown, and see if ChatGPT can search the website. - this failed.
 ---
 
 # Device settings for Olympus DM-720:
