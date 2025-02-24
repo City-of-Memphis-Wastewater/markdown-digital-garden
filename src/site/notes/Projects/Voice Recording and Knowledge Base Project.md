@@ -4,6 +4,7 @@
 
 Date: [[-Daily Activity Log-/2025 02-February 24\|2025 02-February 24]]
 
+# Overview
 The purpose of this project is to store and make searchable the knowledge of [[People/Mike Brower\|Mike Brower]]
 
 We have: 
@@ -23,11 +24,11 @@ We have:
 
 # Device settings for Olympus DM-720:
 - Rec Menu
-	- Rec Level: Auto
+	- Rec Level: Auto (important)
 	- Rec Mode: MP3
-	- Zoom Mic: -3
-	- Low Cut Filter: On
-	- Mic Select: Central Mic Off
+	- Zoom Mic: -3 (important)
+	- Low Cut Filter: On (important)
+	- Mic Select: Central Mic Off (important)
 	- VCVA: On
 	- V-Sync. Rec: Off (Starts automatically when a very loud sound happens)
 	- Timer Rec: off
@@ -40,7 +41,6 @@ We have:
 - Other:
 	- Hypothetically, the device can be used by the computer as an input microphone while in USB composite mode; alternatively, storage mode allows access to the files stored on the device. I don't see much purpose for AC mode compared to PC mode. Current: PC, Storage. 
 # Work flow:
-
 1. Use voice recorder to capture audio (mp3 files).
 2. Plug the USB into the computer.
 3. Open Microsoft Word, and open the Transcribe tab
@@ -48,6 +48,73 @@ We have:
 5. Select "Add to document", and from the dropdown menu select "Just text".
 6. Files are uploaded to OneDrive. Example: [OneDrive](https://memphistngov-my.sharepoint.com/my?id=%2Fpersonal%2Fgeorge%5Fbennett%5Fmemphistn%5Fgov%2FDocuments%2FTranscribed%20Files)
 ---
+
+
+# Test, Paste Word Transcripts into Co-Pilot
+
+```
+Offer markdown files for downloud that represent that raw trasncript, tags, and keywords. The goal is to generate a searchable knowledge base from this information, which comes from transcribed audio.
+```
+Output:
+## Transcribed Audio Files
+
+## Audio File: Your Recording.wav
+### Transcript:
+00:00:00 Speaker 1: Check one, two.
+00:00:03 Speaker 1: Or you open.
+### Tags: meeting, test
+### Keywords: Check, open
+
+---
+
+## Audio File: 250224_0010.MP3
+### Transcript:
+00:00:00 Speaker 1: All right, the quick brown fox jumped over the big, fat red dog.
+### Tags: test, phrase
+### Keywords: quick brown fox, dog
+
+---
+
+## Audio File: 250224_0013.MP3
+### Transcript:
+00:00:00 Speaker 1: OK, the device is.
+00:00:03 Speaker 1: Across the table, facing away from, you're facing towards me.
+00:00:08 Speaker 1: And now it's facing away from me
+### Tags: device, orientation
+### Keywords: table, facing
+
+---
+
+## Audio File: 250224_0014.MP3
+### Transcript:
+00:00:00 Speaker 1: All right. Previously I had. The low cut filter off.
+00:00:05 Speaker 1: Now it is turned on and. I had the. Mic on and now it is. Off. So let's see.
+00:00:13 Speaker 1: All right. The device is now cross the table from me. Facing away from me and it is now across the table from me, facing towards me.
+### Tags: device, filter, mic
+### Keywords: low cut filter, mic, table
+
+---
+
+## Audio File: Your Recording 1.wav
+### Transcript:
+00:00:00 Speaker 1: Mic. Check one, two.
+00:00:02 Speaker 1: Hey is this working?
+### Tags: test, mic
+### Keywords: mic, check, working
+
+---
+```
+What is the subject matter?
+```
+## Co-Pilot:
+The subject matter of the transcripts seems to be a combination of audio equipment testing and recording checks. Specifically:
+- "Your Recording.wav" and "Your Recording 1.wav" both appear to be mic checks to ensure the microphone is functioning correctly.
+- "250224_0010.MP3" contains a test phrase commonly used to check sound quality and clarity.
+- "250224_0013.MP3" and "250224_0014.MP3" both involve descriptions of the device orientation and testing the effect of a low cut filter on the recording.
+
+Overall, it seems like these recordings are primarily focused on testing and adjusting audio recording equipment. Does this match what you were expecting?
+---
+# Deep in the weeds, Co-Pilot Planning
 ## Co-Pilot Plan:
 ### Step 1: Transcribe the Audio Monologues
 
