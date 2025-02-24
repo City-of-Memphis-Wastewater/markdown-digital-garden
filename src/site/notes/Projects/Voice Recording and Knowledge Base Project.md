@@ -40,6 +40,7 @@ We have:
 	- Play scene: Off
 - Other:
 	- Hypothetically, the device can be used by the computer as an input microphone while in USB composite mode; alternatively, storage mode allows access to the files stored on the device. I don't see much purpose for AC mode compared to PC mode. Current: PC, Storage. 
+---
 # Work flow:
 1. Use voice recorder to capture audio (mp3 files).
 2. Plug the USB into the computer.
@@ -47,9 +48,11 @@ We have:
 4. Hit the "Upload Audio" button, and select the file(s) from the DM-720 hard drive
 5. Select "Add to document", and from the dropdown menu select "Just text".
 6. Files are uploaded to OneDrive. Example: [OneDrive](https://memphistngov-my.sharepoint.com/my?id=%2Fpersonal%2Fgeorge%5Fbennett%5Fmemphistn%5Fgov%2FDocuments%2FTranscribed%20Files)
+reference: [Transcribe your recordings - Microsoft Support](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)
 ---
 
 
+---
 # Test, Paste Word Transcripts into Co-Pilot
 
 ```
@@ -113,6 +116,7 @@ The subject matter of the transcripts seems to be a combination of audio equipme
 - "250224_0013.MP3" and "250224_0014.MP3" both involve descriptions of the device orientation and testing the effect of a low cut filter on the recording.
 
 Overall, it seems like these recordings are primarily focused on testing and adjusting audio recording equipment. Does this match what you were expecting?
+---
 ---
 # Deep in the weeds, Co-Pilot Planning
 ## Co-Pilot Plan:
@@ -219,3 +223,5 @@ Pre-trained language models like **GPT-3** can be fine-tuned for your specific u
 4. **Organize Data**: Structure the annotated data into a searchable knowledge base using tools like SharePoint or Confluence.
 
 By using these AI tools and platforms, you can significantly streamline the process of organizing and annotating your transcriptions. If you need further guidance on any specific tool or approach, feel free to ask!
+
+---
