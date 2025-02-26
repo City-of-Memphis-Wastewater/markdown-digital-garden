@@ -33,4 +33,3 @@ Vibration problem on Jesco MAGDOS LB system, needs additional fixturing to minim
 
 Damp Rid system - still useful? ![20250226_113959.jpg](/img/user/20250226_113959.jpg)
 
-![20250226_114052.jpg](/img/user/20250226_114052.jpg)
