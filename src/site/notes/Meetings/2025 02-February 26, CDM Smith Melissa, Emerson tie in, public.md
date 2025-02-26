@@ -17,8 +17,9 @@ Key contacts: [[People/Chris Luss\|Chris Luss]], [[people/Melissa (CDM Smith)\|M
 	   ![Pasted image 20250226094957.png](/img/user/Pasted%20image%2020250226094957.png) 
  
 	5. The value can be adjusted using the arrows or by entering a target value in the text field. Hit "DES" to confirm. 
+	6. This is the panel on the local end of the system, Where SCAD control can be enabled and disabled. See redacted link above for password. ![20250226_142902 2.jpg](/img/user/20250226_142902%202.jpg)
 
-2. Dispersion fans 1 and 4 are indicated in 6300.diag. Header pressure for this in the Emerson system echoes the value of the Rosemount PIT, which is connected to the DCU (Distributed Control Unit). This photo shows the relevant panel in the [[Systems/IPA building\|IPA building]]. #dcu
+2. Dispersion fans 1 and 4 are indicated in 6300.diag. Header pressure for this in the Emerson system echoes the value of the Rosemount PIT, which is connected to the DCU (Distributed Control Unit). This photo shows the relevant panel in the [[Systems/IPA building\|systems/IPA building]]. #dcu
 3. ![20250226_105545.jpg](/img/user/20250226_105545.jpg)
 4. ![20250226_105542.jpg](/img/user/20250226_105542.jpg)![20250226_110831.jpg](/img/user/20250226_110831.jpg)![20250226_111016.jpg](/img/user/20250226_111016.jpg)
 
