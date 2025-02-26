@@ -3,3 +3,5 @@
 ---
 
 #people
+Email: christopher.morrical@memphistn.gov
+Phone: 9016366199
