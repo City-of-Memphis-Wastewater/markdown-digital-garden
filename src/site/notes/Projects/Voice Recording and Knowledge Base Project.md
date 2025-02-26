@@ -7,6 +7,8 @@ Date: [[-Daily Activity Log-/2025 02-February 24\|2025 02-February 24]]
 # Overview
 The purpose of this project is to store and make searchable the knowledge of [[People/Mike Brower\|Mike Brower]]
 
+![Olympus-DM720-voicerecorder.jpg](/img/user/Olympus-DM720-voicerecorder.jpg)
+
 We have: 
 - Olympus DM-720 voice recorder
 	- Records MP3
