@@ -8,7 +8,7 @@ Redacted version: [[meetings/2025 02-February 26, CDM Smith Melissa, Emerson tie
 
 Key contacts: [[People/Chris Luss\|Chris Luss]], [[people/Melissa (CDM Smith)\|Melissa (CDM Smith)]], [[Contractors/CDM Smith\|CDM Smith]], [[people/Anker (Emerson)\|Anker (Emerson)]], [[people/Rob Firestone (BioAir)\|Rob Firestone (BioAir)]], [[people/Scott Warner (BioAir)\|Scott Warner (BioAir)]]
 
-
+ 
 1. Instructions for how to make changed to Blower Header Pressure set-point
 	1. Go to 6350.diag on a Maxson Ovation drop ![Pasted image 20250226094257.png](/img/user/Pasted%20image%2020250226094257.png)
 	2. Ensure that SCADA is enabled (See blue highlighted text on the left)
