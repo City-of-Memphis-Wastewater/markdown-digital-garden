@@ -4,10 +4,7 @@
 
 Date: [[-Daily Activity Log-/2025 02-February 26\|2025 02-February 26]]
 
-Redacted version: [[meetings/2025 02-February 26, CDM Smith Melissa, Emerson tie in\|2025 02-February 26, CDM Smith Melissa, Emerson tie in]]
-
-![redacted.png](/img/user/redacted.png)
-
+Redacted version: [[meetings/2025 02-February 26, CDM Smith Melissa, Emerson tie in\|2025 02-February 26, CDM Smith Melissa, Emerson tie in]] (includes password)
 
 Key contacts: [[People/Chris Luss\|Chris Luss]], [[people/Melissa (CDM Smith)\|people/Melissa (CDM Smith)]], [[Contractors/CDM Smith\|CDM Smith]], [[people/Anker (Emerson)\|people/Anker (Emerson)]], [[people/Rob Firestone (BioAir)\|people/Rob Firestone (BioAir)]], [[people/Scott Warner (BioAir)\|people/Scott Warner (BioAir)]]
 
@@ -25,4 +22,6 @@ Key contacts: [[People/Chris Luss\|Chris Luss]], [[people/Melissa (CDM Smith)\|p
 ```**At the Blower building panel, the username is "operator" and the password in "111111" (6 one's).**
 ```
 1. Dispersion fans #1 and #4 are indicated in 6300.diag. Header pressure for this in the Emerson system echoes the value of the Rosemount PIT, which is connected to the DCU (Distributed Control Unit). This photo shows the relevant panel in the [[systems/IPA building\|systems/IPA building]]. #dcu![20250226_105542.jpg](/img/user/20250226_105542.jpg)![20250226_110831.jpg](/img/user/20250226_110831.jpg)![20250226_111016.jpg](/img/user/20250226_111016.jpg)
-2. 
+
+Hand written notes from coonversation with [[People/Chris Luss\|Chris Luss]] and [[people/Melissa (CDM Smith)\|people/Melissa (CDM Smith)]]
+![redacted.png](/img/user/redacted.png)
