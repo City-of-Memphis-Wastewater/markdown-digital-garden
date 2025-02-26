@@ -18,7 +18,7 @@ Key contacts: [[People/Chris Luss\|Chris Luss]], [[people/Melissa (CDM Smith)\|M
  
 	5. The value can be adjusted using the arrows or by entering a target value in the text field. Hit "DES" to confirm. 
 
-2. Dispersion fans 1 and 4 are indicated in 6300.diag. Header pressure for this in the Emerson system echoes the value of the Rosemount PIT, which is connected to the DCU (Distributed Control Unit). This photo shows the relevant panel in the [[systems/IPA building\|systems/IPA building]]. #dcu
+2. Dispersion fans 1 and 4 are indicated in 6300.diag. Header pressure for this in the Emerson system echoes the value of the Rosemount PIT, which is connected to the DCU (Distributed Control Unit). This photo shows the relevant panel in the [[Systems/IPA building\|IPA building]]. #dcu
 3. ![20250226_105545.jpg](/img/user/20250226_105545.jpg)
 4. ![20250226_105542.jpg](/img/user/20250226_105542.jpg)![20250226_110831.jpg](/img/user/20250226_110831.jpg)![20250226_111016.jpg](/img/user/20250226_111016.jpg)
 

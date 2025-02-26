@@ -5,7 +5,7 @@
 Date: [[-Daily Activity Log-/2025 02-February 26\|2025 02-February 26]]
 
 #dcu 
-[[vocabulary/DCU\|vocabulary/DCU]]
+[[vocabulary/DCY\|vocabulary/DCY]]
 Integrated Power Assembly
 [[Vocabulary/IPA\|vocabulary/IPA]]
 ![20250226_105542 1.jpg](/img/user/20250226_105542%201.jpg)
