@@ -15,3 +15,5 @@ The bio-remediation system is installed at the lagoons to handled captured [[Che
 
 Look at:
 [[Assignments/z-Biogas Flare Summary\|z-Biogas Flare Summary]]
+
+German metering: ![20250224_140801.jpg](/img/user/20250224_140801.jpg)

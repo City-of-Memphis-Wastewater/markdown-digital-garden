@@ -24,3 +24,13 @@ The most substantial, highest volume [[Systems/BioAir\|BioAir]] unit is the wet 
 
 Training:
 ![[P20114 Training Presentation (1).pdf]]
+
+![20250226_112726.jpg](/img/user/20250226_112726.jpg)
+
+Vibration problem on Jesco MAGDOS LB system, needs additional fixturing to minimize vibration: explained by [[People/Mike Brower\|Mike Brower]]: ![20250226_113836.jpg](/img/user/20250226_113836.jpg)
+
+![20250226_113918.jpg](/img/user/20250226_113918.jpg)
+
+Damp Rid system - still useful? ![20250226_113959.jpg](/img/user/20250226_113959.jpg)
+
+![20250226_114052.jpg](/img/user/20250226_114052.jpg)
