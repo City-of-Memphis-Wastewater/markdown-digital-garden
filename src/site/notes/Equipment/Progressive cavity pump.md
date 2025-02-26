@@ -11,6 +11,8 @@ Safeguard - auto turn off at high pressure
 Replace rotor twice between one stator
 Check effectiveness through volumetric discharge compared to inflow
 
+A Cardan joint is the same as a universal joint, and was invented by [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano "Gerolamo Cardano") in the 16th century.
+
 Brand: Moyno
 Stator lining is made of hard rubber
 

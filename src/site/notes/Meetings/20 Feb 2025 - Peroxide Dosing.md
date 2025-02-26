@@ -4,7 +4,7 @@
 
 Date: [[-Daily Activity Log-/2025 02-February 20\|2025 02-February 20]]
 
-Related: [[Meetings/USP Technologies Collection Trials\|Meetings/USP Technologies Collection Trials]]
+Related: [[Meetings/2025 01-January 27 -USP Technologies Collection Trials\|2025 01-January 27 -USP Technologies Collection Trials]]
  
 [[People/Robert Dotson\|People/Robert Dotson]]: [[Government/City of Memphis\|City of Memphis]]
 [[People/Sammy Kohl\|People/Sammy Kohl]]: [[Contractors/USP Technologies\|Contractors/USP Technologies]]
