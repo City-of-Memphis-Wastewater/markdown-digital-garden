@@ -20,6 +20,6 @@ Memphis location:
 	Memphis, Tennessee 38118
 
 Review:
-There have been negative quality and timeliness experiences with SSR and Rob Lantz in 2025. Poor meeting quality, poor work quality, and lack of communication, lack of attention, involving projects with [[Contractors/CDM Smith\|CDM Smith]]. 
+There have been negative quality and timeliness experiences with SSR and Rob Lantz in 2025. Poor meeting quality, poor work quality, lack of communication, and lack of attention, involving projects with [[Contractors/CDM Smith\|CDM Smith]]. 
 
 This review is approved by [[People/Clayton Bennett\|Clayton Bennett]].
