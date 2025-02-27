@@ -19,6 +19,7 @@ Memphis location:
 	Suite 4200
 	Memphis, Tennessee 38118
 
-There have been negative quality and timeliness experiences with SSR and Rob Lantz in 2025. Poor meeting quality, poor work quality, lack of communication, lack of attention, involving projects with [[Contractors/CDM Smith\|CDM Smith]]. 
+Review:
+There have been negative quality and timeliness experiences with SSR and Rob Lantz in 2025. Poor meeting quality, poor work quality, and lack of communication, lack of attention, involving projects with [[Contractors/CDM Smith\|CDM Smith]]. 
 
 This review is approved by [[People/Clayton Bennett\|Clayton Bennett]].
