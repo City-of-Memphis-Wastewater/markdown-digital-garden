@@ -9,4 +9,4 @@ DCU: Distributed Control Unit
 
 ![20250226_105542 1.jpg](/img/user/20250226_105542%201.jpg)
 
-[[vocabulary/DCS\|vocabulary/DCS]]
+[[Vocabulary/DCS\|vocabulary/DCS]]
