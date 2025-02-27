@@ -16,7 +16,6 @@ Memphis location:
 Key contact:
 **Rob Lantz, PE**  
 _Senior Civil Engineer - Water/Wastewater_  
-**Smith Seckman Reid, Inc.**  
 **D:** 615.460.0471 | **C:** 615.934.6743  
 **E:** rlantz@ssr-inc.com
 
