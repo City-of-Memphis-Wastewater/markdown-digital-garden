@@ -6,18 +6,18 @@ Date: [[-Daily Activity Log-/2025 02-February 27\|2025 02-February 27]]
 
 Smith Seckman Reid, Inc
 Website: [SSR - We Own It](https://www.ssr-inc.com/)
-Reputation: Very Poor
-
-Memphis location:
-	2650 Thousand Oaks Boulevard,
-	Suite 4200
-	Memphis, Tennessee 38118
+Reputation: Poor (Local) 
 
 Key contact:
 **Rob Lantz, PE**  
 _Senior Civil Engineer - Water/Wastewater_  
 **D:** 615.460.0471 | **C:** 615.934.6743  
 **E:** rlantz@ssr-inc.com
+
+Memphis location:
+	2650 Thousand Oaks Boulevard,
+	Suite 4200
+	Memphis, Tennessee 38118
 
 There have been negative quality and timeliness experiences with SSR and Rob Lantz in 2025. Poor meeting quality, poor work quality, lack of communication, lack of attention, involving projects with [[Contractors/CDM Smith\|CDM Smith]]. 
 
