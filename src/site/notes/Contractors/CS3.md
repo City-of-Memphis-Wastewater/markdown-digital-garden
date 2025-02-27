@@ -3,8 +3,8 @@
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 27\|2025 02-February 27]]
-#contractor
-Reputation: Good
+#contractor 
+
 Equipment: [[Equipment/Purafil\|Purafil]]
 Project: [[Assignments/z-Purafil Unit in Admin Furnace Room Louvre\|z-Purafil Unit in Admin Furnace Room Louvre]]
 Key City of Memphis Contact: [[People/Gary Garrison\|Gary Garrison]]
