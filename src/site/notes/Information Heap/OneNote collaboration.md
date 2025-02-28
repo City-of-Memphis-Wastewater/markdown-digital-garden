@@ -59,3 +59,31 @@ Got it! To make your OneNote notebook seamlessly accessible to everyone in your 
 For more detailed instructions, you can check out [this guide](https://support.microsoft.com/en-us/office/create-a-notebook-on-a-sharepoint-site-2f5f2721-08e4-49a3-ba4e-6e63f92da529).
 
 This way, anyone in your organization can easily find and access the OneNote notebook on your SharePoint site. Let me know if you need any more help!
+
+# Testing:
+[GEORGE @ City of Memphis](https://memphistngov-my.sharepoint.com/:o:/g/personal/george_bennett_memphistn_gov/EujsNyhjP-hPhnzfCGPpuAABl3GHFFis9v8sa-rPkv-M3g?e=EAzCf3)
+
+![Pasted image 20250228092550.png](/img/user/Pasted%20image%2020250228092550.png)![Pasted image 20250228092605.png](/img/user/Pasted%20image%2020250228092605.png)![Pasted image 20250228092617.png](/img/user/Pasted%20image%2020250228092617.png)
+These were generated during Teams meetings:
+![Pasted image 20250228092700.png](/img/user/Pasted%20image%2020250228092700.png)
+#  Integrate OneNote with Microsoft Teams:
+
+1. **Add OneNote to a Team**:
+    
+    - Open Microsoft Teams.
+        
+    - Navigate to the team where you want to add the OneNote notebook.
+        
+    - Click on the **+** (plus) icon to add a new tab.
+        
+    - Select **OneNote** from the list of apps.
+        
+    - Choose the notebook you want to add or create a new one.
+        
+    - Click **Save**.
+        
+2. **Share with Your Team**:
+    
+    - Once the notebook is added as a tab, all team members will have access to it.
+        
+    - You can manage permissions directly in Teams to control who can view or edit the notebook.
