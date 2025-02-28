@@ -55,7 +55,13 @@ We have:
 	2. Ask for Markdown, given copy and paste the text to Co-Pilot or ChatGPT. Output should contain key words, tags, summary, and date (the date should come from the filename where possible).
 	3. Ask for latex, to paste to Overleaf, with key words, tags, summary, and date (the date should come from the filename where possible).
 8. Upload zip of latex pdfs or markdown files to ChatGPT, and ask specific questions about information. 
-reference: [Transcribe your recordings - Microsoft Support](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)
+reference: [Transcribe your recordings - Microsoft Support](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57) 
+
+# Update:
+I think the right approach will involve using Copilot inside of Word to convert the raw transcript into something more structured and queryable. Unfortunately my current version of Word does not support Copilot.  
+[Welcome to Copilot in Word - Microsoft Support](https://support.microsoft.com/en-us/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
+https://www.intowindows.com/how-to-enable-copilot-in-office-word-on-windows-11-10-pc/
+
 ---
 # ChatGPT Analysis success:
 ![Pasted image 20250224114719.png](/img/user/Pasted%20image%2020250224114719.png)
@@ -220,6 +226,8 @@ Hey is this working? \\
 \textbf{Summary:} The speaker performs a microphone check to confirm if it is working properly.
 
 \end{document}
+
+![Pasted image 20250228162922.png](/img/user/Pasted%20image%2020250228162922.png)
 
 ## Output: 
 ![[Knowledge_Base_from_Audio_Transcript.pdf]]
