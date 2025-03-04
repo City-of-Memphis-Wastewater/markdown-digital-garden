@@ -3,10 +3,9 @@
 ---
 
 stacy.bullard@memphistn.gov
-Operator at [[Information Heap/Maxson\|Maxson]]
-Class 4 water water operator license
 
-Previously in wastewater in Bledsoe, Tennessee - "where the effluent sometimes made up the entire discharge creek, such that the quality had to be good."
+Role: Waste water operator
+License: Class 4 
+Location: [[Information Heap/Maxson\|Maxson]]
 
-Previously a welder
-Curious, engaged
+Previously in wastewater in Bledsoe, Tennessee - "where the effluent sometimes made up the entire discharge creek, so the quality had to be good."

@@ -5,6 +5,7 @@
 Date: [[-Daily Activity Log-/2025 02-February 28\|2025 02-February 28]]
 
 #people 
-Waste water operator, class 4 license
+Role: Waste water operator
+License: Class 4 
 Location: [[Information Heap/Maxson\|Maxson]]
 Engineer by training and experience

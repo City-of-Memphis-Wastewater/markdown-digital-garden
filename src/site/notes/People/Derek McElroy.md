@@ -7,3 +7,5 @@ Date: [[-Daily Activity Log-/2025 02-February 20\|2025 02-February 20]]
 Plant Manager at [[Locations/M.C. Stiles Wastewater Treatment Plant\|M.C. Stiles Wastewater Treatment Plant]]
 Email: derek.mcelroy@memphistn.gov
 Phone: (901) 789-0510
+
+- Excel operator inputs
