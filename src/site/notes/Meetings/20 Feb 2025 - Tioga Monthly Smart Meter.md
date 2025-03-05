@@ -35,4 +35,4 @@ Folks: [[People/Pete Gabor\|Pete Gabor]], [[People/John Abrera\|John Abrera]], [
 - Radio spec
 - EDS Portal opportunities
 ## Action Items
-- [ ] Meet with [[People/Jon Watson\|Jon Watson]] about Maxson PAA sensor mentioned in meeting - clarify with [[People/Don Hudgins\|Don Hudgins]], make project similar to what Don has been tracking at Stiles
+- [x] Meet with [[People/Jon Watson\|Jon Watson]] about Maxson PAA sensor mentioned in meeting - clarify with [[People/Don Hudgins\|Don Hudgins]], make project similar to what Don has been tracking at Stiles
