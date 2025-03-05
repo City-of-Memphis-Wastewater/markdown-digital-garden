@@ -7,7 +7,7 @@ Date: [[-Daily Activity Log-/2025 02-February 26\|2025 02-February 26]]
 Jesco MAGDOS LB: [MAGDOS LB](https://www.lutz-jesco.com/en/products/dosing-pumps/solenoid-diaphragm-dosing-pumps/magdos-lb/)
 Description: Solenoid Diaphragm Dosing Pumps MAGDOS LB
 
-Systyem: [[Systems/BioAir\|BioAir]]
+System: [[Systems/BioAir\|BioAir]]
 
 Mike and I talked about the vibration and leak problem on Jesco MAGDOS LB system (pictured below) at BioAir. The unit needs additional fixturing to minimize vibration.
 Strategies: 
