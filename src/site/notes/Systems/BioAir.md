@@ -15,7 +15,7 @@ Key people or groups:
 - [[Contractors/CDM Smith\|CDM Smith]]
 - [[People/Carl Stevenson\|Carl Stevenson]]
 - [[People/William Carrick\|William Carrick]]
-- [[people/Michael Johnson\|Michael Johnson]]
+- [[People/Michael Johnson\|Michael Johnson]]
 
 
 
