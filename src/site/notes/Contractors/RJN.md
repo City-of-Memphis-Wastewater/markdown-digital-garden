@@ -3,3 +3,6 @@
 ---
 
 #contractor 
+People:
+[[People/Matt Compton\|Matt Compton]]
+[[People/Dennis Gilbertson\|Dennis Gilbertson]]
