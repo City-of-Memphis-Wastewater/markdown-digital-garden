@@ -5,5 +5,5 @@
 Office Phone: {{officephone}}
 Cell Phone: {{cellphone}}
 Email: {{emailaddress}}
-Organization:[[Contractors/RJN\|RJN]]
+Organization: [[Contractors/RJN\|RJN]]
 Title/Role: PE

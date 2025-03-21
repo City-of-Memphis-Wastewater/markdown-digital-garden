@@ -16,3 +16,5 @@ Certificate: GISP (geographic information systems (GIS) professional)
 Location: 
 	RJN Group Inc
 	200 W Front St, Wheaton, IL 60187
+
+Dennis is the man.
