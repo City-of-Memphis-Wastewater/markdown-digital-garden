@@ -4,9 +4,11 @@
 
 Date: [[-Daily Activity Log-/2025 02-February 27\|2025 02-February 27]]
 
-- [ ] Discover and implement the best way to share lots of photos (of plant equipment and systems)
+- [x] Discover and implement the best way to share lots of photos (of plant equipment and systems)
 
 Directory to make public (at least to CoM employees): C:\Users\george.bennett\OneDrive - City of Memphis\Pictures\Equipment-Plant
 
-Leverage SharePoint, group sharing features on OndeDrive, etc 
+Also, the S and N drives already exist with this feature
+
+Leverage SharePoint, group sharing features on OneDrive, etc 
 Discover the ideal intended features for the Microsoft 365 suite

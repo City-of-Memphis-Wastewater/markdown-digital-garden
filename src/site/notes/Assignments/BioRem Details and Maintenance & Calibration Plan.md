@@ -6,6 +6,8 @@
 Contact: [[People/Henry Nakayama\|Henry Nakayama]]
 Date: [[-Daily Activity Log-/2025 01-January 31\|2025 01-January 31]]
 
+N:\Treatment Plants\Maxson Plant\TEM Biogas\
+
 Key people: [[People/Carlton Mull\|Carlton Mull]], [[People/Stacy Bullard\|Stacy Bullard]], [[People/Krishna Bejjanki\|Krishna Bejjanki]], [[People/Chris Luss\|Chris Luss]] (unload priority), [[People/Rodney Williams\|Rodney Williams]]
 
 Talk to [[People/Tersea Espy\|people/Tersea Espy]] at [[Contractors/Diamond Scientific\|contractors/Diamond Scientific]] about calibrating [[Equipment/SWG100 biogas analyzer\|equipment/SWG100 biogas analyzer]], the [[Equipment/Optima7 handheld biogas analyzer\|equipment/Optima7 handheld biogas analyzer]], and the [[Equipment/OptimaMax handheld biogas analyzer\|equipment/OptimaMax handheld biogas analyzer]]. Also the 6 [[Equipment/Amatek biogas flow meters\|equipment/Amatek biogas flow meters]] which need to be calibrated, by [[People/Andy LeJeune\|Andy LeJeune]] at [[Contractors/Bar Environmental\|Contractors/Bar Environmental]]. If any of the flow meters cannot be calibrated, [[Contractors/Bar Environmental\|Bar Environmental]] will order new flow meters as we need them. We should have at least six spare [[Equipment/Amatek biogas flow meters\|Amatek biogas flow meters]] on a shelf somewhere - where are they (ask [[People/Chris Luss\|Chris Luss]])? Also ask about where the spare [[Equipment/SWG100 biogas analyzer\|equipment/SWG100 biogas analyzer]] is being stored. Move the storage of the flow meters and analyzers for the [[Systems/BioRem\|BioRem]] system to a rack in my office for now.
