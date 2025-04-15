@@ -7,4 +7,8 @@
 Recently merged with [[Contractors/Hach\|Hach]]
 Foot print in New Zealand [[Vocabulary/NIWA\|NIWA]]
 
+Aquatic Informatics AKA "AQI", is where the WIMS is coming from 
+WIMS used to be called "OPS"
+
+
 ![Aquatic Informatics - Market.png](/img/user/Secondary/Images/Aquatic%20Informatics%20-%20Market.png)

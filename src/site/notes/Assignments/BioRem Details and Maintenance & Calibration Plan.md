@@ -26,5 +26,5 @@ Best location for spare parts:
 
 
 Other equipment (?) look for manual, SOP, O&M doc, etc for all [[Systems/BioRem\|BioRem]] equipment. The O&M documents may have been provided by [[Contractors/CDM Smith\|CDM Smith]]. The [[Systems/BioRem\|BioRem]] project was funded by [[Government/TVA\|government/TVA]]. 
-- [ ] Ask [[People/Mike Brower\|Mike Brower]] for the location of the [[Systems/BioRem\|BioRem]] O&M docs.
+- [x] Ask [[People/Mike Brower\|Mike Brower]] for the location of the [[Systems/BioRem\|BioRem]] O&M docs.
 

@@ -14,3 +14,7 @@ People:
 - [[People/Clayton Bennett\|Clayton Bennett]]
 
 Strategy: PyEDS
+
+
+Update: 
+- RJN Clarity REST API allows for POST requests
