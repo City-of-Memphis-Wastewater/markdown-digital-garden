@@ -6,7 +6,7 @@ Date: [[-Daily Activity Log-/2025 02-February 26\|2025 02-February 26]]
 
 Redacted version: [[Meetings/2025 02-February 26, CDM Smith Melissa, Emerson tie in\|2025 02-February 26, CDM Smith Melissa, Emerson tie in]] (includes password)
 
-Key contacts: [[People/Chris Luss\|Chris Luss]], [[People/Melissa (CDM Smith)\|Melissa (CDM Smith)]], [[Contractors/CDM Smith\|CDM Smith]], [[People/Anker (Emerson)\|Anker (Emerson)]], [[People/Rob Firestone (BioAir)\|Rob Firestone (BioAir)]], [[People/Scott Warner (BioAir)\|Scott Warner (BioAir)]]
+Key contacts: [[People/Chris Luss\|Chris Luss]], [[People/Melissa Cox (CDM Smith)\|Melissa Cox (CDM Smith)]], [[Contractors/CDM Smith\|CDM Smith]], [[People/Anker (Emerson)\|Anker (Emerson)]], [[People/Rob Firestone (BioAir)\|Rob Firestone (BioAir)]], [[People/Scott Warner (BioAir)\|Scott Warner (BioAir)]]
 
  
 1. Instructions for how to make changed to Blower Header Pressure set-point
@@ -23,5 +23,5 @@ Key contacts: [[People/Chris Luss\|Chris Luss]], [[People/Melissa (CDM Smith)\|M
 3. ![20250226_105545.jpg](/img/user/20250226_105545.jpg)
 4. ![20250226_105542.jpg](/img/user/20250226_105542.jpg)![20250226_110831.jpg](/img/user/20250226_110831.jpg)![20250226_111016.jpg](/img/user/20250226_111016.jpg)
 
-Hand written notes from coonversation with [[People/Chris Luss\|Chris Luss]] and [[People/Melissa (CDM Smith)\|people/Melissa (CDM Smith)]]
+Hand written notes from coonversation with [[People/Chris Luss\|Chris Luss]] and [[People/Melissa Cox (CDM Smith)\|Melissa Cox (CDM Smith)]]
 ![redacted.png](/img/user/redacted.png)
