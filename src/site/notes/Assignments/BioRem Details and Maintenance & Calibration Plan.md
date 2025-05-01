@@ -20,6 +20,7 @@ Talk to [[People/Tersea Espy\|people/Tersea Espy]] at [[Contractors/Diamond Scie
 
 ----
 - [x] Talk to Chris!
+- [ ] Chris says we have 2 Optima 7 handheld units. [[-Daily Activity Log-/2025 04-April 28\|2025 04-April 28]]
 - [ ] Swap SWP100 Analyzers, send the used one to Florida for calibration
 - [ ] Write SOP's
 - [ ] Set up semi annual periodic maintenance and calibrations, starting in July 2025, January 2026, July 2026, etc

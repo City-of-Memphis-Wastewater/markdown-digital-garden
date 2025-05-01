@@ -19,7 +19,7 @@ Keyword: VAR
 - [[-Daily Activity Log-/2025 01-January 07\|2025 01-January 07]]
 
 ### Deadline for bid:
-- [[2025 04-April 30\|2025 04-April 30]].
+- [[-Daily Activity Log-/2025 04-April 30\|2025 04-April 30]].
 
 ### Interesting items, concerning proper bidding
 - "Good faith effort" for [[WIFIA\|WIFIA]] goals
