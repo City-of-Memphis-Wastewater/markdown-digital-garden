@@ -15,6 +15,7 @@ www.alfalaval.com
 Vocabulary
 - "Chicane" (plows)
 - Flingers
+- BFP
 
 Models:
 - Ashbrook Klampress
@@ -31,6 +32,20 @@ Maintenance requirements:
 - Daily cleaning
 - Lift ploughs
 - Turn the wheel daily on the wash box, lock to lock, to clean the nozzles. Uncleaned streaks on the belt indicate a clogged nozzle. It has brushes inside when are engaged and moved by turning the handle. 
+- Check hydraulic fluids
+- Check E-stops
+
+Weekly maintenance
+- Lubricate tensioner
+- Lubricate bearings
+- Lubricate rack and pinion gears
+
+Annual
+- Change belt drive gear reducer oil
+- Change hydraulic unit oil
+
+Belt cleaning
+- pH neutral basic cleaner
 
 Inspection:
 - Even loading of feed.
@@ -59,3 +74,21 @@ Dewatering zones
 - Full-pressure dewatering zone - pressure is increased as sludge passes through 8 to 12 rollers
 
 Nozzles in the wash box - washes the belt before it starts again.
+
+Static mixer
+- The lower you put the paddle, the more backpressure and retention time for mixing, to achieve uniform floc. You can go too high energy (disintegrated floc) and too low (large and non-uniform flocculation).
+- Adjust retention time between 15 and 45 seconds by changing the pipe routing
+
+Process variables
+- Sludge feed rate
+- Polymer feed rate and concentration
+- Mixing energy (hydraulic pressure)
+- Belt speed
+- Ramp angle
+Make 5% adjustment and wait 10 to 15 minutes to see changes.
+
+Questions:
+- Is auto adjustment onboard in PLC, firmware, etc, or is it in the PLC in control room?
+
+Startup:
+- 3-minute pre-wet
