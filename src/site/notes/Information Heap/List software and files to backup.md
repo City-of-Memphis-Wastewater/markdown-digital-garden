@@ -38,3 +38,8 @@ Python packages
 
 
 ![Pasted image 20250508111027.png](/img/user/Pasted%20image%2020250508111027.png)
+
+Prepare to add network locations:
+- N and S
+\
+Reinstate Git credentials
