@@ -39,7 +39,11 @@ Python packages
 
 ![Pasted image 20250508111027.png](/img/user/Pasted%20image%2020250508111027.png)
 
-Prepare to add network locations:
+## Prepare to add network locations:
 - N and S
-\
-Reinstate Git credentials
+
+## Reinstate Git credentials
+- as stated
+
+### Set up Hyper-V
+- [How to setup/install Hyper V in Windows 11?](https://www.youtube.com/watch?v=6lfD2u45y_s&t=87s)
