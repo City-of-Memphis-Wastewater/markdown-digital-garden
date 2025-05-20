@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/marcus-clayton/","noteIcon":"","created":"2025-01-31T11:42:55.174-06:00"}
+{"dg-publish":true,"permalink":"/people/marcus-clayton/","noteIcon":"","created":"2025-05-20T09:18:16.721-05:00"}
 ---
 
 Employer: [[Industry/Evonik\|Evonik]]

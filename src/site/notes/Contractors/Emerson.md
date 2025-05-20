@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contractors/emerson/","noteIcon":"","created":"2025-01-28T09:30:42.720-06:00"}
+{"dg-publish":true,"permalink":"/contractors/emerson/","noteIcon":"","created":"2025-05-20T09:18:15.949-05:00"}
 ---
 
 Date: 2025 02-February 14

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/james-ter-burgh/","noteIcon":"","created":"2025-01-09T11:13:01.026-06:00"}
+{"dg-publish":true,"permalink":"/people/james-ter-burgh/","noteIcon":"","created":"2025-05-20T09:18:16.689-05:00"}
 ---
 
 James TerBurgh, E.I.T.

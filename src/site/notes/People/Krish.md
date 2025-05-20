@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/krish/","noteIcon":"","created":"2025-01-09T07:39:03.015-06:00"}
+{"dg-publish":true,"permalink":"/people/krish/","noteIcon":"","created":"2025-05-20T09:18:16.705-05:00"}
 ---
 
 #SQL expert

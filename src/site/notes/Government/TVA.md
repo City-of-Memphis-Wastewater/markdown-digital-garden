@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/government/tva/","noteIcon":"","created":"2025-01-31T14:57:20.526-06:00"}
+{"dg-publish":true,"permalink":"/government/tva/","noteIcon":"","created":"2025-05-20T09:18:16.219-05:00"}
 ---
 
 Memphis location: TVA Allen Combined Cycle Plant

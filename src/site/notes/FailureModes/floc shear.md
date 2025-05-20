@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/failure-modes/floc-shear/","noteIcon":"","created":"2025-01-21T13:30:25.598-06:00"}
+{"dg-publish":true,"permalink":"/failure-modes/floc-shear/","noteIcon":"","created":"2025-05-20T09:18:16.171-05:00"}
 ---
 
 Info credit: [[People/Stacy Bullard\|Stacy Bullard]]

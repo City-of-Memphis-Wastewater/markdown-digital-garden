@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/tieraney-washington/","noteIcon":"","created":"2025-01-31T15:15:45.527-06:00"}
+{"dg-publish":true,"permalink":"/people/tieraney-washington/","noteIcon":"","created":"2025-05-20T09:18:16.802-05:00"}
 ---
 
 

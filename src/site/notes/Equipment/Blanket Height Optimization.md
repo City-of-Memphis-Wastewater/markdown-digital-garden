@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/blanket-height-optimization/","noteIcon":"","created":"2025-01-07T12:18:00.377-06:00"}
+{"dg-publish":true,"permalink":"/equipment/blanket-height-optimization/","noteIcon":"","created":"2025-05-20T09:18:16.077-05:00"}
 ---
 
 We want some ideal blanket height in each clarifier

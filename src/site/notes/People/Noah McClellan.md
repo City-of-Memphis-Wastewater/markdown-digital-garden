@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/noah-mc-clellan/","noteIcon":"","created":"2025-01-02T08:45:30.252-06:00"}
+{"dg-publish":true,"permalink":"/people/noah-mc-clellan/","noteIcon":"","created":"2025-05-20T09:18:16.752-05:00"}
 ---
 
 Employer: [[Government/City of Memphis\|City of Memphis]]

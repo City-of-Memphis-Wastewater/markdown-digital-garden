@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/emerson-ovation/","noteIcon":"","created":"2025-01-02T15:00:23.317-06:00"}
+{"dg-publish":true,"permalink":"/software/emerson-ovation/","noteIcon":"","created":"2025-05-20T09:18:17.317-05:00"}
 ---
 
 #software

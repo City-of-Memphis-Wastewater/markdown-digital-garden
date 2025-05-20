@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emails/email-updates-as-of-02/12/25-maxson-and-stiles-composite-sampling-and-flow-monitoring-projects/","noteIcon":"","created":"2025-02-13T09:00:03.553-06:00"}
+{"dg-publish":true,"permalink":"/emails/email-updates-as-of-02/12/25-maxson-and-stiles-composite-sampling-and-flow-monitoring-projects/","noteIcon":"","created":"2025-05-20T09:18:16.062-05:00"}
 ---
 
 

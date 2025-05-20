@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/overleaf/","noteIcon":"","created":"2025-01-08T09:23:30.360-06:00"}
+{"dg-publish":true,"permalink":"/software/overleaf/","noteIcon":"","created":"2025-05-20T09:18:17.348-05:00"}
 ---
 
 https://www.overleaf.com/

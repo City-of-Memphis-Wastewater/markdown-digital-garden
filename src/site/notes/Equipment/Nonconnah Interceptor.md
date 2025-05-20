@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/nonconnah-interceptor/","noteIcon":"","created":"2025-01-02T14:13:49.801-06:00"}
+{"dg-publish":true,"permalink":"/equipment/nonconnah-interceptor/","noteIcon":"","created":"2025-05-20T09:18:16.109-05:00"}
 ---
 
 Upcoming project: [[Projects/Nonconnah Interceptor Sampling\|Nonconnah Interceptor Sampling]] 

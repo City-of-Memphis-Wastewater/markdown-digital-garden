@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/josh/","noteIcon":"","created":"2025-01-31T09:48:37.004-06:00"}
+{"dg-publish":true,"permalink":"/people/josh/","noteIcon":"","created":"2025-05-20T09:18:16.705-05:00"}
 ---
 
 contact: ?

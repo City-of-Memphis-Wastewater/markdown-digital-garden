@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/jon-watson/","noteIcon":"","created":"2025-01-31T11:45:48.859-06:00"}
+{"dg-publish":true,"permalink":"/people/jon-watson/","noteIcon":"","created":"2025-05-20T09:18:16.702-05:00"}
 ---
 
 Engineer at [[Industry/Evonik\|Evonik]]

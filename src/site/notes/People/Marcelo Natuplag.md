@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/marcelo-natuplag/","noteIcon":"","created":"2025-02-07T11:35:29.964-06:00"}
+{"dg-publish":true,"permalink":"/people/marcelo-natuplag/","noteIcon":"","created":"2025-05-20T09:18:16.705-05:00"}
 ---
 
 AKA [[People/Mars\|Mars]]
