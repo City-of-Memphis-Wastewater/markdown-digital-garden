@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contractors/stantec/","noteIcon":"","created":"2025-01-02T08:44:40.533-06:00"}
+{"dg-publish":true,"permalink":"/contractors/stantec/","noteIcon":"","created":"2025-05-20T09:18:15.991-05:00"}
 ---
 
 Contracted to help on [[Assignments/Hach WIMS Improvements\|Hach WIMS Improvements]] contract.

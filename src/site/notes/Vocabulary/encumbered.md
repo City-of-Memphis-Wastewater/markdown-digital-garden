@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vocabulary/encumbered/","noteIcon":"","created":"2025-01-07T09:10:35.531-06:00"}
+{"dg-publish":true,"permalink":"/vocabulary/encumbered/","noteIcon":"","created":"2025-05-20T09:18:17.474-05:00"}
 ---
 
 money

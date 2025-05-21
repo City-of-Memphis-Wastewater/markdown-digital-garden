@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/maxson-admin-building-furnace-room/","noteIcon":"","created":"2025-01-28T08:18:52.692-06:00"}
+{"dg-publish":true,"permalink":"/information-heap/maxson-admin-building-furnace-room/","noteIcon":"","created":"2025-05-20T09:18:16.375-05:00"}
 ---
 
 When the new Maxson admin building was built in 2024, there was a problem with the design of the heating system. Historically, electric heaters had been used, and no natural gas lines came to the site. It was intended that the new design use electric heaters as well. However, a stock building design was used, which specified a natural gas furnace room. Through a lack of oversight, this component of the design was erroneously approved. Now, natural gas lines have been run to the new admin building, to feed the natural gas furnaces.

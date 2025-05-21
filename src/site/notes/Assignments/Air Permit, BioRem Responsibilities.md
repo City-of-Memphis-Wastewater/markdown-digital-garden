@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assignments/air-permit-bio-rem-responsibilities/","noteIcon":"","created":"2025-01-24T14:54:33.680-06:00"}
+{"dg-publish":true,"permalink":"/assignments/air-permit-bio-rem-responsibilities/","noteIcon":"","created":"2025-05-20T09:18:15.806-05:00"}
 ---
 
 #assignment : Read the air permit, get in touch with Tioga ("ask five good questions")

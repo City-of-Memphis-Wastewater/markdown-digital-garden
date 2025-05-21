@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/one-note-collaboration/","noteIcon":"","created":"2025-02-28T09:16:41.640-06:00"}
+{"dg-publish":true,"permalink":"/information-heap/one-note-collaboration/","noteIcon":"","created":"2025-05-20T09:18:16.391-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 28\|2025 02-February 28]]

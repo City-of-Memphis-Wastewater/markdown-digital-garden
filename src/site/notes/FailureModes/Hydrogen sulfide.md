@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/failure-modes/hydrogen-sulfide/","noteIcon":"","created":"2025-01-10T15:17:25.872-06:00"}
+{"dg-publish":true,"permalink":"/failure-modes/hydrogen-sulfide/","noteIcon":"","created":"2025-05-20T09:18:16.171-05:00"}
 ---
 
 Chemical molecular formula: H$_2$S

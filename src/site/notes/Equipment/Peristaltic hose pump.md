@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/peristaltic-hose-pump/","noteIcon":"","created":"2025-01-09T09:01:06.585-06:00"}
+{"dg-publish":true,"permalink":"/equipment/peristaltic-hose-pump/","noteIcon":"","created":"2025-05-20T09:18:16.109-05:00"}
 ---
 
 #equipment 

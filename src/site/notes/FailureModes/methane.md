@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/failure-modes/methane/","noteIcon":"","created":"2025-01-10T15:22:59.771-06:00"}
+{"dg-publish":true,"permalink":"/failure-modes/methane/","noteIcon":"","created":"2025-05-20T09:18:16.171-05:00"}
 ---
 
 CH~4~

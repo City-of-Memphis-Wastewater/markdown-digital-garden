@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assignments/2025-02-feb-mimmick-don-s-excel-data-anlysis/","noteIcon":"","created":"2025-02-27T15:53:12.659-06:00"}
+{"dg-publish":true,"permalink":"/assignments/2025-02-feb-mimmick-don-s-excel-data-anlysis/","noteIcon":"","created":"2025-05-20T09:18:15.800-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 27\|2025 02-February 27]]

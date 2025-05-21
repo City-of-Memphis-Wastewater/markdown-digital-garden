@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-generated/url-breakdown-api-access-architecture-pavlovian-template-mulchcli/","noteIcon":"","created":"2025-04-21T09:16:50.928-05:00"}
+{"dg-publish":true,"permalink":"/ai-generated/url-breakdown-api-access-architecture-pavlovian-template-mulchcli/","noteIcon":"","created":"2025-05-20T09:18:15.790-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 04-April 21\|2025 04-April 21]]

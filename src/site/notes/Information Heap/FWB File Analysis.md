@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/fwb-file-analysis/","noteIcon":"","created":"2025-05-01T11:22:29.634-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/fwb-file-analysis/","noteIcon":"","created":"2025-05-20T09:18:16.344-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 01\|2025 05-May 01]]

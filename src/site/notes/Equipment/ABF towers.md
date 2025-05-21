@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/abf-towers/","noteIcon":"","created":"2025-02-07T08:33:32.330-06:00"}
+{"dg-publish":true,"permalink":"/equipment/abf-towers/","noteIcon":"","created":"2025-05-20T09:18:16.062-05:00"}
 ---
 
 Activated Biological Filter (ABF) Towers

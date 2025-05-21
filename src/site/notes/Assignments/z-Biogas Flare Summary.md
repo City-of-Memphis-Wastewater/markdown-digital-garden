@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assignments/z-biogas-flare-summary/","noteIcon":"","created":"2025-01-10T16:20:33.305-06:00"}
+{"dg-publish":true,"permalink":"/assignments/z-biogas-flare-summary/","noteIcon":"","created":"2025-05-20T09:18:15.838-05:00"}
 ---
 
 Project: [[Projects/Biogas Flare Reports\|Biogas Flare Reports]]

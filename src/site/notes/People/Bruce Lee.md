@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/bruce-lee/","noteIcon":"","created":"2025-03-03T11:57:46.499-06:00"}
+{"dg-publish":true,"permalink":"/people/bruce-lee/","noteIcon":"","created":"2025-05-20T09:18:16.611-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 03-March 03\|2025 03-March 03]]

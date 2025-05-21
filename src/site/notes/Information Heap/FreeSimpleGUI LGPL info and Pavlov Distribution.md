@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/free-simple-gui-lgpl-info-and-pavlov-distribution/","noteIcon":"","created":"2025-05-07T13:09:20.431-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/free-simple-gui-lgpl-info-and-pavlov-distribution/","noteIcon":"","created":"2025-05-20T09:18:16.344-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 07\|2025 05-May 07]]

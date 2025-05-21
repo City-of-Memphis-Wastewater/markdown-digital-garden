@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emails/email-usp-technologies-site-followup-discussion-24-jan-2025/","noteIcon":"","created":"2025-01-24T12:49:08.158-06:00"}
+{"dg-publish":true,"permalink":"/emails/email-usp-technologies-site-followup-discussion-24-jan-2025/","noteIcon":"","created":"2025-05-20T09:18:16.030-05:00"}
 ---
 
 
