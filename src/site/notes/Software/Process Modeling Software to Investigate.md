@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/process-modeling-software-to-investigate/","noteIcon":"","created":"2025-02-04T09:28:35.074-06:00"}
+{"dg-publish":true,"permalink":"/software/process-modeling-software-to-investigate/","noteIcon":"","created":"2025-05-20T09:18:17.364-05:00"}
 ---
 
 ## Highlights:

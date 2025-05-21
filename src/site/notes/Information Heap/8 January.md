@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/8-january/","noteIcon":"","created":"2025-01-08T14:10:37.293-06:00"}
+{"dg-publish":true,"permalink":"/information-heap/8-january/","noteIcon":"","created":"2025-05-20T09:18:16.250-05:00"}
 ---
 
 Shear membrane filters versus FOG

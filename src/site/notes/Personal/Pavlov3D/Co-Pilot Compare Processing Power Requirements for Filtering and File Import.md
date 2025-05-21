@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/pavlov3-d/co-pilot-compare-processing-power-requirements-for-filtering-and-file-import/","noteIcon":"","created":"2025-02-07T10:50:03.028-06:00"}
+{"dg-publish":true,"permalink":"/personal/pavlov3-d/co-pilot-compare-processing-power-requirements-for-filtering-and-file-import/","noteIcon":"","created":"2025-05-20T09:18:16.831-05:00"}
 ---
 
 

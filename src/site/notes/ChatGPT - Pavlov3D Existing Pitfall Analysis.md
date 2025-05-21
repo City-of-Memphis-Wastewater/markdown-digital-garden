@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-pavlov3-d-existing-pitfall-analysis/","noteIcon":"","created":"2025-02-07T09:22:23.943-06:00"}
+{"dg-publish":true,"permalink":"/chat-gpt-pavlov3-d-existing-pitfall-analysis/","noteIcon":"","created":"2025-05-20T09:18:12.909-05:00"}
 ---
 
 

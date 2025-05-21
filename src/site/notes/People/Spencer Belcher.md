@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/spencer-belcher/","noteIcon":"","created":"2025-02-07T13:09:57.418-06:00"}
+{"dg-publish":true,"permalink":"/people/spencer-belcher/","noteIcon":"","created":"2025-05-20T09:18:16.802-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/failure-modes/wire-corrosion/","noteIcon":"","created":"2025-01-08T08:56:45.472-06:00"}
+{"dg-publish":true,"permalink":"/failure-modes/wire-corrosion/","noteIcon":"","created":"2025-05-20T09:18:16.187-05:00"}
 ---
 
 Email excerpt from [[People/Henry Nakayama\|Henry Nakayama]]

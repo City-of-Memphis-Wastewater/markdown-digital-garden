@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/bentley/","noteIcon":"","created":"2025-01-31T10:10:32.821-06:00"}
+{"dg-publish":true,"permalink":"/software/bentley/","noteIcon":"","created":"2025-05-20T09:18:17.303-05:00"}
 ---
 
 Home: [Bentley Systems | Infrastructure Engineering Software](https://www.bentley.com/)

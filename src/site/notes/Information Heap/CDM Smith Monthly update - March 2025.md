@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/cdm-smith-monthly-update-march-2025/","noteIcon":"","created":"2025-03-25T08:58:44.202-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/cdm-smith-monthly-update-march-2025/","noteIcon":"","created":"2025-05-20T09:18:16.265-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 03-March 25\|2025 03-March 25]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/eds-excel-plugin/","noteIcon":"","created":"2025-01-28T09:35:14.831-06:00"}
+{"dg-publish":true,"permalink":"/software/eds-excel-plugin/","noteIcon":"","created":"2025-05-20T09:18:17.303-05:00"}
 ---
 
 Plugin filename: EDS92ExcelAddin-64bit-rel.9.2.1.1.msi ; provided by [[People/Matt Dannemueller\|Matt Dannemueller]]

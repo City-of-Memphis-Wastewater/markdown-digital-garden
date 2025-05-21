@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/ini-filetype/","noteIcon":"","created":"2025-01-10T13:06:24.749-06:00"}
+{"dg-publish":true,"permalink":"/software/ini-filetype/","noteIcon":"","created":"2025-05-20T09:18:17.333-05:00"}
 ---
 
 .ini

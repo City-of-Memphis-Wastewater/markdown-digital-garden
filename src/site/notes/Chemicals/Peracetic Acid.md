@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chemicals/peracetic-acid/","noteIcon":"","created":"2025-01-07T15:27:07.263-06:00"}
+{"dg-publish":true,"permalink":"/chemicals/peracetic-acid/","noteIcon":"","created":"2025-05-20T09:18:15.901-05:00"}
 ---
 
 Abbreviation: PAA

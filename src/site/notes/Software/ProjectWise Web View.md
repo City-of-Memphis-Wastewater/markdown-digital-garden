@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/project-wise-web-view/","noteIcon":"","created":"2025-01-31T10:10:05.629-06:00"}
+{"dg-publish":true,"permalink":"/software/project-wise-web-view/","noteIcon":"","created":"2025-05-20T09:18:17.364-05:00"}
 ---
 
 URL: https://connect-projectwisewebview.bentley.com/

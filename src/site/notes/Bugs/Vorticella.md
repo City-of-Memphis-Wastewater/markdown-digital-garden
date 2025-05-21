@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bugs/vorticella/","noteIcon":"","created":"2025-01-02T10:31:52.453-06:00"}
+{"dg-publish":true,"permalink":"/bugs/vorticella/","noteIcon":"","created":"2025-05-20T09:18:15.884-05:00"}
 ---
 
 #bugs

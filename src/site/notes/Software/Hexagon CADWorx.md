@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/hexagon-cad-worx/","noteIcon":"","created":"2025-02-04T10:26:04.831-06:00"}
+{"dg-publish":true,"permalink":"/software/hexagon-cad-worx/","noteIcon":"","created":"2025-05-20T09:18:17.333-05:00"}
 ---
 
 

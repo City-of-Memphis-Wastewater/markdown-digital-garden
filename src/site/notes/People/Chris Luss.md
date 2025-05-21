@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/chris-luss/","noteIcon":"","created":"2025-01-09T10:48:47.237-06:00"}
+{"dg-publish":true,"permalink":"/people/chris-luss/","noteIcon":"","created":"2025-05-20T09:18:16.627-05:00"}
 ---
 
 #people 

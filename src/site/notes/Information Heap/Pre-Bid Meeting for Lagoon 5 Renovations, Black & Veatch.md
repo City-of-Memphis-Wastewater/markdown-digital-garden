@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/pre-bid-meeting-for-lagoon-5-renovations-black-and-veatch/","noteIcon":"","created":"2025-04-09T10:01:57.559-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/pre-bid-meeting-for-lagoon-5-renovations-black-and-veatch/","noteIcon":"","created":"2025-05-20T09:18:16.407-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 04-April 09\|2025 04-April 09]]

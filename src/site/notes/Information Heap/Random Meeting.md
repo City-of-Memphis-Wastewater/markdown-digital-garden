@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/random-meeting/","noteIcon":"","created":"2025-02-04T14:11:28.257-06:00"}
+{"dg-publish":true,"permalink":"/information-heap/random-meeting/","noteIcon":"","created":"2025-05-20T09:18:16.407-05:00"}
 ---
 
 # Projects Discussed:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/pavlov3-d/pavlov3-d-features-to-add-2025-02-feb-06/","noteIcon":"","created":"2025-02-06T10:06:59.174-06:00"}
+{"dg-publish":true,"permalink":"/personal/pavlov3-d/pavlov3-d-features-to-add-2025-02-feb-06/","noteIcon":"","created":"2025-05-20T09:18:16.846-05:00"}
 ---
 
 - Save text notes, make HTTP request to send string, end up at Vercel blob in "comments". 

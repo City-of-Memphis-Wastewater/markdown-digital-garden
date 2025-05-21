@@ -23,6 +23,8 @@ Attendees:
 
 Eric Boyd: Purpose of meeting: Discern scope of project
 - Purchase two servers for Benjamin Hooks Library
+
+
 Henry: 
 - Henry is the project manager
 - At the user level, the project should: ... 

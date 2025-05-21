@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/qt-framework/","noteIcon":"","created":"2025-01-10T12:58:46.908-06:00"}
+{"dg-publish":true,"permalink":"/software/qt-framework/","noteIcon":"","created":"2025-05-20T09:18:17.380-05:00"}
 ---
 
 I believe this is a #GUI framework

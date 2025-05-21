@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/ryan-stringer/","noteIcon":"","created":"2025-02-07T13:08:37.346-06:00"}
+{"dg-publish":true,"permalink":"/people/ryan-stringer/","noteIcon":"","created":"2025-05-20T09:18:16.783-05:00"}
 ---
 
 email: <rstringer@tiogaenv.com>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/maxson/","noteIcon":"","created":"2025-02-27T15:10:18.880-06:00"}
+{"dg-publish":true,"permalink":"/information-heap/maxson/","noteIcon":"","created":"2025-05-20T09:18:16.375-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 27\|2025 02-February 27]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/radio-mesh-connection/","noteIcon":"","created":"2025-02-12T08:11:22.375-06:00"}
+{"dg-publish":true,"permalink":"/information-heap/radio-mesh-connection/","noteIcon":"","created":"2025-05-20T09:18:16.407-05:00"}
 ---
 
 Options for getting data in to Emerson

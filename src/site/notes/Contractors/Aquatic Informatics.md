@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contractors/aquatic-informatics/","noteIcon":"","created":"2025-01-02T09:00:57.218-06:00"}
+{"dg-publish":true,"permalink":"/contractors/aquatic-informatics/","noteIcon":"","created":"2025-05-20T09:18:15.930-05:00"}
 ---
 
 [Aquatic Informatics | Water Data Management Software](https://aquaticinformatics.com/)
