@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/design-solution-for-vibrating-jesco-unit-in-bio-air-system/","noteIcon":"","created":"2025-05-20T09:18:16.301-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/design-solution-for-vibrating-jesco-unit-in-bio-air-system/","noteIcon":"","created":"2025-05-20T10:31:54.347-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 26\|2025 02-February 26]]

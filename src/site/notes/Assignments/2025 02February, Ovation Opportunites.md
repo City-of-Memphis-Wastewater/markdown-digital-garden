@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/assignments/2025-02-february-ovation-opportunites/","noteIcon":"","created":"2025-05-20T09:18:15.806-05:00"}
+{"dg-publish":true,"permalink":"/assignments/2025-02-february-ovation-opportunites/","noteIcon":"","created":"2025-05-20T10:31:54.499-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 27\|2025 02-February 27]]
 
-- [x] Migrate Westec settings for the Compressor building 3, etc. Contact: [[People/Melissa Cox (CDM Smith)\|Melissa Cox (CDM Smith)]]
-- [x] Update the percentage speed for the trickling filter rotation arms to be a better unit of measure: minutes per rotation (MPR) or RPM or RPH
+- [ ] Migrate Westec settings for the Compressor building 3, etc. Contact: [[People/Melissa (CDM Smith)\|Melissa (CDM Smith)]]
+- [ ] Update the percentage speed for the trickling filter rotation arms to be a better unit of measure: minutes per rotation (MPR) or RPM or RPH
 - [ ] Suggested by [[People/Sam Jenkins\|Sam Jenkins]]: Get sensors up and operational for air flow (KCFM) to aeration basin

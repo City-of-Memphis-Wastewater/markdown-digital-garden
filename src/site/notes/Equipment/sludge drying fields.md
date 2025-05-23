@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/sludge-drying-fields/","noteIcon":"","created":"2025-05-20T09:18:16.124-05:00"}
+{"dg-publish":true,"permalink":"/equipment/sludge-drying-fields/","noteIcon":"","created":"2025-05-20T10:31:25.535-05:00"}
 ---
 
 after the dewatering presses, which is after the lagoons

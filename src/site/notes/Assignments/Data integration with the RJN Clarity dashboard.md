@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assignments/data-integration-with-the-rjn-clarity-dashboard/","noteIcon":"","created":"2025-05-20T09:18:15.806-05:00"}
+{"dg-publish":true,"permalink":"/assignments/data-integration-with-the-rjn-clarity-dashboard/","noteIcon":"","created":"2025-05-20T10:32:04.178-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 03-March 20\|2025 03-March 20]]
@@ -14,7 +14,3 @@ People:
 - [[People/Clayton Bennett\|Clayton Bennett]]
 
 Strategy: PyEDS
-
-
-Update: 
-- RJN Clarity REST API allows for POST requests

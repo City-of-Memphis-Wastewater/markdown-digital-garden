@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contractors/cdm-smith/","noteIcon":"","created":"2025-05-20T09:18:15.942-05:00"}
+{"dg-publish":true,"permalink":"/contractors/cdm-smith/","noteIcon":"","created":"2025-05-20T10:31:25.185-05:00"}
 ---
 
 Primary contact: [[People/Brian Stacks\|Brian Stacks]]

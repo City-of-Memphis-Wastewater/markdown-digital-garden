@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/daemon-appdata/","noteIcon":"","created":"2025-05-20T09:18:16.297-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/daemon-appdata/","noteIcon":"","created":"2025-05-23T14:53:49.565-05:00"}
 ---
 
 Date: [[2025 05-May 02\|2025 05-May 02]]

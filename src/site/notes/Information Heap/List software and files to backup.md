@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/list-software-and-files-to-backup/","noteIcon":"","created":"2025-05-20T09:18:16.375-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/list-software-and-files-to-backup/","noteIcon":"","created":"2025-05-23T14:53:49.707-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 07\|2025 05-May 07]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/m-c-stiles-wastewater-treatment-plant/","noteIcon":"","created":"2025-05-20T09:18:16.469-05:00"}
+{"dg-publish":true,"permalink":"/locations/m-c-stiles-wastewater-treatment-plant/","noteIcon":"","created":"2025-05-20T10:31:34.153-05:00"}
 ---
 
 External source: [Memphis North - Maynard C. Stiles Sewage Treatment Plant - Water & Wastewater](https://www.waterandwastewater.com/memphis-north-maynard-c-stiles-sewage-treatment-plant/)

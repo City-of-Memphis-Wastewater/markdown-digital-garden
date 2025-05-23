@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assignments/bio-rem-details-and-maintenance-and-calibration-plan/","noteIcon":"","created":"2025-05-20T09:18:15.806-05:00"}
+{"dg-publish":true,"permalink":"/assignments/bio-rem-details-and-maintenance-and-calibration-plan/","noteIcon":"","created":"2025-05-20T10:31:34.138-05:00"}
 ---
 
 #assignment  
@@ -13,15 +13,6 @@ Key people: [[People/Carlton Mull\|Carlton Mull]], [[People/Stacy Bullard\|Stacy
 Talk to [[People/Tersea Espy\|people/Tersea Espy]] at [[Contractors/Diamond Scientific\|contractors/Diamond Scientific]] about calibrating [[Equipment/SWG100 biogas analyzer\|equipment/SWG100 biogas analyzer]], the [[Equipment/Optima7 handheld biogas analyzer\|equipment/Optima7 handheld biogas analyzer]], and the [[Equipment/OptimaMax handheld biogas analyzer\|equipment/OptimaMax handheld biogas analyzer]]. Also the 6 [[Equipment/Amatek biogas flow meters\|equipment/Amatek biogas flow meters]] which need to be calibrated, by [[People/Andy LeJeune\|Andy LeJeune]] at [[Contractors/Bar Environmental\|Contractors/Bar Environmental]]. If any of the flow meters cannot be calibrated, [[Contractors/Bar Environmental\|Bar Environmental]] will order new flow meters as we need them. We should have at least six spare [[Equipment/Amatek biogas flow meters\|Amatek biogas flow meters]] on a shelf somewhere - where are they (ask [[People/Chris Luss\|Chris Luss]])? Also ask about where the spare [[Equipment/SWG100 biogas analyzer\|equipment/SWG100 biogas analyzer]] is being stored. Move the storage of the flow meters and analyzers for the [[Systems/BioRem\|BioRem]] system to a rack in my office for now.
 
 
-[ ] Shane can do handhelds
-[ ] Get serial numbers for units
-[ ] Expect email to George.bennett@memphistn.gov
-[ ] Sending in a SWG100 is reasonable
-
-----
-- [x] Talk to Chris!
-- [ ] Chris says we have 2 Optima 7 handheld units. [[-Daily Activity Log-/2025 04-April 28\|2025 04-April 28]]
-- [ ] Swap SWP100 Analyzers, send the used one to Florida for calibration
 - [ ] Write SOP's
 - [ ] Set up semi annual periodic maintenance and calibrations, starting in July 2025, January 2026, July 2026, etc
 - [ ] Offset PM's and calibrations of handheld units by a month, so that we have at least a handheld while the [[Equipment/SWG100 biogas analyzer\|equipment/SWG100 biogas analyzer]] is in service
@@ -35,5 +26,5 @@ Best location for spare parts:
 
 
 Other equipment (?) look for manual, SOP, O&M doc, etc for all [[Systems/BioRem\|BioRem]] equipment. The O&M documents may have been provided by [[Contractors/CDM Smith\|CDM Smith]]. The [[Systems/BioRem\|BioRem]] project was funded by [[Government/TVA\|government/TVA]]. 
-- [x] Ask [[People/Mike Brower\|Mike Brower]] for the location of the [[Systems/BioRem\|BioRem]] O&M docs.
+- [ ] Ask [[People/Mike Brower\|Mike Brower]] for the location of the [[Systems/BioRem\|BioRem]] O&M docs.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bugs/norcadia/","noteIcon":"","created":"2025-05-20T09:18:15.884-05:00"}
+{"dg-publish":true,"permalink":"/bugs/norcadia/","noteIcon":"","created":"2025-05-20T10:31:25.575-05:00"}
 ---
 
 #bugs 
