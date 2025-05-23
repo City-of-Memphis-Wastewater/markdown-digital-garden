@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/07b-january-2025/","noteIcon":"","created":"2025-05-20T09:18:16.501-05:00"}
+{"dg-publish":true,"permalink":"/meetings/07b-january-2025/","noteIcon":"","created":"2025-05-20T10:31:25.389-05:00"}
 ---
 
 #meeting 

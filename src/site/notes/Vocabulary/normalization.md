@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vocabulary/normalization/","noteIcon":"","created":"2025-05-20T09:18:17.489-05:00"}
+{"dg-publish":true,"permalink":"/vocabulary/normalization/","noteIcon":"","created":"2025-05-20T10:31:48.624-05:00"}
 ---
 
 

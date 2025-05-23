@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/industry/flexware/","noteIcon":"","created":"2025-05-20T09:18:16.234-05:00"}
+{"dg-publish":true,"permalink":"/industry/flexware/","noteIcon":"","created":"2025-05-20T10:31:48.876-05:00"}
 ---
 
 Date: 2025 02-February 14

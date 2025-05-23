@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contractors/malasari-engineering/","noteIcon":"","created":"2025-05-20T09:18:15.975-05:00"}
+{"dg-publish":true,"permalink":"/contractors/malasari-engineering/","noteIcon":"","created":"2025-05-20T10:31:25.190-05:00"}
 ---
 
 CEO: JT Malasari

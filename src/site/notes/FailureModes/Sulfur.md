@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/failure-modes/sulfur/","noteIcon":"","created":"2025-05-20T09:18:16.187-05:00"}
+{"dg-publish":true,"permalink":"/failure-modes/sulfur/","noteIcon":"","created":"2025-05-20T10:31:26.325-05:00"}
 ---
 
 What are the sources of sulfur?

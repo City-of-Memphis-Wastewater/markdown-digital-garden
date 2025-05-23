@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/bio-rem-logs-2022-2024/","noteIcon":"","created":"2025-05-20T09:18:16.893-05:00"}
+{"dg-publish":true,"permalink":"/records/bio-rem-logs-2022-2024/","noteIcon":"","created":"2025-05-20T10:31:32.801-05:00"}
 ---
 
 Log book dates:

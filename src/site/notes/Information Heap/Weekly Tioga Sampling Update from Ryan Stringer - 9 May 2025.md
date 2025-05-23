@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/weekly-tioga-sampling-update-from-ryan-stringer-9-may-2025/","noteIcon":"","created":"2025-05-20T09:18:16.438-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/weekly-tioga-sampling-update-from-ryan-stringer-9-may-2025/","noteIcon":"","created":"2025-05-23T14:53:49.865-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 09\|2025 05-May 09]]

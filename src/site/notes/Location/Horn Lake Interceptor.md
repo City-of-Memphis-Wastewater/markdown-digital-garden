@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/location/horn-lake-interceptor/","noteIcon":"","created":"2025-05-20T09:18:16.454-05:00"}
+{"dg-publish":true,"permalink":"/location/horn-lake-interceptor/","noteIcon":"","created":"2025-05-20T10:31:33.169-05:00"}
 ---
 
 Horn Lake has an agreement with City of Memphis to  manage their wastewater. They must build their own [[Location/Horn Lake Water Treatment Plant\|Location/Horn Lake Water Treatment Plant]] by 2032.

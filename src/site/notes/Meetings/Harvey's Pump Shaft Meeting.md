@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/harvey-s-pump-shaft-meeting/","noteIcon":"","created":"2025-05-20T09:18:16.548-05:00"}
+{"dg-publish":true,"permalink":"/meetings/harvey-s-pump-shaft-meeting/","noteIcon":"","created":"2025-05-23T14:53:50.098-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 04-April 30\|2025 04-April 30]]

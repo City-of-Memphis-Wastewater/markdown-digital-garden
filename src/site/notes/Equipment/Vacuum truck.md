@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/vacuum-truck/","noteIcon":"","created":"2025-05-20T09:18:16.156-05:00"}
+{"dg-publish":true,"permalink":"/equipment/vacuum-truck/","noteIcon":"","created":"2025-05-20T10:31:33.901-05:00"}
 ---
 
 Vacuum sludge from sludge boxes on primary clarifiers, then drive to lagoon area, where sludge is dumped into a particular pit. Back the vacuum truck up to the berm before dumping - technically a spotter is specified to be present when backing up the truck to the berm.
