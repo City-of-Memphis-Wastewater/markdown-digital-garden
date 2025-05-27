@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/marian-coussan/","noteIcon":"","created":"2025-05-20T09:18:16.721-05:00"}
+{"dg-publish":true,"permalink":"/people/marian-coussan/","noteIcon":"","created":"2025-05-20T10:31:33.826-05:00"}
 ---
 
 

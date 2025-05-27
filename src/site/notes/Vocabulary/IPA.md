@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vocabulary/ipa/","noteIcon":"","created":"2025-05-20T09:18:17.474-05:00"}
+{"dg-publish":true,"permalink":"/vocabulary/ipa/","noteIcon":"","created":"2025-05-20T10:31:25.441-05:00"}
 ---
 
 Integrated power assembly

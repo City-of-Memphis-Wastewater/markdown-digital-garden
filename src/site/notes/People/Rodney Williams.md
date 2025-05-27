@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/rodney-williams/","noteIcon":"","created":"2025-05-20T09:18:16.783-05:00"}
+{"dg-publish":true,"permalink":"/people/rodney-williams/","noteIcon":"","created":"2025-05-20T10:31:33.756-05:00"}
 ---
 
 Email: rodney.williams@memphistn.gov

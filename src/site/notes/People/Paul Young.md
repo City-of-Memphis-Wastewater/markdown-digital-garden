@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/paul-young/","noteIcon":"","created":"2025-05-20T09:18:16.768-05:00"}
+{"dg-publish":true,"permalink":"/people/paul-young/","noteIcon":"","created":"2025-05-20T10:31:33.842-05:00"}
 ---
 
 ![Pasted image 20250204144019.png](/img/user/Pasted%20image%2020250204144019.png)
