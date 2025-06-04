@@ -9,12 +9,14 @@ Clayton,
 
 Can you please compile and share the below daily plant data for Maxson, dating back to the beginning of this year? This will help us understand the overall plant conditions and performance as we’ve been starting up TF 1 and 4.
 
-- Plant Influent: Flow, pH, BOD, TSS, Temperature
+- Plant Influent: *Flow*, pH, BOD, TSS, Temperature
 - Primary Clarifier Effluent: BOD, sBOD, TSS
-- Primary Clarifier Sludge Blanket Depths
+- ~~Primary Clarifier Sludge Blanket Depths~~
 - Trickling Filter Effluent: sBOD
-- Plant Effluent: BOD, TSS
+- *Plant Effluent: BOD, TSS*
 
 Thanks,
 
 [[People/Jacob Van Geffen\|Jacob Van Geffen]]
+
+[[Software/Access LIMS\|Access LIMS]]
