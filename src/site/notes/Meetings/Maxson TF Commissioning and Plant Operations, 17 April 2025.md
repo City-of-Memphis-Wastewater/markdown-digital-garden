@@ -7,7 +7,7 @@ Date: [[-Daily Activity Log-/2025 04-April 17\|2025 04-April 17]]
 - [[People/Jacob Van Geffen\|Jacob Van Geffen]]: Sampling pauses for this week, for unit maintenance, to resume next week. Tammy will run soluble BOD samples. The purpose is to ensure quality. Joe will be onsite and transfer samples to Tammy on Monday.
 - Performance log indicates smooth collection: [[People/Gerardo Gonzalez Ortiz\|Gerardo Gonzalez Ortiz]]
 - [[People/Christopher L Smith\|People/Christopher L Smith]] spoke
-- [[Xylem\|Xylem]] must come pull pumps
+- [[Contractors/Xylem\|Xylem]] must come pull pumps
 - Three screw pumps currently available.
 
 
