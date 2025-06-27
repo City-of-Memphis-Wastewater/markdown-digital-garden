@@ -48,3 +48,6 @@ Program update:
 - Mike: Having the truck outside the fence would require a safety shower outside of the fence.
 - ![Pasted image 20250627124339.png](/img/user/Pasted%20image%2020250627124339.png)
 - Sammy: Adding gravel for turn around purposes would be good.
+- Sammy: when will we meet next? Wednesday the 2nd?
+- Chris Luss: Wednesday is good, any time.
+- Mike: Anytime after 9
