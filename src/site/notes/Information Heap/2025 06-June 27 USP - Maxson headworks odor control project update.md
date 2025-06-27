@@ -38,9 +38,13 @@ Program update:
 - Henry: ferrous is acidic, that is the limiting factor.
 - Sammy: the consumption of alkalinity
 - Mike: you're talking about 2.5 million dollars a year of peroxide. $5.80 per  gallon of hydrogen peroxide. 
+- Clayton: it would be a $60,000 dollar experiment, if we were to increase to 1200 gallons per day of hydrogen peroxide for three weeks.
 - Chris: let's talk to Don first.
 - Mike: changing the skid and upping the capacity of the pumping system would enable us to try more hydrogen peroxide if we wanted, but currently we cannot increase the dosing.
 - Chris: some dosing is better than none. But maybe we can choosing to full stop until we can get the ferrous chloride. We will talk to [[People/Don Hudgins\|Don Hudgins]] on Monday.
 - Clayton: how will we couple the chemical delivery over the fence to the tank?
 - Sammy: truck to tank: Remote fill line, soft hoses, cam locked coupling - you really do not want to be offloading above eye level. The truck has a pump on it.
 - [[People/Henry Nakayama\|Henry Nakayama]] : how can we prevent spills.
+- Mike: Having the truck outside the fence would require a safety shower outside of the fence.
+- ![Pasted image 20250627124339.png](/img/user/Pasted%20image%2020250627124339.png)
+- Sammy: Adding gravel for turn around purposes would be good.
