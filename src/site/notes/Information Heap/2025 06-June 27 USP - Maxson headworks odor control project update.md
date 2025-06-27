@@ -27,4 +27,20 @@ Program update:
 - Chris: It would be better if they could come in without opening the gate.
 - Mike: Staying on the road might be problematic due to all the regular heavy truck traffic (from moving the old ABF filter media).
 - Sammy: Would the area in front (east) of the [[Systems/BioAir\|BioAir]] 2 system be available for the ferrous chloride tank?
+- ![Pasted image 20250627122642.png](/img/user/Pasted%20image%2020250627122642.png)
 - Sammy: A starting point - the same pump size for Ferrous Chloride as the hydrogen peroxide. 3 gallons per minute, 4300 gallons per day. We do not have the capacity to use gravity or atmospheric pressure - control is necessary.
+- Sammy: Is there potable water here?
+- Mike: Yes, at the bioair system, there is potable water for the trickle system.
+- ![Pasted image 20250627122758.png](/img/user/Pasted%20image%2020250627122758.png)
+- Sammy: target install the week of the 17th of July. We are currently getting 50% removal. should we continue for now or should we stop until we get the ferrous chloride tank? We can swap the skid next week or wait until mid July as well.
+- Dan Kile: Do you want to save budget? What will it take to get it under control with just peroxide? Do you want to find out? There could be benefit in seeing what it takes. Being hot exacerbates the problem.
+- Chris Luss: Continuing to dose at the current, vs upping the dose.
+- Henry: ferrous is acidic, that is the limiting factor.
+- Sammy: the consumption of alkalinity
+- Mike: you're talking about 2.5 million dollars a year of peroxide. $5.80 per  gallon of hydrogen peroxide. 
+- Chris: let's talk to Don first.
+- Mike: changing the skid and upping the capacity of the pumping system would enable us to try more hydrogen peroxide if we wanted, but currently we cannot increase the dosing.
+- Chris: some dosing is better than none. But maybe we can choosing to full stop until we can get the ferrous chloride. We will talk to [[People/Don Hudgins\|Don Hudgins]] on Monday.
+- Clayton: how will we couple the chemical delivery over the fence to the tank?
+- Sammy: truck to tank: Remote fill line, soft hoses, cam locked coupling - you really do not want to be offloading above eye level. The truck has a pump on it.
+- [[People/Henry Nakayama\|Henry Nakayama]] : how can we prevent spills.
