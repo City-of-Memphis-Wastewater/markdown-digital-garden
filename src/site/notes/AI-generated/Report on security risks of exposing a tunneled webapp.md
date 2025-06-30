@@ -256,3 +256,208 @@ async def get_data():
 ---
 
 If you want, I can help you craft a minimal FastAPI app with both these protections integrated, ready to plug into your existing backend.
+
+# Clayton 2:
+
+right now cloudflared is tunneling to a public subdomain. can i instead tunnel to a priviate subdomain set up on an AWS server, and then from there tunnel to he public subdomain?
+
+The purpose of this: the initial server needs to be secure. It is on the network necessary to access the source of the data. I need to pass the data, via API or tunneling, to a system that is accesible. 
+
+This was, the initial in-house server doesn't need to see all of the traffic for the public subdomain when people visit the web app, it is only passing the data feed to the system that will host the public web app and see the traffic   
+
+# AI 2: 
+Yes — what you're describing is a **proxy or relay architecture**, where:
+
+- Your **internal in-house server (secure zone)** only needs to send data.
+    
+- Your **intermediate AWS server** receives the data and **hosts the web app** publicly.
+    
+- The public Cloudflare tunnel points only to this AWS instance.
+    
+
+This is a **good practice for isolating secure infrastructure**. Let's break it down and discuss your architecture and how to implement it.
+
+---
+
+## 🔐 Problem Context
+
+You want:
+
+- Internal server (e.g., on City of Memphis network) → secure, not public.
+    
+- Public server (e.g., AWS EC2) → can serve `/data` and host frontend.
+    
+- Web users should only connect to AWS.
+    
+- Internal server _pushes_ or _tunnels_ just the **live data** to AWS.
+    
+- Internal server does **not** serve public web traffic or host Cloudflare directly.
+    
+
+---
+
+## ✅ Architecture Overview
+
+```
+[SECURE INTERNAL NETWORK]
+┌────────────────────────┐
+│ Internal Server        │
+│ - Access to raw EDS    │
+│ - FastAPI or script    │
+│ - Sends JSON feed      │
+└────────┬───────────────┘
+         │ (pull or push)
+         ▼
+[DMZ or AWS SERVER]
+┌────────────────────────┐
+│ AWS EC2                │
+│ - Receives data        │
+│ - Hosts live web app   │
+│ - Has public Cloudflare|
+│   tunnel to subdomain  │
+└────────┬───────────────┘
+         │
+         ▼
+[CLIENT DEVICES]
+- Access app via
+  `https://your-tunnel.cloudflare.com`
+```
+
+---
+
+## 🔧 Implementation Options
+
+### ✅ Option 1: **Push from Internal to AWS**
+
+**Internal Server:**
+
+- Periodically send `POST` requests to `https://aws-server.internal/api/feed` (use internal tunnel or IPsec/VPN if required).
+    
+
+**AWS Server:**
+
+- Expose an endpoint (`POST /api/feed`) to receive and cache the data (e.g., in memory).
+    
+- Serve `/data` publicly through the Cloudflare tunnel.
+    
+
+➡️ **Pros:**
+
+- Simpler.
+    
+- Stateless.
+    
+- Easy to scale.
+    
+
+➡️ **Cons:**
+
+- Internal server needs to initiate connections (cannot be fully passive).
+    
+
+---
+
+### ✅ Option 2: **Cloudflare Tunnel from Internal to AWS**
+
+You can run a **Cloudflare Tunnel from the internal server to AWS**, allowing the AWS instance to `fetch()` data from the internal system via its private tunnel address.
+
+This is **zero trust** style:
+
+- Internal server does:
+    
+    ```bash
+    cloudflared tunnel run internal-data-feed
+    ```
+    
+- AWS server fetches data from:
+    
+    ```http
+    https://internal-data-feed.example.cloudflareaccess.com/data
+    ```
+    
+- This URL is never public — it's protected by Cloudflare Access and only the AWS server can call it (use mTLS or signed JWT).
+    
+
+➡️ **Pros:**
+
+- Your internal server never exposes any service to the internet.
+    
+- Data always flows outward.
+    
+
+➡️ **Cons:**
+
+- More complex to set up with mTLS or Cloudflare Access rules.
+    
+
+---
+
+## 🔐 Security Benefits
+
+- Internal server is isolated and not exposed to the public web.
+    
+- Web traffic load is handled by AWS (cheap, scalable).
+    
+- Cloudflare tunnel on AWS reduces inbound exposure (no open ports).
+    
+- Only the data channel is exposed, either as a tunnel or outbound POST.
+    
+
+---
+
+## ⚙️ FastAPI Example (AWS Server)
+
+```python
+# AWS Server: receives data
+from fastapi import FastAPI, Request
+
+app = FastAPI()
+latest_data = {}
+
+@app.post("/api/feed")
+async def receive_feed(request: Request):
+    global latest_data
+    latest_data = await request.json()
+    return {"status": "ok"}
+
+@app.get("/data")
+async def serve_data():
+    return latest_data
+```
+
+**Internal server script (pusher):**
+
+```python
+import requests
+import time
+
+def push_data():
+    while True:
+        data = get_fresh_data_somehow()
+        requests.post("https://aws-your-domain/api/feed", json=data)
+        time.sleep(2)
+
+push_data()
+```
+
+---
+
+## 🧱 Recommendation
+
+If you want minimal moving parts and the internal server is allowed to make outbound HTTPS:
+
+- Go with **Option 1 (push API)** to AWS.
+    
+- Cloudflare tunnel only exists on the AWS host.
+    
+- Rate limit and authenticate the feed endpoint (`/api/feed`).
+    
+
+If you want true **zero trust**, or can't push but can tunnel out:
+
+- Use **Option 2 (Cloudflare-to-Cloudflare tunnel)** with **Cloudflare Access** between internal and AWS.
+    
+
+---
+
+Want help setting up either route (e.g., using `cloudflared access`, FastAPI relay, or adding authentication)?
