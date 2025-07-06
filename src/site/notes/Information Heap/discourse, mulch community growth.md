@@ -392,7 +392,197 @@ Copier is doing project templating fabulously—but Mulch offers something diffe
 
 # Clayton 3:
 
+```
+>>> help(mulch)
+Help on package mulch:
+
+NAME
+    mulch - # mulch/__init__.py
+
+PACKAGE CONTENTS
+    cli
+    decorators
+    logging_setup
+    templates (package)
+    workspace_factory
+    workspace_manager
+
+CLASSES
+    builtins.object
+        mulch.workspace_factory.WorkspaceFactory
+
+    class WorkspaceFactory(builtins.object)
+     |  WorkspaceFactory(base_path: pathlib.Path, workspace_name: str, lock_data: dict)
+     |
+     |  Methods defined here:
+     |
+     |  __init__(self, base_path: pathlib.Path, workspace_name: str, lock_data: dict)
+     |      Initialize self.  See help(type(self)) for accurate signature.
+     |
+     |  check_and_create_workspace_dirs_from_scaffold(self)
+     |      Create folders and files under the workspace directory as defined by the scaffold.
+     |
+     |  get_path(self, key: str) -> pathlib.Path
+     |      Generic path getter using slash-separated key within the workspace.
+     |
+     |  render_workspace_manager(self)
+     |      Render a workspace_manager.py file based on the scaffold and template.
+     |
+     |  seed_scaffolded_workspace_files(self)
+     |      Seed both static and templated workspace files.
+     |      Call this after workspace creation.
+     |      Seed only placeholder files that are already declared in scaffold and still empty.
+     |      This ensures the scaffold drives structure, not the seeder.
+     |
+     |  seed_static_workspace_files(self)
+     |      Populate essential workspace files *only if* their placeholder files already exist.
+     |      Avoids introducing files/folders not declared in the scaffold.
+     |
+     |  seed_templated_workspace_file(self)
+     |      Generate helpful default files in the new workspace, such as about_this_workspace.md.
+     |
+     |  ----------------------------------------------------------------------
+     |  Class methods defined here:
+     |
+     |  create_default_workspace_toml(workspaces_root: pathlib.Path, workspace_name: str)
+     |      Write default-workspace.toml to the workspaces directory.
+     |
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |
+     |  __dict__
+     |      dictionary for instance variables
+     |
+     |  __weakref__
+     |      list of weak references to the object
+     |
+     |  ----------------------------------------------------------------------
+     |  Data and other attributes defined here:
+     |
+     |  DEFAULT_SCAFFOLD_FILENAME = 'mulch-scaffold.json'
+     |
+     |  DEFAULT_TEMPLATE_DIR = WindowsPath('C:/Users/george.bennett/.pyenv/pye...
+     |
+     |  DEFAULT_TEMPLATE_FILENAME = 'workspace_manager.py.j2'
+     |
+     |  DEFAULT_WORKSPACE_CONFIG_FILENAME = 'default-workspace.toml'
+     |
+     |  FALLBACK_SCAFFOLD = {'': ['config', 'docs', 'imports', 'exports', 'scr...
+
+FUNCTIONS
+    load_scaffold(scaffold_path: pathlib.Path | None = None) -> dict
+
+DATA
+    __all__ = ['WorkspaceFactory', 'load_scaffold']
+
+FILE
+    c:\users\george.bennett\.pyenv\pyenv-win\versions\3.11.9\lib\site-packages\mulch\__init__.py
+
+```
+Are there ways i can leverage `mulch` as a python package to import, rather than just as a `CLI` installed through `pipx` ?
+
+
 # ChatGPT 3:
+
+Absolutely. `mulch` is already very well structured for **import and use as a Python package**, not just as a CLI tool. Here’s how you can **leverage it programmatically** in other scripts, notebooks, or even other packages.
+
+---
+
+### ✅ Yes, you _can_ (and should) import `mulch` directly.
+
+Here’s what makes that possible:
+
+1. **Proper `__init__.py`**
+    
+2. **Explicit exports**: `__all__ = ['WorkspaceFactory', 'load_scaffold']`
+    
+3. **Poetry config**: correct `[tool.poetry]` with `packages = [{ include = "mulch", from = "src" }]`
+    
+4. **Logical CLI separation**: `cli.py` is separate from the core logic
+    
+
+---
+
+### 🧪 How to use mulch in code (outside the CLI)
+
+Here’s a minimal example:
+
+```python
+from mulch import WorkspaceFactory, load_scaffold
+from pathlib import Path
+
+scaffold = load_scaffold()
+wf = WorkspaceFactory(
+    base_path=Path.cwd(),
+    workspace_name="experiment1",
+    lock_data={
+        "scaffold": scaffold,
+        "generated_by": "script",
+        "generated_at": "2025-07-06T12:00:00Z"
+    }
+)
+
+wf.check_and_create_workspace_dirs_from_scaffold()
+wf.seed_scaffolded_workspace_files()
+```
+
+---
+
+### 🧰 Some potential use cases for using `mulch` as a library:
+
+|Scenario|Code-based Usage|
+|---|---|
+|🧪 Test scaffolding layouts|Automate workspace creation and inspection in tests|
+|🛠 Create batch workspaces|Loop over several names, init workspaces programmatically|
+|🧩 Integrate into pipelines|Use from other Python tools that need isolated folders|
+|📝 Custom introspection tools|Use `wf.get_path("exports/aggregate")` to locate folders/files|
+|📚 IDE or notebook environments|Build and run workspace generation directly inside Jupyter or IDLE|
+
+---
+
+### 📦 Pro Tip: Install as an editable package for dev work
+
+In your dev project (like `mulch/`), install with:
+
+```bash
+poetry install
+```
+
+Then from _any script_ within that virtualenv:
+
+```python
+from mulch.workspace_factory import WorkspaceFactory
+```
+
+Or if working in another project, you can install your dev copy using:
+
+```bash
+pip install -e path/to/mulch
+```
+
+---
+
+### 🔁 CLI vs. API Summary
+
+|Aspect|CLI (`pipx run mulch`)|API (`import mulch`)|
+|---|---|---|
+|Easy onboarding|✅ Yes|❌ Requires coding context|
+|Custom workflows|❌ Limited to exposed CLI options|✅ Fully customizable|
+|Testability|❌ Harder to mock CLI|✅ Easy to unit test `WorkspaceFactory`|
+|Composability|❌ One-off commands|✅ Used as part of a larger Python app|
+
+---
+
+If you want to support both in tandem (which you're already doing nicely), consider:
+
+- Adding a **`.from_defaults()`** or **`.from_toml()`** classmethod to `WorkspaceFactory`
+    
+- Providing example scripts in `examples/` that use it as an importable library
+    
+- Maybe offering `mulch api` subcommands to trigger some behaviors but call the same methods
+    
+
+Let me know if you'd like help building a small “mulch-as-library” showcase!
 # Clayton 4:
 
 # ChatGPT 4:
