@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/interceptor/","noteIcon":"","created":"2025-05-20T10:31:33.891-05:00"}
+{"dg-publish":true,"permalink":"/equipment/interceptor/","noteIcon":"","created":"2025-07-07T14:23:44.423-05:00"}
 ---
 
 

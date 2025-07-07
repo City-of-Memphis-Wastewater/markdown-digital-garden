@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/power-shell/","noteIcon":"","created":"2025-05-20T10:31:48.751-05:00"}
+{"dg-publish":true,"permalink":"/software/power-shell/","noteIcon":"","created":"2025-07-07T14:23:47.753-05:00"}
 ---
 
 Date: 14-02-2025

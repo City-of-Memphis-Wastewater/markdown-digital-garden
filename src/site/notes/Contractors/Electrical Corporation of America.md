@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contractors/electrical-corporation-of-america/","noteIcon":"","created":"2025-05-20T10:31:25.255-05:00"}
+{"dg-publish":true,"permalink":"/contractors/electrical-corporation-of-america/","noteIcon":"","created":"2025-07-07T14:23:44.173-05:00"}
 ---
 
 Wired control room cabinets and more 

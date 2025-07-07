@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/pipe-modeling-options-3-d-representation/","noteIcon":"","created":"2025-05-20T10:31:34.083-05:00"}
+{"dg-publish":true,"permalink":"/software/pipe-modeling-options-3-d-representation/","noteIcon":"","created":"2025-07-07T14:23:47.753-05:00"}
 ---
 
 These are our visual options.

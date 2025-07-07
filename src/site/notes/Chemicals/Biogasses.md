@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chemicals/biogasses/","noteIcon":"","created":"2025-05-20T10:31:26.097-05:00"}
+{"dg-publish":true,"permalink":"/chemicals/biogasses/","noteIcon":"","created":"2025-07-07T14:23:44.111-05:00"}
 ---
 
 Can include [[FailureModes/methane\|failuremodes/methane]], [[FailureModes/Hydrogen sulfide\|Hydrogen sulfide]], and carbon dioxide 

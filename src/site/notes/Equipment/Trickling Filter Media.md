@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/trickling-filter-media/","noteIcon":"","created":"2025-05-20T10:31:25.518-05:00"}
+{"dg-publish":true,"permalink":"/equipment/trickling-filter-media/","noteIcon":"","created":"2025-07-07T14:23:44.501-05:00"}
 ---
 
 ![Pasted image 20250108153719.png](/img/user/Secondary/Images/Pasted%20image%2020250108153719.png)

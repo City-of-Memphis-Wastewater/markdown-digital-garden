@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/free-cad/","noteIcon":"","created":"2025-05-20T10:31:34.094-05:00"}
+{"dg-publish":true,"permalink":"/software/free-cad/","noteIcon":"","created":"2025-07-07T14:23:47.675-05:00"}
 ---
 
 

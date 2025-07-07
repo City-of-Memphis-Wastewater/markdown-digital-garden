@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/vertical-turbine/","noteIcon":"","created":"2025-05-20T10:31:25.512-05:00"}
+{"dg-publish":true,"permalink":"/equipment/vertical-turbine/","noteIcon":"","created":"2025-07-07T14:23:44.532-05:00"}
 ---
 
 ![Pasted image 20250107145100.png](/img/user/Secondary/Images/Pasted%20image%2020250107145100.png)Use for [[Equipment/Trickling Filter Media\|Trickling Filter Media]]  Goulds brand - (x10) 

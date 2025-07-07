@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emails/feb-7-email-response-from-pete-gabor-concerning-do-probe-prioritization/","noteIcon":"","created":"2025-05-20T10:31:48.853-05:00"}
+{"dg-publish":true,"permalink":"/emails/feb-7-email-response-from-pete-gabor-concerning-do-probe-prioritization/","noteIcon":"","created":"2025-07-07T14:23:44.329-05:00"}
 ---
 
 

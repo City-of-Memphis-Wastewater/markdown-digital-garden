@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/training/share-point-documents-local-synchronization/","noteIcon":"","created":"2025-07-03T09:22:25.440-05:00"}
+{"dg-publish":true,"permalink":"/training/share-point-documents-local-synchronization/","noteIcon":"","created":"2025-07-07T14:23:47.926-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 07-July 03\|2025 07-July 03]]
