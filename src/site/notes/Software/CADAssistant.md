@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/cad-assistant/","noteIcon":"","created":"2025-05-20T10:31:25.787-05:00"}
+{"dg-publish":true,"permalink":"/software/cad-assistant/","noteIcon":"","created":"2025-07-07T14:23:47.628-05:00"}
 ---
 
 [Download CAD Assistant, or learn about it](https://www.opencascade.com/products/cad-assistant)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-generated/discourse-mulch-workflow/","noteIcon":"","created":"2025-07-05T14:09:18.304-05:00"}
+{"dg-publish":true,"permalink":"/ai-generated/discourse-mulch-workflow/","noteIcon":"","created":"2025-07-07T14:23:43.860-05:00"}
 ---
 
 Date: [[2025 07-July 05\|2025 07-July 05]]

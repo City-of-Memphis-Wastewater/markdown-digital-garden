@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/voice-recording-and-knowledge-base-project/","noteIcon":"","created":"2025-05-20T10:31:54.139-05:00"}
+{"dg-publish":true,"permalink":"/projects/voice-recording-and-knowledge-base-project/","noteIcon":"","created":"2025-07-07T14:23:46.566-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 24\|2025 02-February 24]]

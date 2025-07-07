@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assignments/cdm-smith-plant-condition-request-may-2025/","noteIcon":"","created":"2025-05-29T11:01:16.096-05:00"}
+{"dg-publish":true,"permalink":"/assignments/cdm-smith-plant-condition-request-may-2025/","noteIcon":"","created":"2025-07-07T14:23:43.985-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 29\|2025 05-May 29]]

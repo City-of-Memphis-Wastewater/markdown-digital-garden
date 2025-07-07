@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assignments/excel-macro-don-s-eds-daily-add-in-workflow/","noteIcon":"","created":"2025-05-20T10:31:34.143-05:00"}
+{"dg-publish":true,"permalink":"/assignments/excel-macro-don-s-eds-daily-add-in-workflow/","noteIcon":"","created":"2025-07-07T14:23:43.985-05:00"}
 ---
 
 Key person: [[People/Don Hudgins\|Don Hudgins]]

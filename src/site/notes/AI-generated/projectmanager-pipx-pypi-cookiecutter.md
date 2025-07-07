@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-generated/projectmanager-pipx-pypi-cookiecutter/","noteIcon":"","created":"2025-07-01T13:02:40.697-05:00"}
+{"dg-publish":true,"permalink":"/ai-generated/projectmanager-pipx-pypi-cookiecutter/","noteIcon":"","created":"2025-07-07T14:23:43.907-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 07-July 01\|2025 07-July 01]]

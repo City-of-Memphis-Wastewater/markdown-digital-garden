@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/amatek-biogas-flow-meters/","noteIcon":"","created":"2025-05-20T10:31:33.923-05:00"}
+{"dg-publish":true,"permalink":"/equipment/amatek-biogas-flow-meters/","noteIcon":"","created":"2025-07-07T14:23:44.376-05:00"}
 ---
 
 We have 6 of these.

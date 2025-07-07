@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emails/email-tem-bar-environmental-biogas-change-out-and-calibration-fy-26-24-january-2025/","noteIcon":"","created":"2025-05-20T10:31:33.019-05:00"}
+{"dg-publish":true,"permalink":"/emails/email-tem-bar-environmental-biogas-change-out-and-calibration-fy-26-24-january-2025/","noteIcon":"","created":"2025-07-07T14:23:44.314-05:00"}
 ---
 
 *Hi Don/Mike/Chris, We will need Bar Environmental to change-out and calibrate 6 biogas flowmeters semi-annually during FY26. We may also need to purchase new flowmeters which could not be calibrated. The following is my cost estimate for these services in FY 26.*

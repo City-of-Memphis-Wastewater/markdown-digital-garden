@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-generated/discourse-on-mag-monitoring/","noteIcon":"","created":"2025-06-18T08:47:13.351-05:00"}
+{"dg-publish":true,"permalink":"/ai-generated/discourse-on-mag-monitoring/","noteIcon":"","created":"2025-07-07T14:23:43.860-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 06-June 18\|2025 06-June 18]]

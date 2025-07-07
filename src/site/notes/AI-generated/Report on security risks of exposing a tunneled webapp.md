@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-generated/report-on-security-risks-of-exposing-a-tunneled-webapp/","noteIcon":"","created":"2025-06-27T18:29:18.337-05:00"}
+{"dg-publish":true,"permalink":"/ai-generated/report-on-security-risks-of-exposing-a-tunneled-webapp/","noteIcon":"","created":"2025-07-07T14:23:43.923-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 06-June 27\|2025 06-June 27]]

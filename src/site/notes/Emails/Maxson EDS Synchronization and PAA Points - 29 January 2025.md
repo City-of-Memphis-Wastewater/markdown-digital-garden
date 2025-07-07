@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emails/maxson-eds-synchronization-and-paa-points-29-january-2025/","noteIcon":"","created":"2025-05-20T10:31:33.035-05:00"}
+{"dg-publish":true,"permalink":"/emails/maxson-eds-synchronization-and-paa-points-29-january-2025/","noteIcon":"","created":"2025-07-07T14:23:44.345-05:00"}
 ---
 
 Content:

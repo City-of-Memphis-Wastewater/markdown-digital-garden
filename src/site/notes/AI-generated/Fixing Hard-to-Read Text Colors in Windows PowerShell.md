@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-generated/fixing-hard-to-read-text-colors-in-windows-power-shell/","noteIcon":"","created":"2025-05-27T12:27:31.462-05:00"}
+{"dg-publish":true,"permalink":"/ai-generated/fixing-hard-to-read-text-colors-in-windows-power-shell/","noteIcon":"","created":"2025-07-07T14:23:43.876-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 27\|2025 05-May 27]]

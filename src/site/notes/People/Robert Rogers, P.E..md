@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/robert-rogers-p-e/","noteIcon":"","created":"2025-05-20T10:31:33.847-05:00"}
+{"dg-publish":true,"permalink":"/people/robert-rogers-p-e/","noteIcon":"","created":"2025-07-07T14:23:46.425-05:00"}
 ---
 
 
