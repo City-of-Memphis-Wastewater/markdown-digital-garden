@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/how-to-add-a-point-to-the-ovation-historian/","noteIcon":"","created":"2025-05-20T10:31:54.419-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/how-to-add-a-point-to-the-ovation-historian/","noteIcon":"","created":"2025-07-07T14:23:45.628-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 03-March 06\|2025 03-March 06]]

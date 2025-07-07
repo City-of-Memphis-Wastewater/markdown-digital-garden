@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/carlton-mull/","noteIcon":"","created":"2025-05-20T10:31:25.306-05:00"}
+{"dg-publish":true,"permalink":"/people/carlton-mull/","noteIcon":"","created":"2025-07-07T14:23:46.128-05:00"}
 ---
 
 17 years on site as of January 2025

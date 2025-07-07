@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/eaton-switchgear-training/","noteIcon":"","created":"2025-05-28T08:01:23.418-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/eaton-switchgear-training/","noteIcon":"","created":"2025-07-07T14:23:45.362-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 28\|2025 05-May 28]]

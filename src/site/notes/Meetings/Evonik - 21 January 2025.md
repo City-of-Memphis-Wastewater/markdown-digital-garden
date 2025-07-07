@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/evonik-21-january-2025/","noteIcon":"","created":"2025-05-20T10:31:33.863-05:00"}
+{"dg-publish":true,"permalink":"/meetings/evonik-21-january-2025/","noteIcon":"","created":"2025-07-07T14:23:45.988-05:00"}
 ---
 
 As temperatures reduce during the month of December, Evonik was able to reduce the base dose.

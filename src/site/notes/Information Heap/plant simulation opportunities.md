@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/plant-simulation-opportunities/","noteIcon":"","created":"2025-05-23T14:53:49.786-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/plant-simulation-opportunities/","noteIcon":"","created":"2025-07-07T14:23:45.706-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 20\|2025 05-May 20]]

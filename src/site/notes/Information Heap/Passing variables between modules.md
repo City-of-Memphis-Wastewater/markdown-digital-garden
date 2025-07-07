@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/passing-variables-between-modules/","noteIcon":"","created":"2025-05-23T14:53:49.771-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/passing-variables-between-modules/","noteIcon":"","created":"2025-07-07T14:23:45.690-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 04-April 23\|2025 04-April 23]]

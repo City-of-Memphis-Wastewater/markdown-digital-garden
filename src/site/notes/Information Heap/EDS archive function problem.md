@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/eds-archive-function-problem/","noteIcon":"","created":"2025-05-20T10:31:34.163-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/eds-archive-function-problem/","noteIcon":"","created":"2025-07-07T14:23:45.378-05:00"}
 ---
 
 The EDS_AV() function works to provide real-time access to a given point. It is only the EDS archive functions, which access one of more time values, that do not work.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/2025-06-june-18-marian-coussan-tva-reporting-spreadsheet/","noteIcon":"","created":"2025-06-18T09:54:43.349-05:00"}
+{"dg-publish":true,"permalink":"/meetings/2025-06-june-18-marian-coussan-tva-reporting-spreadsheet/","noteIcon":"","created":"2025-07-07T14:23:45.956-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 06-June 18\|2025 06-June 18]]

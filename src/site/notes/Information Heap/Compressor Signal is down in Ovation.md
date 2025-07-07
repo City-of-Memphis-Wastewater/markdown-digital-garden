@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/compressor-signal-is-down-in-ovation/","noteIcon":"","created":"2025-05-20T10:31:26.185-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/compressor-signal-is-down-in-ovation/","noteIcon":"","created":"2025-07-07T14:23:44.736-05:00"}
 ---
 
 

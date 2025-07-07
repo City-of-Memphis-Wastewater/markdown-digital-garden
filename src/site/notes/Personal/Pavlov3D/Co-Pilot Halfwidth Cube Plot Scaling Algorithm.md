@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/pavlov3-d/co-pilot-halfwidth-cube-plot-scaling-algorithm/","noteIcon":"","created":"2025-05-20T10:31:48.791-05:00"}
+{"dg-publish":true,"permalink":"/personal/pavlov3-d/co-pilot-halfwidth-cube-plot-scaling-algorithm/","noteIcon":"","created":"2025-07-07T14:23:46.519-05:00"}
 ---
 
 ## Previous: 

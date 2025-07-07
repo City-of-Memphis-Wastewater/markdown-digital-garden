@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/2025-01-january-27-usp-technologies-collection-trials/","noteIcon":"","created":"2025-05-20T10:31:33.879-05:00"}
+{"dg-publish":true,"permalink":"/meetings/2025-01-january-27-usp-technologies-collection-trials/","noteIcon":"","created":"2025-07-07T14:23:45.925-05:00"}
 ---
 
 ![Pasted image 20250127112625.png](/img/user/Pasted%20image%2020250127112625.png)

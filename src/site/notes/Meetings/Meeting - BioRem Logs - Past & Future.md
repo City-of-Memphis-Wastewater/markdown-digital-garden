@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/meeting-bio-rem-logs-past-and-future/","noteIcon":"","created":"2025-05-20T10:31:33.873-05:00"}
+{"dg-publish":true,"permalink":"/meetings/meeting-bio-rem-logs-past-and-future/","noteIcon":"","created":"2025-07-07T14:23:46.019-05:00"}
 ---
 
 [[People/Don Hudgins\|Don Hudgins]]: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/information-heap/cdm-smith-commissioning-and-plant-operations-meeting-01-may-2025/","noteIcon":"","created":"2025-05-23T14:53:49.518-05:00"}
+{"dg-publish":true,"permalink":"/information-heap/cdm-smith-commissioning-and-plant-operations-meeting-01-may-2025/","noteIcon":"","created":"2025-07-07T14:23:44.704-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 01\|2025 05-May 01]]

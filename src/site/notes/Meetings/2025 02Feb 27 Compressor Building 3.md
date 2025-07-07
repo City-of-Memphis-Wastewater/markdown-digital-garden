@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/2025-02-feb-27-compressor-building-3/","noteIcon":"","created":"2025-05-20T10:31:54.253-05:00"}
+{"dg-publish":true,"permalink":"/meetings/2025-02-feb-27-compressor-building-3/","noteIcon":"","created":"2025-07-07T14:23:45.941-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 27\|2025 02-February 27]]

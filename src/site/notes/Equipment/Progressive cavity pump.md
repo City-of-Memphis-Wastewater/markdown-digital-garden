@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/progressive-cavity-pump/","noteIcon":"","created":"2025-05-20T10:31:25.484-05:00"}
+{"dg-publish":true,"permalink":"/equipment/progressive-cavity-pump/","noteIcon":"","created":"2025-07-07T14:23:44.470-05:00"}
 ---
 
 ![Pasted image 20250106144438.png](/img/user/Secondary/Images/Pasted%20image%2020250106144438.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/2025-06-june-17-cdm-smith-maxson-wwtf-monthly-progress-meeting/","noteIcon":"","created":"2025-06-17T08:59:04.381-05:00"}
+{"dg-publish":true,"permalink":"/meetings/2025-06-june-17-cdm-smith-maxson-wwtf-monthly-progress-meeting/","noteIcon":"","created":"2025-07-07T14:23:45.956-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 06-June 17\|2025 06-June 17]]

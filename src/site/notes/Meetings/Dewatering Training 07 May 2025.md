@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/dewatering-training-07-may-2025/","noteIcon":"","created":"2025-05-23T14:53:50.053-05:00"}
+{"dg-publish":true,"permalink":"/meetings/dewatering-training-07-may-2025/","noteIcon":"","created":"2025-07-07T14:23:45.972-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 05-May 07\|2025 05-May 07]]

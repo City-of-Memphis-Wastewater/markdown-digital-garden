@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/20-feb-2025-tioga-monthly-smart-meter/","noteIcon":"","created":"2025-05-20T10:31:48.613-05:00"}
+{"dg-publish":true,"permalink":"/meetings/20-feb-2025-tioga-monthly-smart-meter/","noteIcon":"","created":"2025-07-07T14:23:45.909-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 20\|2025 02-February 20]]

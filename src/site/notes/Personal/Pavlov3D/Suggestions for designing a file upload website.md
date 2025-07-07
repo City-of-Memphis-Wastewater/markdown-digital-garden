@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/pavlov3-d/suggestions-for-designing-a-file-upload-website/","noteIcon":"","created":"2025-05-20T10:31:48.776-05:00"}
+{"dg-publish":true,"permalink":"/personal/pavlov3-d/suggestions-for-designing-a-file-upload-website/","noteIcon":"","created":"2025-07-07T14:23:46.534-05:00"}
 ---
 
 Here's a **secure architecture** for your **password-protected file upload system** with a **blob storage backend**:

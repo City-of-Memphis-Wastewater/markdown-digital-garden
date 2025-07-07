@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meetings/14-feb2025-jon-watson-at-evonik/","noteIcon":"","created":"2025-05-20T10:31:48.598-05:00"}
+{"dg-publish":true,"permalink":"/meetings/14-feb2025-jon-watson-at-evonik/","noteIcon":"","created":"2025-07-07T14:23:45.894-05:00"}
 ---
 
 Date: [[-Daily Activity Log-/2025 02-February 14\|2025 02-February 14]]
