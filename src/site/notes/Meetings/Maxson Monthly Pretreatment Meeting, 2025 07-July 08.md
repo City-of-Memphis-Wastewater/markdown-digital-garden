@@ -37,7 +37,7 @@ For June, Solae gave us 60 Downed Feed Dryer Notices
 - On the 30th of June, operators noticed a blue foam in the influent and a kerosene smell. (Henry - Jet fuel smells like kerosene, hopefully it is not jet fuel.)
 - On the 21st and 22nd of June, operators noticed that something came into the plant and turned everything dark and murky. DO's were noticably impacted
 - Not industry reported any spills in June.
-# Interferance
+# Interfereance
 - Last month there was a photo of strange things showing up in the grit. It is a white cube shape, appears purposefully cut up, but otherwise like a grease ball.
 - Industrial Pretreatment has a sample in their cooler, yet undissected
 - ![Pasted image 20250708102741.png](/img/user/Pasted%20image%2020250708102741.png)
@@ -53,4 +53,5 @@ For June, Solae gave us 60 Downed Feed Dryer Notices
 - Their open-cooling system is not yet ready to be implemented, and probably will not be until their water treatment plant it running.
 - Only refreshed water is currently being added to their closed loop system.
 - A power plant was purchase overseas (hypothetically mini-nuclear), and it being shipped to that location.
-- xAI is 10th on the list of polluters for nitrous oxide emissions in the 38109 zip code. Maxson is not on the list. The Steam Plant is one of the highest.
+- xAI is 10th on the list of polluters for nitrous oxide emissions in the 38109 zip code. Maxson is not on the list. The Steam Plant is one of the highest. https://dailymemphian.com/subscriber/section/neighborhoodssouth-memphis/article/52892/how-elon-musk-xai-fight-over-an-air-permit-changed-memphis
+-
