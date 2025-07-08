@@ -41,4 +41,16 @@ For June, Solae gave us 60 Downed Feed Dryer Notices
 - Last month there was a photo of strange things showing up in the grit. It is a white cube shape, appears purposefully cut up, but otherwise like a grease ball.
 - Industrial Pretreatment has a sample in their cooler, yet undissected
 - ![Pasted image 20250708102741.png](/img/user/Pasted%20image%2020250708102741.png)
-- Could be soybean fibers from protein production
+- Could be soybean fibers from protein production, from dyer waste, from Solae.
+- Other conjectures: Kellogg's (has dryers), or Richardson.
+
+# Industrial Shutdowns Scheduled for July
+
+- Kellogg's was down from late June to early July
+- Runyan / [[Mid-South Septic\|Mid-South Septic]] / Mid-South Industrial development is halted for the time being. There is a draft permit in play, and an inspection is scheduled  for next week. They are expected to be online in about 45 days. Their location is 2401 Harbor Avenue.
+
+# Colossus / xAI
+- Their open-cooling system is not yet ready to be implemented, and probably will not be until their water treatment plant it running.
+- Only refreshed water is currently being added to their closed loop system.
+- A power plant was purchase overseas (hypothetically mini-nuclear), and it being shipped to that location.
+- xAI is 10th on the list of polluters for nitrous oxide emissions in the 38109 zip code. Maxson is not on the list. The Steam Plant is one of the highest.
