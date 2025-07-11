@@ -53,14 +53,14 @@ WEG acquired E+H and basically let them die.
 - The pump was rebuilt in house, about two weeks ago, to replace the shaft
 
 ## When the plant was built
-- Mike # 4 was a fixed speed, induction motor. Has not changed.
-- Flow matcher control system as used for # 1, # 2, and # 3. Allis Chalmers, GE. The electrolyet
+- Mike: # 4 was a fixed speed, induction motor. Has not changed.
+- Flow matcher control system as used for # 1, # 2, and # 3. Allis Chalmers, GE. This control system was based on an electrolyte solution. It is not longer used in any of the four pump systems.
 ## 2000
 - Mike: # 1 was changed to a magnetic drive. To increase the HP on the motor and to increase the pumping capacity
 - Brand new, it would pump 70 MGD all day long
 - Ran well until about 2002 or 2003, with basic PM's
 - It was taken out and rebuilt in the early 2000's
-# Until 2015
+## Until 2015
 - Parts could no longer be found for the old flow matcher system, so # 2 and # 3 were converted away from this in 2015.
 - It was a goal to increase the pumping capacity and HP of # 2 and # 3, to 70 MGD each, so the bases for pumps, the motor, and the drives (VFD's) were rebuilt/enhanced/changed. The VFD's is why we have the HVAC building. 
 ## Now
@@ -83,8 +83,8 @@ WEG acquired E+H and basically let them die.
 
 # Rebuilds
 ## 4
-- Number 4 motor, which caught on fire, has similar 
-- Can they rebuild the spare once the parts are taken out?
+- Number 4 motor caught on fire in July 2025. 
+- Can they rebuild the spare motor (which caught fire) once the parts are taken out?
 - Has been a fixed speed pump the entire time.
 ## 1
 - Mike: Changes are that something got into 1 and caused it to vibrate and caused it to fail.
@@ -105,9 +105,17 @@ WEG acquired E+H and basically let them die.
 - Mike: There is a change you would have to bypass the pump building and redo the whole thing
 - Headworks Piping is in the dry well in the pump station
 - The pumps 2 and 3 were done (2015) after the headworks piping was redone (2011)
-- Chris: A gate would be useful to close so that 
+
+## Screens
+- Chris: A screen bypass gate would be useful to close. With this,  we don't have climb all the way down in the wet well with active flow just to pull up and fix the rake assembly.
+- The rake assembly works automatically. When there is a power failure, the rake assembly gets stuck down there. At this point, someone is required to put on a breathing apparatus to go down there to attach a crane to bring up the screen.
+- A bypass around the screen would be helpful to assist in this process, for safety, to recover the rake assembly.
+- Additionally, when material builds up on the screen, the wet well can be pumped dry yet there is water behind the screen. The flow just keeps coming and clogging up the screen. This is anther use case for a screen bypass gate.
+- While a screen bypass gate would allow debris into the pumps, this is not a major concern, because we have a typical state of water being above the screen (~260 in?) and effectively bypassing it anyways.
+- In the case of a new building, we should plan for a screen bypass gate.
 
 # Contractors
 - [[Malasari\|Malasari]]
 - [[Contractors/AECOM\|AECOM]] or [[Contractors/Gresham\|Gresham]]
-	- For replacing the problematic pump system or otherwise engineering a solution
+	- For replacing the problematic pump system or otherwise engineering a solution.
+	- Possibly engineer a replacement pump building.
