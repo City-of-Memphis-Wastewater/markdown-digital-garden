@@ -778,7 +778,7 @@ make all
 
 Paste into a Notion board view and drag cards as needed.
 
-```markdown
+markdown
 ## 🔧 Refactor: Mulch CLI + WorkspaceFactory
 
 | Task                                          | Status     | Est. Time | Notes                                           |
@@ -794,7 +794,7 @@ Paste into a Notion board view and drag cards as needed.
 | Add `--show-source` flag (optional)           | ⏳ In Progress | 20 min | Shows resolved scaffold path                    |
 | Improve inline docstrings and comments        | ✅ To Do   | 15 min    | Especially in CLI and loaders                   |
 | Test all scaffold sources                     | ✅ To Do   | 15 min    | Empty/missing/invalid JSON                      |
-```
+
 
 You can copy this to a **Notion board view** and toggle statuses.
 
@@ -1180,3 +1180,7 @@ Let me know and I’ll write:
 - A `ConfigManager` class if you want something OOP-style
     
 - Or an updated Obsidian config.md template to track user flags & defaults
+
+
+# Continued...
+Continued on [[Information Heap/mulch 0.2.1 refactor notes\|mulch 0.2.1 refactor notes]]
