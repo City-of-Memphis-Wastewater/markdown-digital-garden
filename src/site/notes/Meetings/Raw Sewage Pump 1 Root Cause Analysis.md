@@ -20,7 +20,9 @@ After discharge valve was able to be opened
 
 # SharePoint Shared Drive Location
 [raw-sewage-pump-1-root-cause-failure-analysis](https://memphistngov.sharepoint.com/:f:/r/sites/170903-TEMasonTreatmentPlantSouth/Shared%20Documents/Maxson/Mechanical%20Maintenance%20-%20Knowledge%20Base/raw-sewage-pump-1-root-cause-failure-analysis?csf=1&web=1&e=ukZoUD)
-
+If you are locally synced: [Local SharePoint sync](%USERPROFILE%\OneDrive - City of Memphis\170903-T.E. Mason Treatment Plant South - General\Mechanical Maintenance - Knowledge Base\raw-sewage-pump-1-root-cause-failure-analysis\)
+How to locally sync: [[Training/SharePoint Documents Local Synchronization\|SharePoint Documents Local Synchronization]]
+![Pasted image 20250711141917.png](/img/user/Pasted%20image%2020250711141917.png)
 # Introduction to the pump, motor, and clutch (mag drive)
 Installed in 2002.
 1200 horse vertical.
@@ -98,3 +100,14 @@ WEG acquired E+H and basically let them die.
 ## Screen system
 - Chris: When the water is high, mass gets past the screens and into the pump, and can cause damage.
 - Mike: It has always been that way.
+
+# Pumping around the Pump Building
+- Mike: There is a change you would have to bypass the pump building and redo the whole thing
+- Headworks Piping is in the dry well in the pump station
+- The pumps 2 and 3 were done (2015) after the headworks piping was redone (2011)
+- Chris: A gate would be useful to close so that 
+
+# Contractors
+- [[Malasari\|Malasari]]
+- [[Contractors/AECOM\|AECOM]] or [[Contractors/Gresham\|Gresham]]
+	- For replacing the problematic pump system or otherwise engineering a solution
