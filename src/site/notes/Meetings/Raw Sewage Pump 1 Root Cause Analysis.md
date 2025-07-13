@@ -101,7 +101,7 @@ WEG acquired E+H and basically let them die.
 - Chris: When the water is high, mass gets past the screens and into the pump, and can cause damage.
 - Mike: It has always been that way.
 
-# Pumping around the Pump Building
+## Pumping around the Pump Building
 - Mike: There is a change you would have to bypass the pump building and redo the whole thing
 - Headworks Piping is in the dry well in the pump station
 - The pumps 2 and 3 were done (2015) after the headworks piping was redone (2011)
