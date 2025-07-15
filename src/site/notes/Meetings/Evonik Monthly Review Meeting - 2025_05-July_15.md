@@ -69,3 +69,15 @@ Geomean of 91
 ![Pasted image 20250715141650.png](/img/user/Pasted%20image%2020250715141650.png)
 ![Pasted image 20250715141717.png](/img/user/Pasted%20image%2020250715141717.png)
 
+![Pasted image 20250715141747.png](/img/user/Pasted%20image%2020250715141747.png)
+
+Hach did communicate with Evonik in terms of accurate measurements
+
+![Pasted image 20250715141908.png](/img/user/Pasted%20image%2020250715141908.png)
+
+
+[[People/Carl Stevenson\|Carl Stevenson]]: we are draining the south side of the plant right now, and we are getting rid of some of the sludge on secondary 5N 
+
+# Don shares his screen to demonstrate E. Coli at Maxson
+
+![Pasted image 20250715142254.png](/img/user/Pasted%20image%2020250715142254.png)
