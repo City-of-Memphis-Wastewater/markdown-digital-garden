@@ -41,3 +41,7 @@ Color was lower than the 800 annual average
 157 COD average was low compared to annual 171 average
 
 Henry: It was likely Memphis Cellulose was focused on products that have lighter color in June
+
+![Pasted image 20250715141129.png](/img/user/Pasted%20image%2020250715141129.png)
+
+-9% overall (both Stiles and Maxson) on PAA usage compared to the same month last year
