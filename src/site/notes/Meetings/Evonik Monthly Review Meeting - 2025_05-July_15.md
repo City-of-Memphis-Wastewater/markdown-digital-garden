@@ -30,11 +30,11 @@ Summer heat is rising. No residual has forced Evonik to increase PAA dosing.
 
 Flow has been very low for June compared to May.
 
-John Watson mentioned a power failure at Evonik on June 27th
+Jon Watson mentioned a power failure at Evonik on June 27th
 
 ![Pasted image 20250715140742.png](/img/user/Pasted%20image%2020250715140742.png)
 
-John: COD is trending downwards for the Cellulose runtime
+Jon: COD is trending downwards for the Cellulose runtime
 
 ![Pasted image 20250715140842.png](/img/user/Pasted%20image%2020250715140842.png)
 
@@ -118,6 +118,13 @@ Jon: we will test for precision.
 
 ![Pasted image 20250715143620.png](/img/user/Pasted%20image%2020250715143620.png)
 
-John says it is meant to be at 150
+Jon says it is meant to be at 150
 
 ![Pasted image 20250715143754.png](/img/user/Pasted%20image%2020250715143754.png)
+Don: we are hoping to see more SOC's south of 150
+
+Gary: We will have a discussion with Hach
+
+Henry: Why do so many readings end up at 150
+
+Jon: When we turn off the device it flatlines. This will be resolved in the future.
