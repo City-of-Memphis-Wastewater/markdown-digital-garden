@@ -5,6 +5,10 @@
 Date: [[-Daily Activity Log-/2025 07-July 15\|2025 07-July 15]]
 
 Gary Clancy speaks first and shares his screen / PowerPoint
+
+---
+# Stiles
+
 ![Pasted image 20250715140144.png](/img/user/Pasted%20image%2020250715140144.png)
 
 Don Hudgins: We have not noticed any impact in flows or correlations
@@ -45,3 +49,23 @@ Henry: It was likely Memphis Cellulose was focused on products that have lighter
 ![Pasted image 20250715141129.png](/img/user/Pasted%20image%2020250715141129.png)
 
 -9% overall (both Stiles and Maxson) on PAA usage compared to the same month last year
+
+Henry: Price per pound of PAA is reducing.
+
+---
+# Maxson
+
+![Pasted image 20250715141333.png](/img/user/Pasted%20image%2020250715141333.png)
+
+We are waiting on two towers to be certified, right now all six towers are running.
+
+![Pasted image 20250715141413.png](/img/user/Pasted%20image%2020250715141413.png)
+
+6 exceedances
+Geomean of 91
+
+![Pasted image 20250715141452.png](/img/user/Pasted%20image%2020250715141452.png)
+
+![Pasted image 20250715141650.png](/img/user/Pasted%20image%2020250715141650.png)
+![Pasted image 20250715141717.png](/img/user/Pasted%20image%2020250715141717.png)
+
