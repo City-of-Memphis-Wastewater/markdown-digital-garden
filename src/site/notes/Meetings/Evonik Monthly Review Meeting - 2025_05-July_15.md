@@ -22,4 +22,22 @@ High activity from Memphis Cellulose
 
 Summer heat is rising. No residual has forced Evonik to increase PAA dosing.
 
+![Pasted image 20250715140622.png](/img/user/Pasted%20image%2020250715140622.png)
 
+Flow has been very low for June compared to May.
+
+John Watson mentioned a power failure at Evonik on June 27th
+
+![Pasted image 20250715140742.png](/img/user/Pasted%20image%2020250715140742.png)
+
+John: COD is trending downwards for the Cellulose runtime
+
+![Pasted image 20250715140842.png](/img/user/Pasted%20image%2020250715140842.png)
+
+![Pasted image 20250715140907.png](/img/user/Pasted%20image%2020250715140907.png)
+![Pasted image 20250715140913.png](/img/user/Pasted%20image%2020250715140913.png)
+
+Color was lower than the 800 annual average
+157 COD average was low compared to annual 171 average
+
+Henry: It was likely Memphis Cellulose was focused on products that have lighter color in June
