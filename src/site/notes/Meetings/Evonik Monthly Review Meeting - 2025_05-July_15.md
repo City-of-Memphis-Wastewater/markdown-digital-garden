@@ -100,3 +100,11 @@ Chris: We have increased the actual solids in the back, which has increased the 
 
 Don: We have had an increase in TSS exceedances since the start of July, ever since we started [[Information Heap/2025 06-June 27 USP - Maxson headworks odor control project update\|2025 06-June 27 USP - Maxson headworks odor control project update]]
 
+#nitrification
+#denitrification
+#nitrifying
+#denitrifying
+
+Don: we must be achieving some sort of anaerobic conditions out there which means we don't have the ammonia content going out the back like we used to. If you smell ammonia, you are killing the nitrifiers.
+
+Carl: The whole denitrification process is oxygen intensive. We expect it to happen in the aeration basin. Daniel, while draining the secondary clarifier tanks, has smelled ammonia smell strongly.
