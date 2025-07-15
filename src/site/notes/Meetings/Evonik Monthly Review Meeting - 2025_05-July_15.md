@@ -108,3 +108,16 @@ Don: We have had an increase in TSS exceedances since the start of July, ever si
 Don: we must be achieving some sort of anaerobic conditions out there which means we don't have the ammonia content going out the back like we used to. If you smell ammonia, you are killing the nitrifiers.
 
 Carl: The whole denitrification process is oxygen intensive. We expect it to happen in the aeration basin. Daniel, while draining the secondary clarifier tanks, has smelled ammonia smell strongly.
+
+Don: Mike and Don would like Evonik to go on with the COD control in the disinfection tank.
+Shoot for September.
+- [ ] Clayton will be doing spot checks on the COD meter to compare it with the lab.
+![Pasted image 20250715143509.png](/img/user/Pasted%20image%2020250715143509.png)
+Don: We think the plants will be producing lower COD's than Evonik is cable of reading with their current equipment.
+Jon: we will test for precision.
+
+![Pasted image 20250715143620.png](/img/user/Pasted%20image%2020250715143620.png)
+
+John says it is meant to be at 150
+
+![Pasted image 20250715143754.png](/img/user/Pasted%20image%2020250715143754.png)
