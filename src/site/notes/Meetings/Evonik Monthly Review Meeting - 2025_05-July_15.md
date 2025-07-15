@@ -81,3 +81,22 @@ Hach did communicate with Evonik in terms of accurate measurements
 # Don shares his screen to demonstrate E. Coli at Maxson
 
 ![Pasted image 20250715142254.png](/img/user/Pasted%20image%2020250715142254.png)
+
+Don: The E. Coli numbers are not following a pattern, in terms of COD. 
+
+Gary: Ambient temperature is rising
+
+Don: Effluent TS has ben up a little bit, which might indicate a minor process upset. With sludge rising in secondary clarifiers. But these increases in E. Coli don't relate to the COD coming in. Ideas?
+
+Henry and Chris: Rising sludge in secondary clarifiers. Not entirely settled, but improving each day. It started with the USP peroxide dosing.
+
+Don: Could rising sludge impact the capture, making E. Coli harder to disinfect. It could be protected by the rising sludge.
+
+Carl: When we were dosing the peroxide, our bugs were decreasing. Dead flocc could be protecting the E. Coli. 
+
+Don: It appears to be denitrifying. So we don't have the ammonia content going out the back like we used to. We may have increased the PAA demand.
+
+Chris: We have increased the actual solids in the back, which has increased the PAA demand.
+
+Don: We have had an increase in TSS exceedances since the start of July, ever since we started [[Information Heap/2025 06-June 27 USP - Maxson headworks odor control project update\|2025 06-June 27 USP - Maxson headworks odor control project update]]
+
