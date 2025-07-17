@@ -7,8 +7,8 @@ Date: [[-Daily Activity Log-/2025 07-July 17\|2025 07-July 17]]
 
  Pre-disinfection sampler pump is having a problem, it is a Maxson internal problem
 - [[People/John Abrera\|John Abrera]] shares updates
-- Ryan Stringer shares PowerPoint screen
 - Tioga has a marred thread and needs a die to clean it up. Ryan Stringer will contact Clayton Bennett with the thread size and Clayton will check if we have the correct size die on site.
+# Ryan Stringer shares his PowerPoint screen
 - ![Pasted image 20250717131018.png](/img/user/Pasted%20image%2020250717131018.png)
 - ![Pasted image 20250717131432.png](/img/user/Pasted%20image%2020250717131432.png)
 - Ryan - the probe has been passing function checks.
@@ -29,8 +29,9 @@ Date: [[-Daily Activity Log-/2025 07-July 17\|2025 07-July 17]]
 - This data was pulled from the unit. The Digi is still having a download issue.
 - ![Pasted image 20250717132938.png](/img/user/Pasted%20image%2020250717132938.png)
 - ![Pasted image 20250717132849.png](/img/user/Pasted%20image%2020250717132849.png)
+# Don shares his screen
 - ![Pasted image 20250717133313.png](/img/user/Pasted%20image%2020250717133313.png)
-- Don't correlation between Grab and continuous average
+- Don's correlation between Grab and continuous average
 - ![Pasted image 20250717133404.png](/img/user/Pasted%20image%2020250717133404.png)
 
 # Stantec Update
