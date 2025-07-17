@@ -33,7 +33,7 @@ Trickling filters operating in accordance with contract. Construction work by Ma
 - Primary effluent BOD is low compared to a year and a half ago.
 
 # Water reuse update
-[[Contractors/Gresham\|Gresham]]
+[[Contractors/Gresham Smith\|Gresham Smith]]
 Pipe routing discussion
 Tie in at the lagoons yet unclear
 Heavy equipment is now present to clear land soon

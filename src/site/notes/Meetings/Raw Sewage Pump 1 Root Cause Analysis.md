@@ -116,6 +116,6 @@ WEG acquired E+H and basically let them die.
 
 # Contractors
 - [[Malasari\|Malasari]]
-- [[Contractors/AECOM\|AECOM]] or [[Contractors/Gresham\|Gresham]]
+- [[Contractors/AECOM\|AECOM]] or [[Contractors/Gresham Smith\|Gresham Smith]]
 	- For replacing the problematic pump system or otherwise engineering a solution.
 	- Possibly engineer a replacement pump building.
