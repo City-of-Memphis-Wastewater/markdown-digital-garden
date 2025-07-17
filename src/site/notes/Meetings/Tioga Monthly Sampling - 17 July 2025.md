@@ -30,3 +30,5 @@ Date: [[-Daily Activity Log-/2025 07-July 17\|2025 07-July 17]]
 - ![Pasted image 20250717132938.png](/img/user/Pasted%20image%2020250717132938.png)
 - ![Pasted image 20250717132849.png](/img/user/Pasted%20image%2020250717132849.png)
 - ![Pasted image 20250717133313.png](/img/user/Pasted%20image%2020250717133313.png)
+- Don't correlation between Grab and continuous average
+- ![Pasted image 20250717133404.png](/img/user/Pasted%20image%2020250717133404.png)
