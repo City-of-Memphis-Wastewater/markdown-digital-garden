@@ -25,4 +25,8 @@ Date: [[-Daily Activity Log-/2025 07-July 17\|2025 07-July 17]]
 - The Digi is working on the influent Stiles Grit tank, but has had some sporadic issues and data should be reviewed
 - ![Pasted image 20250717132027.png](/img/user/Pasted%20image%2020250717132027.png)
 - Compressor went out between July 7 and July 12
-- 
+- ![Pasted image 20250717132109.png](/img/user/Pasted%20image%2020250717132109.png)
+- This data was pulled from the unit. The Digi is still having a download issue.
+- ![Pasted image 20250717132938.png](/img/user/Pasted%20image%2020250717132938.png)
+- ![Pasted image 20250717132849.png](/img/user/Pasted%20image%2020250717132849.png)
+- ![Pasted image 20250717133313.png](/img/user/Pasted%20image%2020250717133313.png)
