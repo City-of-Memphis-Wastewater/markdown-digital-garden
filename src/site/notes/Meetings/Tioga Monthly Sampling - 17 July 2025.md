@@ -32,3 +32,22 @@ Date: [[-Daily Activity Log-/2025 07-July 17\|2025 07-July 17]]
 - ![Pasted image 20250717133313.png](/img/user/Pasted%20image%2020250717133313.png)
 - Don't correlation between Grab and continuous average
 - ![Pasted image 20250717133404.png](/img/user/Pasted%20image%2020250717133404.png)
+
+# Stantec Update
+- Tested communication from Admin to lagoons
+- Data throughput was low
+- RS45 splitter is necessary for splitting modbus splitter - it is in the mail
+- Antennae bracketing contractor
+- Stiles wire pulling is able to happen inhouse without the contractor
+- A set of graphics will be build to monitor the lagoon from the main plant
+- Ryan pointed out there is also a pH unit by Stiles influent - John says pH signal could be split 
+- ![Pasted image 20250717134720.png](/img/user/Pasted%20image%2020250717134720.png)
+- ![Pasted image 20250717134750.png](/img/user/Pasted%20image%2020250717134750.png)
+- Pearson Correlation
+- Don drew attention to effluent TSS
+- John wants a tighter average compared to daily average
+
+# Hach
+- John will continue to encourage Hach
+- Andre Armstrong is back from vacation
+- Don: We have one PO that we give out on a contract. They should wait until the money is encumbered. Someone from their organization should get an email with an attachment to their contract activity.
