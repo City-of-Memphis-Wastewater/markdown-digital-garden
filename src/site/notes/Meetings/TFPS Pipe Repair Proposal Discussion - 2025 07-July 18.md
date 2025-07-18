@@ -35,3 +35,6 @@ Date: [[-Daily Activity Log-/2025 07-July 18\|2025 07-July 18]]
 - Maybe 5 million plus 3 million dollars = 8 million total
 - Dependent on PCO's
 - [[People/Brian Hilt\|Brian Hilt]] asked Craig to check the price for carbon steel
+## Tasha 
+- What is the timeline necessary to get back to CDM Smith?
+- Yari - by the end of the month (July), within about two weeks.
