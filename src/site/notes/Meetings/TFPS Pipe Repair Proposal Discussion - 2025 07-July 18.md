@@ -4,7 +4,6 @@
 
 Date: [[-Daily Activity Log-/2025 07-July 18\|2025 07-July 18]]
 
-- [[People/Jacob Van Geffen\|Jacob Van Geffen]] is missing
 # Design Team Proposal
 - For [[Equipment/trickling filter towers\|trickling filter towers]] / ATF pipe repair solution
 - Cost estimates
@@ -23,4 +22,16 @@ Date: [[-Daily Activity Log-/2025 07-July 18\|2025 07-July 18]]
 ![Pasted image 20250718141125.png](/img/user/Pasted%20image%2020250718141125.png)
 - [[People/Mike Brower\|Mike Brower]]: This drawing does not reflect what is being said. None of the below ground stuff will be worked on. Only what is exposed, above grade.
 - [[Yari Hernandez\|Yari Hernandez]]: A new document will be provided that is accurate for the coming work.
-## What is the current condition / problem?
+- ![Pasted image 20250718141449.png](/img/user/Pasted%20image%2020250718141449.png)
+- The approximate cost from a construction perspective is  ? 
+- CDM Smith will get with the subs for proposals from them
+## Craig Gadberry (CDM Smith) - Cost:
+- Ductile cement mortar lining (10 million USD) - contrary to swap for swap
+- epoxy lining (9 million USD) - contrary to swap for swap
+- carbon steel (?) 
+
+- Yari - we have money available under GMP 3 and GMP 4, but not the complete amount under a single GMP
+- Purchasing of values under procurement can be in a 3 million dollar bin, release those materials under a change order to the sub, then releasing the change order to another sub
+- Maybe 5 million plus 3 million dollars = 8 million total
+- Dependent on PCO's
+- [[People/Brian Hilt\|Brian Hilt]] asked Craig to check the price for carbon steel
