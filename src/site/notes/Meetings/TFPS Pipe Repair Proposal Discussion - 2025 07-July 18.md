@@ -38,3 +38,7 @@ Date: [[-Daily Activity Log-/2025 07-July 18\|2025 07-July 18]]
 ## Tasha 
 - What is the timeline necessary to get back to CDM Smith?
 - Yari - by the end of the month (July), within about two weeks.
+
+
+# Henry:
+- 
