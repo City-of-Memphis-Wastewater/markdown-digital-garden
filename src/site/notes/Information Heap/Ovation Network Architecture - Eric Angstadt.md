@@ -193,3 +193,14 @@ OPC DA has a dynamic nature that makes it harder to firewall. OPC DA is legacy, 
 - route print
 - netstat -a
 - tracert (windows version of trace route)
+
+# Reference material
+- OVMAN61: Multiple networks user guide
+- OVCON055: Ovation over WAN user guide
+
+---
+# Questions
+- End of life problems that should have been caught
+- How do subject matter experts get engaged with the sales team?
+- "End of sale" (6-12 months in advance) vs "end of life"
+- 

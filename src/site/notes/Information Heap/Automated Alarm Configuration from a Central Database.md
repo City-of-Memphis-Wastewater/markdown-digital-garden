@@ -87,4 +87,9 @@ Example:
 - For the best results, identify your sensor ecosystem and check if there are appropriate APIs or modules you can leverage with Ansible.
     
 - Automating threshold changes via Ansible helps maintain consistency, speed, and version control in your monitoring configurations.
-```
+
+# Jargon
+- **Information Technology (IT)**
+- **Operational Technology (OT)**
+
+# Bridging IT and OT is the name of the game
