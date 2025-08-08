@@ -186,6 +186,20 @@ Don:
 - ISO 55001 [ISO 55001:2014 - Asset management — Management systems — Requirements](https://www.iso.org/standard/55089.html) - rigid - is it useful for municipalities?
 - Excel spreadsheet of nameplate information handed over by [[Contractors/CDM Smith\|CDM Smith]]
 
+Anne:
+- You want to start at Stiles?
+Don: 
+- Yes, we want to wait until the dust settles at Maxson.
+- Naming conventions
+- You may have to work with Stratum
+Joshua:
+- Will this be a professional services contract?
+Don:
+- Yep
+- We don't have the budget
+- You'll have to sell this to [[People/Scott Morgan\|Scott Morgan]] and [[Tasha King-Davis\|Tasha King-Davis]]
+
+
 ---
 # Questions
 
