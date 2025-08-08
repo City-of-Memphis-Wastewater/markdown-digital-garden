@@ -30,7 +30,7 @@ Don et al saw [[Brown and Caldwell\|Brown and Caldwell]]'s presentation at the 2
 
 
 # Louisville
-Louisville, KY had a consent decree to negotiate asset management into their amended CD.
+Louisville, KY had a [[jargon/consent decree\|consent decree]] to negotiate asset management into their amended CD.
 Quality quality and pump stations needs to improve.
 Define:
 - How to assess their assets
@@ -99,6 +99,9 @@ Don:
 - We already have a contract with Stratum
 - Inventory of all assets to enable bid packages
 - Go through all of our files, help us upload specs to all of our equipment.
+
+---
+	
 
 - [ ] Stratum guy will be here next week
 
@@ -198,6 +201,18 @@ Don:
 - Yep
 - We don't have the budget
 - You'll have to sell this to [[People/Scott Morgan\|Scott Morgan]] and [[Tasha King-Davis\|Tasha King-Davis]]
+- HVAC's are big problems at both plants.
+- We should do intensive maintenance on some items which we usually wait  until they break down, and you can make recommendations on the HVAC program
+- Louisville has 7,500 assets, we have identified only 500 assets
+
+The Plan
+- Teams call early next week, Monday or Tuesday
+- Review Hexagon with [[People/Krish\|Krish]]
+- Diane Smith of the contact for the Hexagon system at the Stiles Plant
+- Cross referencing naming conventions 
+
+Don:
+- Probes, sensors, points, assets
 
 
 ---
