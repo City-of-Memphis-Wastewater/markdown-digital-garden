@@ -66,7 +66,7 @@ They sure do like Power BI.
 
 ---
 
-# Presentation review: What did we like?
+# Meat and Potatoes
 
 Don: Impressed with wastewater specific approach, rather than just sewers and manholes.
 Chris: Yay, less work.
@@ -103,11 +103,94 @@ Don:
 - [ ] Stratum guy will be here next week
 
 Anne:
-- Helped with inventory the documents
+- Helped to inventory the documents
 - Pushed for document scanning to get it into the DMS, and then attached to asset records
+- Make it easier to find submittal docs, manuals, etc
+
+Don:
+- We are not under a consent decree, so we have more flexibility
+Anne:
+- [[Contractors/Black & Veatch\|Black & Veatch]] is a great company
+- We can piece together the best elements to accomplish the goal.
+- Condition assessment, engineering study
+
+Don: 
+- [[Contractors/Black & Veatch\|Black & Veatch]] has focused on the sewer system, not a wholistic review of the treatment plants.
+Anne:
+- Did you like the way they did it?
+
+Joshua: 
+- Do you need the scope of the fee?
+Don:
+- It needs to be phased
+- Robert Dodson needs to decide if he wants to be involved
+- Stiles should be first, because Maxson is still under CMAR 
+Chris:
+- Vote: Maxson first, hard ball first
+Don:
+- First phase, review current CMMS's
+- Is Robert Dodson keeping up with Hexagon?
+Robert:
+- Nope. Lack of personnel to load assets.
+- [[Contractors/Black & Veatch\|Black & Veatch]] is still assessing lift stations, replacements etc.
+- What are you doing with the plants?
+- Currently engaged with [[Contractors/Black & Veatch\|Black & Veatch]] for maintenance and tracking of lift stations.
+- Would like to see a 1 to 10 year plan.
+Don: 
+- Is [[Contractors/Black & Veatch\|Black & Veatch]] doing this out of the [[Information Heap/SARP10\|SARP10]]?
+Robert:
+- Yes
+- Calcium aluminate coating in the wet well
+- minor replacement as necessary
+- Conditions have changed significantly since the project was bid
+- In some cases, entire lift stations have had to be rebuild even after they were refurbished
+Anne: 
+- Yep, just sitting in a problem. Louisville experienced that.
+- Aging data is a problem.
+- Data-informed decision making in near-real time (within 6 months)
+- Morris Foreman was where the started - it was the worst: [Morris Forman Water Quality Treatment Center | MSD](https://louisvillemsd.org/programs/pretreatment-and-hazmat-program/morris-forman-water-quality-treatment-center)
+
+Don:
+- We are most interested in electrical, mechanical, instrumentation
+- We have an Emerson system DCS, with a SureService plan
+- Do you consider pipelines to be an asset?
+- Pipe galleries differ from long piping
+- An asset is what a maintenance person would touch, rather than inventory
+
+Anne:
+- What is an asset? How do you define it?
+- Louisville defines it based on a dollar amount, $10k
+	- ![Pasted image 20250808134428.png](/img/user/Pasted%20image%2020250808134428.png)
+
+Don:
+- We have a problem with value change, given capitalization and depreciation
+- We want to synchronize our list with the City's list
+Anne
+- It's all about an existing agreement for what can be bought without intense review, it if it already in the plan.
+- You guys don't have a definition of an asset.
+- Components versus parts versus assets versus systems.
+- Gatsby 34 definition, $2,500 - this might be too low, because you 
+- Asset definitions from AWWA, WEF, and others
+- What is the hook? 
+	- Maintenance
+	- investment
+	- data collection
+	- decision making
+	- evolve over time
+	- start somewhere
+	- people do adjust their definitions of assets when they recognize something is non-deal
+	- Over granular or not granular enough
+
+Don:
+- CDM did the CMAR upgrade - ASTM formatting for asset management - 
+- ISO 55001 [ISO 55001:2014 - Asset management — Management systems — Requirements](https://www.iso.org/standard/55089.html) - rigid - is it useful for municipalities?
+- Excel spreadsheet of nameplate information handed over by [[Contractors/CDM Smith\|CDM Smith]]
 
 ---
 # Questions
+
+Clayton:
 - How can we leverage an opportunity like an asset review to improve our integrated databasing for our various systems? CAD, SCADA/DCS, GIS, digital twin, lab testing, EAM
 - Answer: What functional requirements do you want?
 - Follow-up: Design must be API, modularity
+- Don: This is not the primary purpose of this contract
