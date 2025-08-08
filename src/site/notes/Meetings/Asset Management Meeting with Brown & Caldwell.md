@@ -48,6 +48,7 @@ Key questions:
 There are some legal aspects here. Jargon:
  - "CIP"
  - "CD"
+ - "CMMS"
 
 Louisville's big problem
 - Labor limited. 
@@ -77,4 +78,36 @@ Don: We were impressed with the 20 year spending plan.
 	- Enable our own 20 year forward-look
 	- Use CIP budget rather than plant operating budget
 
-Louisville has to spend a certain amount every year due to their CD
+Anne:
+- Louisville has to spend a certain amount every year due to their CD
+- Operations and engineering shared ideas.
+- "Six codes of happiness"
+- Each asset has a "happiness code"
+
+CMMS software: IPS : [Enterprise Asset Management - IPS ENERGY](https://ips-energy.com/solutions/enterprise-asset-management-eam/)
+Software: Articulate 
+
+Our CMMS: [[Software/Hexagon\|Hexagon]]
+
+Six part naming conventions
+
+Don: 
+- Primarily we want to be able to write specifications to write bids for things?
+- Rather than getting a vendor to give us the specs
+- We don't have the personnel to bid properly
+- Chris Luss needs help to buy stuff.
+- We already have a contract with Stratum
+- Inventory of all assets to enable bid packages
+- Go through all of our files, help us upload specs to all of our equipment.
+
+- [ ] Stratum guy will be here next week
+
+Anne:
+- Helped with inventory the documents
+- Pushed for document scanning to get it into the DMS, and then attached to asset records
+
+---
+# Questions
+- How can we leverage an opportunity like an asset review to improve our integrated databasing for our various systems? CAD, SCADA/DCS, GIS, digital twin, lab testing, EAM
+- Answer: What functional requirements do you want?
+- Follow-up: Design must be API, modularity
