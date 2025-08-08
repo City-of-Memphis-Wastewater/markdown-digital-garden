@@ -205,14 +205,10 @@ Don:
 - We should do intensive maintenance on some items which we usually wait  until they break down, and you can make recommendations on the HVAC program
 - Louisville has 7,500 assets, we have identified only 500 assets
 
-The Plan
-- Teams call early next week, Monday or Tuesday
-- Review Hexagon with [[People/Krish\|Krish]]
-- Diane Smith of the contact for the Hexagon system at the Stiles Plant
-- Cross referencing naming conventions 
 
 Don:
 - Probes, sensors, points, assets
+
 
 
 ---
@@ -223,3 +219,14 @@ Clayton:
 - Answer: What functional requirements do you want?
 - Follow-up: Design must be API, modularity
 - Don: This is not the primary purpose of this contract
+
+---
+# Next Meeting
+
+The Plan
+- Teams call early next week, Monday or Tuesday
+- Review Hexagon with [[People/Krish\|Krish]]
+- Diane Smith of the contact for the Hexagon system at the Stiles Plant
+- Cross referencing naming conventions 
+- Tuesday Meeting 9:30 AM Central time, August 12th
+
