@@ -73,7 +73,7 @@ Chris: Yay, less work.
 Don: We were impressed with the 20 year spending plan.
 	- Long lead times have been problematic for us.
 	- The city should have planning in the CIP area
-	- We need outside help t put together bid packages
+	- We need outside help to put together bid packages
 	- Inventory all of the assets - does it make sense to coordinate bids
 	- Enable our own 20 year forward-look
 	- Use CIP budget rather than plant operating budget
