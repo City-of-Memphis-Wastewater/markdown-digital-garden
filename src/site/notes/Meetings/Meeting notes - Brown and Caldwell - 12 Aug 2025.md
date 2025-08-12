@@ -98,5 +98,27 @@ Monty
 - Hexagon allows for easy integration with Power BI
 
 Chris F
-- Time spent per work order, is that being collected.
+- Time spent per work order, is that being collected?
+- Tracking criticality has big downstream effects.
+
+Monty:
+- No, our data is non-granular per ticket
+- Formality vs vision
+
+Chris F
+- Move out of a ***reactive*** to a more ***proactive*** approach
+
+Benjamin
+- Fire fighting mode to a well-laid out plan
+- Important with capital, but also in operations in maintenance
+- Giving people in the field more tools to make a bigger difference
+- It helps management know when you need more resources to reduce stress and problems
+Rich
+- Asset handover process
+- Is it typically a spreadsheet?
+
+Clayton and Monty
+- "None - no handover process" - Mike Brower
+- Yes, it is a spreadsheet - Monty
+- Often the PM's lack substance
 
