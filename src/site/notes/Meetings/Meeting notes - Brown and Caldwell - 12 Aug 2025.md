@@ -13,7 +13,7 @@ Attendees
 - Benjamin Swain
 - Chris Luss
 - Clayton Bennett
-- Monty Gowans
+- Monte Goins
 - Krishna Bejjanki
 
 History
@@ -27,7 +27,7 @@ Next steps
 - Clarifying jargon, in terms of organization (asset vs system vs position)
 - Transferred assets from MP2 might be misassigned to a hierarchy properly
 
-Monty
+Monte
 - "The structure is good. The problem is unclear definition"
 - We know for sure, some equipment is not identified, so the structure is incomplete.
 - There is utility in trying to change existing positions.
@@ -44,23 +44,23 @@ Christopher F.
 - How granular do you get?
 - Ex: VFD, motor, as a part of a pump.
 
-Monty:
+Monte:
 - Individual assets like the VFD and Motor and pump are meant to roll up into a whole system, like a pump system
 - Buy in a key issue.
 
 Christopher P:
 - Is the key problem around organization confusion?
 
-Monty:
+Monte:
 - No, the key problem with buy in has been inconsistent Android app updates for EAM Offline. This has caused confusion.
 - At Stiles the PM's are more consistent
 - Management changes.
-- Monty wants to get us back into being familiar
+- Monte wants to get us back into being familiar
 
 Chris F:
 - Has Hexagon been providing support for the EAM Offline App?
 
-Monty:
+Monte:
 - Yes
 - The real problem has been the City not being able to push consistent updates, only when it is needed
 - A version change at the will of the technician per tablet is causing inconsistency
@@ -94,14 +94,14 @@ Krish
 - We want to use Power BI
 - [[Cognose\|Cognose]] report writing tool, for reactive work orders vs planned work orders
 
-Monty
+Monte
 - Hexagon allows for easy integration with Power BI
 
 Chris F
 - Time spent per work order, is that being collected?
 - Tracking criticality has big downstream effects.
 
-Monty:
+Monte:
 - No, our data is non-granular per ticket
 - Formality vs vision
 
@@ -117,8 +117,8 @@ Rich
 - Asset handover process
 - Is it typically a spreadsheet?
 
-Clayton and Monty
+Clayton and Monte
 - "None - no handover process" - Mike Brower
-- Yes, it is a spreadsheet - Monty
+- Yes, it is a spreadsheet - Monte
 - Often the PM's lack substance
 
