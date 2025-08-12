@@ -122,3 +122,15 @@ Clayton and Monte
 - Yes, it is a spreadsheet - Monte
 - Often the PM's lack substance
 
+Christopher P
+- Set the expectations as non-optional.
+
+Benjamin
+- Short term versus the marathon
+- Six months versus beyond a the year
+
+Chris Luss:
+- Hybrid - a working version and then improvement
+
+Clayton
+- Non brittle, extensible approaches
