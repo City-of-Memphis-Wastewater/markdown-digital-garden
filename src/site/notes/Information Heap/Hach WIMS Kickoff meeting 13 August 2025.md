@@ -29,7 +29,7 @@ Four-day onsite training. Smaller training sessions for data entry users.
 - Entry is based off of an Excel emulator
 
 Henry:
-- Will data feed both ways
+- Will data feed both ways, regarding Hexagon?
 Scott Talbot:
 - No, that is an entire separate project.
 Andre:
@@ -41,10 +41,12 @@ Disparities
 - Additional reports
 - Hexagon is not listed on the Overview page
 - There is interest in Read / Write, beyond just Read.
+
+![Pasted image 20250814144325.png](/img/user/Pasted%20image%2020250814144325.png)
 # Necessary Data and Files to Share
 - Taylor will share the DropBox with the rest of her team
 - If she only has certain items in PDF and needs them in Excel, she will email Mike Brower and Clayton Bennett with requests for these and any additional items
 
 # Questions
 - [x] As we train, what do you provide in terms of documentation to make it very easy to train.
-- [ ] Does the Hexagon system installed locally on a system
+- [x] Does the Hach WIMS system installed locally on a system, will it be able to launch links to other connected systems, like local Hexagon? A: If the exe can be referenced.
