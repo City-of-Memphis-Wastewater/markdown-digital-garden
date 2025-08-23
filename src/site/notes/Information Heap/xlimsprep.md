@@ -5,3 +5,8 @@
 Date: [[-Daily Activity Log-/2025 08-August 20\|2025 08-August 20]]
 
 https://github.com/City-of-Memphis-Wastewater/xlimsprep/
+
+This is a Python package for 
+
+# Development
+- Next steps: 

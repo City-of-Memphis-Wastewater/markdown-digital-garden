@@ -3528,7 +3528,7 @@ Let me know if you want to add commands like:
 You’re now fully scaffolded for success 🚀
 
 # Clayton 31:
-so if i have a bunch of software directories for various git cloned repos and projects, i am in my %user%Documents/dev folder. pipeline and xlims are examples of two pacakges i work on in my %user%/Documents/dev folder.
+so if i have a bunch of software directories for various git cloned repos and projects, i am in my %user%Documents/dev folder. pipeline and xlims are examples of two packages i work on in my %user%/Documents/dev folder.
 
 you're saying that i would call
 
