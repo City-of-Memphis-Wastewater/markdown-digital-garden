@@ -71,3 +71,12 @@ CARA - Corrective action / risk assessment
 - Statistically improved performance must be demonstrated, to be below the ground water protection standard.
 	- Quarterly ground water sampling
 	- For several years, to have enough data to truly determine.
+
+### Citizen concern
+- Pollution of the David Well Field
+- Wastewater odor
+- Seeps
+	- Located on north side
+	- Mitigated due to dewatering process
+	- TVA must still do seep inspections for dam management
+	- Will McKellar Lake be sampled for monitoring? No.
