@@ -4,6 +4,10 @@
 
 Date: [[-Daily Activity Log-/2025 08-August 26\|2025 08-August 26]]
 
+Link:
+- [Public Hearing: TVA Allen Fossil Plant (TVA ALF) West Ash Disposal Area (WADA)](https://www.tn.gov/environment/calendar-of-events/2025/8/26/tva-cara.html)
+- [tn.gov/content/dam/tn/environment/solid-waste/documents/public-notices/ppo_sw-ccr-allen-cara-plan.pdf](https://www.tn.gov/content/dam/tn/environment/solid-waste/documents/public-notices/ppo_sw-ccr-allen-cara-plan.pdf)
+
 Key concerns are:
 - Metals
 	- molybdenum
@@ -46,13 +50,24 @@ CARA - Corrective action / risk assessment
 
 ### Findings 
 - There is a fluctuation of the ground water
-- MCL's (standard exceedences)
+- MCL's (standard exceedances)
 	- Moly
 	- Arsenic
 	- Lithium
 	- These exceedances are only among 6 wells, and are lower in the west than in the east
+- Modeling by attenuation is feasible, but it will require more data than has been collected thus far
+- Install recovery wells on the north side, over time.
 
 ### The Care Plan
 - All actions that TVA will take at the site
 - They must list the methods of reaching the goal
 - TVA must provide a schedule
+- Ground water extraction with an eye on ground water protection standards
+- The source material has been removed, there is no risk of further contamination.
+- TVA will implement adaptive management.
+	- Install treatment system
+	- Monitor ground water, for concentrations changing over time - so that dynamic decisions can be made at a short time scale.
+	- If concentrations naturally attenuate, we will be able to shorten the necessary life span of the system.
+- Statistically improved performance must be demonstrated, to be below the ground water protection standard.
+	- Quarterly ground water sampling
+	- For several years, to have enough data to truly determine.
