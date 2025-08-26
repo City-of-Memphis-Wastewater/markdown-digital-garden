@@ -14,7 +14,7 @@ Markdown:
 - [[Training/SharePoint Documents Local Synchronization\|SharePoint Documents Local Synchronization]]
 - [[AI-generated/SPFx\|SPFx]]
 - [[Information Heap/SPFx Futures\|SPFx Futures]]
-- [[Information Heap/Microsoft Syntex\|Microsoft Syntex]]Date: [[-Daily Activity Log-/2025 08-August 26\|2025 08-August 26]]
+- [[Information Heap/Microsoft Syntex\|Microsoft Syntex]]
 
 
 
