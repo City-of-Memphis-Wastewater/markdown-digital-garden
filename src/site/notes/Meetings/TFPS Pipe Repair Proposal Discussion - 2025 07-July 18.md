@@ -21,7 +21,7 @@ Date: [[-Daily Activity Log-/2025 07-July 18\|2025 07-July 18]]
 - The intent is to leave the pipe supports - this will be revisited. Indicated below as "DEMOLISH PIPE SUPPORTS". [[People/Brian Stacks\|Brian Stacks]] says there is a lot of rust.
 ![Pasted image 20250718141125.png](/img/user/Pasted%20image%2020250718141125.png)
 - [[People/Mike Brower\|Mike Brower]]: This drawing does not reflect what is being said. None of the below ground stuff will be worked on. Only what is exposed, above grade.
-- [[Yari Hernandez\|Yari Hernandez]]: A new document will be provided that is accurate for the coming work.
+- [[People/Yari Hernandez\|Yari Hernandez]]: A new document will be provided that is accurate for the coming work.
 - ![Pasted image 20250718141449.png](/img/user/Pasted%20image%2020250718141449.png)
 - The approximate cost from a construction perspective is  ? 
 - CDM Smith will get with the subs for proposals from them
