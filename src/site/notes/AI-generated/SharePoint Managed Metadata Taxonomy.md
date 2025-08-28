@@ -4,7 +4,14 @@
 
 Date: [[-Daily Activity Log-/2025 08-August 28\|2025 08-August 28]]
 
-# CG 0
+# Overview
+
+This document tracks [[People/Clayton Bennett\|Clayton Bennett]]'s progress and learning as he implements Managed Metadata tagging in the [[Systems/Maxson SharePoint\|Maxson SharePoint]]
+
+---
+
+# CG 0: Analysis of pasted SharePoint tree
+```
 Perfect 👍 — thanks for pasting the whole tree. This is actually a really strong starting point for designing a **SharePoint Term Store / Managed Metadata schema**.
 
 Your directory tree already suggests _taxonomy groups_ you’d want to replicate in the Term Store so that documents, images, emails, and notes across different locations/projects can be tagged consistently, instead of being trapped in folders.
@@ -258,10 +265,11 @@ This flattens the folder nightmare into a metadata-first model.
 ---
 
 👉 Question for you: do you want me to draft this schema in a format you can **import directly into SharePoint Term Store** (CSV or XML for Managed Metadata Service)? That way you could seed your term sets instead of building them manually.
+```
 
 ---
 
-# CB 1
+# CB 1: How to create Term Sets in SharePoint
 ```
 Great, how do I generate this tag taxonomy?
 
@@ -343,7 +351,7 @@ Do you want me to outline a **minimal setup path** (fastest way to make a workin
 
 ---
 
-# CB 2
+# CB 2: Designing Term Sets
 ```
 Recommend term sets and terms
 
@@ -841,3 +849,210 @@ Active Bolt & Screw; Acuff Enterprises; Agilix Solution – IAC Supply; Amazing 
 
 If you want, I can hand you **ready-to-import CSVs** for (a) Vendors, (b) Systems & Assets, and (c) Projects & Programs exactly as above so you can use **Term Store → Import terms** and avoid manual entry.
 ```
+
+---
+# CB 4: The Implementation step
+```
+Great. Once I have created the term sets, how do i implement them as managed metadata and begin assigning to documents?
+```
+
+# CG 4
+```
+Perfect — once your **term sets** are created in the Term Store, the next step is to **expose them as Managed Metadata columns** in SharePoint so you can tag and organize documents with them. Here’s the clear step-by-step process in SharePoint Online (modern experience):
+
+---
+
+## **Step 1 – Add a Managed Metadata column**
+
+1. Navigate to the **Document Library** (or List) where you want to apply tagging.
+    
+2. In the toolbar, select:  
+    **Settings (⚙️ gear) → Library settings**  
+    (or if modern, go to: **Library → Add column → More...**)
+    
+3. Click **Create Column**.
+    
+4. Enter a **Column Name** (e.g., _Treatment Plant_, _Pump Asset Class_, _Maintenance Activity_).
+    
+5. Under **Type of Information**, select **Managed Metadata**.
+    
+
+---
+
+## **Step 2 – Link column to your Term Set**
+
+1. In the column creation form:
+    
+    - Choose **Use a managed term set**.
+        
+    - Browse and select the Term Set you created earlier (e.g., "Sewer Treatment Plant Taxonomy").
+        
+2. Configure options:
+    
+    - **Allow multiple values?** → Yes/No (depending on whether docs can have multiple tags).
+        
+    - **Display terms in a tree control** → Helpful for navigation if the set is hierarchical.
+        
+    - **Allow ‘Fill-in’ choices?** → Usually **No** to enforce taxonomy discipline.
+        
+
+---
+
+## **Step 3 – Test in Library**
+
+1. Go back to the library.
+    
+2. Add or edit a document.
+    
+3. In the properties panel, your new column will appear.
+    
+4. Begin typing → you’ll get type-ahead suggestions from your term set.
+    
+5. Select the correct tag(s).
+    
+
+---
+
+## **Step 4 – Apply Across Libraries**
+
+- Repeat the column creation process in any other libraries where taxonomy is needed.
+    
+- If you want global reuse, create a **Site Column** instead:
+    
+    - Go to **Site Settings → Site Columns → Create → Managed Metadata**
+        
+    - Link it to your Term Set
+        
+    - Then add that column to any library via **Library settings → Add from existing site columns**.
+        
+
+---
+
+## **Step 5 – Optional Enhancements**
+
+- **Content Types**: If you want consistent tagging across multiple libraries, build a Content Type with Managed Metadata fields and associate it with each library.
+    
+- **Views & Filters**: Create library views grouped by terms (e.g., Group by _Treatment Plant_ → see all docs for Maxson plant vs T.E. Maxson).
+    
+- **Search Refiners**: Managed Metadata terms show up in search refiners in SharePoint Search and Microsoft Search, letting users drill down by taxonomy.
+    
+
+---
+
+✅ At this point, you’ll be tagging documents with your sewer plant taxonomy, and those tags will flow into SharePoint Search, filters, and navigation.
+
+---
+
+Would you like me to **map your initial hierarchy into suggested Managed Metadata columns** (e.g., which term sets should become separate columns vs which should just be nested in the same hierarchy)? That way you’ll know exactly how to structure them for document tagging.
+```
+
+---
+
+# CB 5 : Color
+Can the tags be colorful?
+
+# CG 5
+TLDR: No. Not Managed Metadata tags. If you see tags that are column entries that are colorful, that is a choice column.
+
+---
+
+# CB 6: Implementing at scale
+
+What is the best way to populate my managed metadata and terms at scale?
+# CG 6: 
+Exactly — this is where **planning up front** pays off. For scale, you don’t want to be typing hundreds (or thousands) of terms into the Term Store manually. Here are the most effective approaches:
+
+---
+
+### 🔹 1. **CSV / Excel Import into the Term Store**
+
+- SharePoint Online lets you **import a term set from a CSV file**.
+    
+- Format:
+    
+    - One header row (Term Set Name, Term Description, Level 1 Term, Level 2 Term, etc.)
+        
+    - Each row = one term with hierarchy.
+        
+- This is the fastest way to bulk load if you already have a structured list of terms.
+    
+- Example:
+    
+    ```
+    Term Set Name,Level 1 Term,Level 2 Term
+    Project Phase,Planning,Scoping
+    Project Phase,Planning,Feasibility
+    Project Phase,Execution,Deployment
+    ```
+    
+- Upload in **Term Store Management > Import Term Set**.
+    
+
+---
+
+### 🔹 2. **PnP PowerShell / CLI for Microsoft 365**
+
+- Perfect if you need repeatable automation, especially across multiple tenants or site collections.
+    
+- Example PnP PowerShell:
+    
+    ```powershell
+    Connect-PnPOnline -Url https://yourtenant-admin.sharepoint.com -Interactive
+    New-PnPTermGroup -Name "My Group" -Description "Group for company taxonomy"
+    New-PnPTermSet -TermGroup "My Group" -Name "Project Phase" -Lcid 1033
+    New-PnPTerm -TermGroup "My Group" -TermSet "Project Phase" -Name "Planning"
+    New-PnPTerm -TermGroup "My Group" -TermSet "Project Phase" -Name "Execution"
+    ```
+    
+- You can even read from a CSV and loop through rows to create terms.
+    
+
+---
+
+### 🔹 3. **Graph API**
+
+- For enterprise integrations (e.g., taxonomy tied to external systems like ERP, CMMS).
+    
+- The Microsoft Graph **TermStore API** allows CRUD operations on term groups, sets, and terms.
+    
+- Good for syncing metadata automatically from a master system.
+    
+
+---
+
+### 🔹 4. **Hybrid approach**
+
+- Start with a **CSV seed import** to get structure in place.
+    
+- Then use **PnP scripts** or **manual editing** for ongoing tweaks.
+    
+
+---
+
+### 🔹 5. **Assigning to Documents at Scale**
+
+- Once terms are in the Term Store, you can:
+    
+    - Add a **Managed Metadata column** to a library.
+        
+    - Use **Quick Edit** or **Datasheet View** to bulk-tag many items.
+        
+    - Use **Power Automate** to auto-tag documents based on rules (e.g., folder path, filename, or content type).
+        
+    - Use **PnP PowerShell** or **Graph** for programmatic assignment.
+        
+
+---
+
+✅ Best practice:
+
+- Use **CSV import for the first bulk load**.
+    
+- Use **PnP PowerShell for ongoing automation** (repeatable, version-controlled, scriptable).
+    
+- Use **Power Automate** for user-friendly auto-tagging in workflows.
+    
+
+---
+
+Do you want me to **give you a ready-to-use CSV template** you can adapt for your tree structure? That would let you import your taxonomy straight into SharePoint without retyping.
