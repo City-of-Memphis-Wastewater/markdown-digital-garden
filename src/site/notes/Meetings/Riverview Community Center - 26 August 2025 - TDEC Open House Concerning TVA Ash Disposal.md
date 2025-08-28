@@ -80,3 +80,5 @@ CARA - Corrective action / risk assessment
 	- Mitigated due to dewatering process
 	- TVA must still do seep inspections for dam management
 	- Will McKellar Lake be sampled for monitoring? No.
+- Arsenic and pH data that is unique to the Allen site.
+	- Where did it come from? No idea.

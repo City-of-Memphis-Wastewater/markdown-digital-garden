@@ -3,6 +3,6 @@
 ---
 
 #people 
-Electrical foreman
+Electrical foreman at Maxson, since 2016
 
 projects: [[Assignments/z-Purafil Unit in Admin Furnace Room Louvre\|z-Purafil Unit in Admin Furnace Room Louvre]]
