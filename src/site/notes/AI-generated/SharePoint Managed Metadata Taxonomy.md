@@ -1056,3 +1056,12 @@ Exactly — this is where **planning up front** pays off. For scale, you don’t
 ---
 
 Do you want me to **give you a ready-to-use CSV template** you can adapt for your tree structure? That would let you import your taxonomy straight into SharePoint without retyping.
+
+---
+
+# CB 7: Super user speed tips
+```
+No. Give me super user tricks. Like, if I assign a value to a folder, all the contents will have the same value, etc.
+```
+
+# CG 7
