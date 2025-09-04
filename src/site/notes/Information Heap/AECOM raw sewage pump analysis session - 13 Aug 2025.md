@@ -10,7 +10,7 @@ Date: [[-Daily Activity Log-/2025 08-August 13\|2025 08-August 13]]
 		- A [[VFD\|VFD]] is a tool for a power system
 		- To improve power factor and efficiency
 	- Mag 
-		- A [[mag drive\|mag drive]] loses a lot to heat, based on allowing it to slip
+		- A [[Information Heap/mag drive\|mag drive]] loses a lot to heat, based on allowing it to slip
 
 - Automation
 	- Does the
