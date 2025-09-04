@@ -9,8 +9,9 @@ Equipment: [[Equipment/Purafil\|Purafil]]
 Project: [[Assignments/z-Purafil Unit in Admin Furnace Room Louvre\|z-Purafil Unit in Admin Furnace Room Louvre]]
 Key City of Memphis Contact: [[People/Gary Garrison\|Gary Garrison]]
 
-Key people: [[People/Mike Gross\|Mike Gross]] 
+Key people: [[People/Mike Gross\|Mike Gross]] : Director of Sales and Service: Cell 901.553.6599
 
 Email chain:
 gary.garrison@memphistn.gov, CC billy.parker@cs3.com, todd.badgley@cs3.com):
 
+Service number: 901.382.6202
