@@ -5,3 +5,5 @@
 Date: [[-Daily Activity Log-/2025 09-September 04\|2025 09-September 04]]
 
 [[Meetings/Gresham Smith Site Visit September 4th, 2025 for Reliable Blower Starting\|Gresham Smith Site Visit September 4th, 2025 for Reliable Blower Starting]]
+
+[[Meetings/Hach WIMS Installation meeting September 4th, 2025\|Hach WIMS Installation meeting September 4th, 2025]]
