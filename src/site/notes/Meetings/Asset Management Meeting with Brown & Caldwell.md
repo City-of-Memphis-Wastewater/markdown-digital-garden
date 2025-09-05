@@ -200,7 +200,7 @@ Joshua:
 Don:
 - Yep
 - We don't have the budget
-- You'll have to sell this to [[People/Scott Morgan\|Scott Morgan]] and [[Tasha King-Davis\|Tasha King-Davis]]
+- You'll have to sell this to [[People/Scott Morgan\|Scott Morgan]] and [[Information Heap/Tasha King-Davis\|Tasha King-Davis]]
 - HVAC's are big problems at both plants.
 - We should do intensive maintenance on some items which we usually wait  until they break down, and you can make recommendations on the HVAC program
 - Louisville has 7,500 assets, we have identified only 500 assets
