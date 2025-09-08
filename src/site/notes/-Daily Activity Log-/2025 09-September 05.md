@@ -10,3 +10,17 @@ Date: [[-Daily Activity Log-/2025 09-September 05\|2025 09-September 05]]
 Condenser was completely clogged.
 Logan is not worried about damage at that 
 
+
+
+---
+[[Information Heap/COM - Component Object Model\|COM - Component Object Model]]
+[[Information Heap/Leverage PowerTools for hotkey functionality to call a script using input from the clipboard tray\|Leverage PowerTools for hotkey functionality to call a script using input from the clipboard tray]]
+
+```
+
+i liked the idea of highlighting any text and then calling the process
+
+maybe that's a different piece of software entirely. That could be really cool, people would like that. This would greatly advance a Python stack that is pipx installable and registers a context menu item to the registry. And then i could leverage it for the pipeline tool but first i need to build that generalized tool in COM, or to register the tool as a hotkey with powertools that pulls input from the clipboard tray
+
+
+```
