@@ -15,7 +15,15 @@ Network link: Allen-Bradley: Switches: look at Ovation:192.168.50.something
 
 icpdas.com
 
-- [ ] What is the name of that box? at Stiles grit tank, with S::CAN
+- [x] What is the name of that box? at Stiles grit tank, with S::CAN
 Diana Smith is in charge of the [[Software/Hexagon\|Hexagon]] system at [[Information Heap/Stiles\|Stiles]]
+GRIT-BOX-001
 
-- [ ] Retrieve connector from Maxson in the morning. Female serial VGA. DB9 is the type of connector, VGA is the type of data.  Other side: screw terminal or push terminal.
+- [x] Retrieve connector from Maxson in the morning. Female serial VGA. DB9 is the type of connector, VGA is the type of data.  Other side: screw terminal or push terminal.
+---
+Equipment that I am learning about:
+- poe switch
+- USB to RS485 converter (gateway) - like a microcontroller-ish - send and receive data from field devices 
+---
+
+[star-history.com/blog/playbook-for-more-github-stars](https://www.star-history.com/blog/playbook-for-more-github-stars)
