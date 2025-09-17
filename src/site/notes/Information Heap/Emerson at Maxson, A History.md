@@ -3,7 +3,7 @@
 ---
 
 
-Date: [[2025 09-September 11\|2025 09-September 11]]
+Date: [[-Daily Activity Log-/2025 09-September 11\|2025 09-September 11]]
 
 # 1980
 - System: 
@@ -48,11 +48,26 @@ Date: [[2025 09-September 11\|2025 09-September 11]]
 	- Disinfection
 	- Trickling filters
 	- Reaeration blowers and basins
-	- 
+	- Lagoon 2A
+	- Aeration monitoring with dissolved oxygen probes
+	- Bio Air odor control
 
 # 2023-2024
 - Project: Evergreen Upgrade, New Admin building 
 - Primary Contractor: Emerson 
 - Electrical subcontractor from St Louis 
+
+# 2025
+- Construction: Chris Hill
+- Engineering: Black and Veatch
+- Primary Clarifiers
+
+# Going forward
+- Machine health equipment, purchasing
+
+
+![Pasted image 20250911183047.png](/img/user/Pasted%20image%2020250911183047.png)
+
+![Pasted image 20250911183109.png](/img/user/Pasted%20image%2020250911183109.png)
 
 
