@@ -8,4 +8,3 @@ The Ovation Graphics Builder is not available outside of Developer Studio.
 
 The purpose is to develop process diagrams that represent actual plant processes
 
-The use case for macros is t
