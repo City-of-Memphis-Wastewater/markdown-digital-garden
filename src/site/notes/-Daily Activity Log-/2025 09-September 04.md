@@ -12,4 +12,4 @@ Date: [[-Daily Activity Log-/2025 09-September 04\|2025 09-September 04]]
 	- Compressor: https://youtu.be/5kvdZX3SkeQ
 	- AC Unit: https://youtu.be/p-D3MidxUjE
 
-- Visit [[Information Heap/Tasha King-Davis\|Tasha King-Davis]] to discuss the monthly TVA report 
+- Visit [[People/Tasha King-Davis\|Tasha King-Davis]] to discuss the monthly TVA report 

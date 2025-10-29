@@ -11,7 +11,7 @@ Current situation:
 Key attendees of this meeting:
 - [[People/Chris Luss\|Chris Luss]]
 - [[People/Yari Hernandez\|Yari Hernandez]]
-- [[Information Heap/Tasha King-Davis\|Tasha King-Davis]]
+- [[People/Tasha King-Davis\|Tasha King-Davis]]
 - [[Dustin Bosh\|Dustin Bosh]]
 - [[Kevin Ball\|Kevin Ball]]
 
@@ -26,5 +26,5 @@ Yaribell Hernandez ([[Contractors/CDM Smith\|CDM Smith]]):
 - If the city needs assistance, CDM Smith offers subcontractor assistance to stabilize the situation
 
 Next Steps:
-- [[Max Foote\|Max Foote]] will come on site to add dunnage to the trickling filter arms at between 2/3 to 75% of their length, as indicated by [[Kevin Ball\|Kevin Ball]], presumedly of [[Contractors/WesTech\|WesTech]]. [[Information Heap/Maxson\|Maxson]] will not provide plant personnel to perform the assistance, as per the explicit direction of [[Information Heap/Tasha King-Davis\|Tasha King-Davis]] with support from [[People/Yaribell Hernandez\|Yaribell Hernandez]].
+- [[Max Foote\|Max Foote]] will come on site to add dunnage to the trickling filter arms at between 2/3 to 75% of their length, as indicated by [[Kevin Ball\|Kevin Ball]], presumedly of [[Contractors/WesTech\|WesTech]]. [[Information Heap/Maxson\|Maxson]] will not provide plant personnel to perform the assistance, as per the explicit direction of [[People/Tasha King-Davis\|Tasha King-Davis]] with support from [[People/Yaribell Hernandez\|Yaribell Hernandez]].
 - 
