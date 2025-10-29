@@ -75,3 +75,10 @@ How often will we have deadlines?
 [[People/Chris Luss\|Chris Luss]] has joined the 12:20 PM meeting
 [[People/Tasha King-Davis\|Tasha King-Davis]] is not present.
 
+---
+
+Optimax units (serial number 356172) has internals not indicated by the serial number.
+
+---
+
+Chris: Do we really believe we can accomplish this continuously.
