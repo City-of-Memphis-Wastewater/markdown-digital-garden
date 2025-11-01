@@ -77,7 +77,7 @@ How often will we have deadlines?
 
 ---
 
-Optimax units (serial number 356172) has internals not indicated by the serial number.
+Optimax unit (sn 356172) has internals not indicated by the serial number.
 
 ---
 
