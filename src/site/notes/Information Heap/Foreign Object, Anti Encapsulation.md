@@ -61,4 +61,4 @@ Your instinct is excellent: passing a foreign object into a method and changing 
 
 Date: [[-Daily Activity Log-/2025 10-October 30\|2025 10-October 30]]
 
-[[Information Heap/Example of Good Foreign Object Handling\|Example of Good Foreign Object Handling]]
+[[AI-generated/Example of Good Foreign Object Handling\|Example of Good Foreign Object Handling]]
