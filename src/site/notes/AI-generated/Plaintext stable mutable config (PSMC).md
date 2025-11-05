@@ -282,13 +282,13 @@ Would you like me to extend this demo so the **Rust service can write back** (e.
 ---
 
 ```
-Don't be so aggressive with the watchdog - let's give that a maninmal footprint, only seen from one class, and then keep configuration reference functions clean and agnostic, though under the hood they trace back to the watchdog as necessary, in a way that is documented and discoverable.
+Don't be so aggressive with the watchdog - let's give that a mininmal footprint, only seen from one class, and then keep configuration reference functions clean and agnostic, though under the hood they trace back to the watchdog as necessary, in a way that is documented and discoverable.
 
-there is basically some sort of sampling or polling that must be done, like a bus system, to keep information from different sources in check and waterfalling properly.
+There is basically some sort of sampling or polling that must be done, like a bus system, to keep information from different sources in check and waterfalling properly.
 
-we want sources like a typer CLI, a pysimplegui (peg at freesimple gui) Gui, and also allow for direct edit of files, all without breaking. We also want a rust CLI, and a rust service, which can have an appropriate job that compared to the python entry points.
+We want sources like a typer CLI, a pysimplegui (peg at freesimplegui) GUI, and also allow for direct edit of files, all without breaking. We also want a rust CLI, and a rust service, which can have an appropriate job that compared to the python entry points.
 
-I think this is complicated, so let's stay safe and take a deep breath. I don't want to through off your current approach - I am trying to clarify my current understanding, but i am open to learning best practices if anything i have said here is not in keeping with ideal architecture. Do not heavily weight distracting elements.
+I think this is complicated, so let's stay safe and take a deep breath. I don't want to throw off your current approach - I am trying to clarify my current understanding, but i am open to learning best practices if anything i have said here is not in keeping with ideal architecture. Do not heavily weight distracting elements.
 ```
 --
 
@@ -4143,7 +4143,7 @@ Do you want me to create that map next?
 
 ---
 ```
-Discuss the completion map. Show minimal yet heavily commented snippets to fill in the missing gaps as necessary. Repeat the shape of the whole tree for clarity, avoiding scope creek and version creep at this point.
+Discuss the completion map. Show minimal yet heavily commented snippets to fill in the missing gaps as necessary. Repeat the shape of the whole tree for clarity, avoiding scope creep and version creep at this point.
 
 If a person like me who needs to use your clues to make this exists, they should not get lost. please write an inspiring poem to help as our software is brought into reality. Please make it as easy as possible to bring the project we are invisioning into reality.
 ```
