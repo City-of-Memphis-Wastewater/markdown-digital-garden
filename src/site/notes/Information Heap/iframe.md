@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/information-heap/iframe/","noteIcon":"","created":"2025-11-12T21:09:45.936-06:00"}
 ---
 
-Date: [[2025 11-November 13\|2025 11-November 13]]
+Date: [[Information Heap/2025 11-November 13\|2025 11-November 13]]
 
 
 ```
