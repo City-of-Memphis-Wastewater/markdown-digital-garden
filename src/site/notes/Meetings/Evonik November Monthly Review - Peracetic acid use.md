@@ -39,6 +39,17 @@ Henry: Energy is proportional to the square of velocity : double the velocity, q
 ![Pasted image 20251118141139.png](/img/user/Pasted%20image%2020251118141139.png)
 ![Pasted image 20251118141206.png](/img/user/Pasted%20image%2020251118141206.png)
 ![Pasted image 20251118141236.png](/img/user/Pasted%20image%2020251118141236.png)
+The Maxson CoM sample is a composite. 
+The Evonik lab sample is a grab sample.
+Maxson Image 9 is composite vs grab
 
 
 
+![Pasted image 20251118141322.png](/img/user/Pasted%20image%2020251118141322.png)
+Maxson Image 10 is grab vs grab
+
+Mike Browser: COD data between CoM lab and Evonik lab correlates 98%
+Lab results COD samples are pulled from the mixing box, pre disinfection. This is the same as the Evonik analyzer. 
+
+
+Sample is pulled from the reservoir that goes to the analyzer.
