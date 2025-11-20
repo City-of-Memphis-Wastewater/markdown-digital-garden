@@ -25,4 +25,7 @@ Hopefully all probes will be up and running before thanksgiving
 ![Pasted image 20251120132037.png](/img/user/Pasted%20image%2020251120132037.png)
 
 ![Pasted image 20251120132056.png](/img/user/Pasted%20image%2020251120132056.png)![Pasted image 20251120132106.png](/img/user/Pasted%20image%2020251120132106.png)
+Henry: It is expected that the Post is higher because the PAA (peracetic acid) adds BOD.
+Look at the dosing and calculate a theoretical BOD
 
+![Pasted image 20251120132232.png](/img/user/Pasted%20image%2020251120132232.png)
