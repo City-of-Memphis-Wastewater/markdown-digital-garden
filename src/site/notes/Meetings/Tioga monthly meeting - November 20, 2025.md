@@ -29,3 +29,7 @@ Henry: It is expected that the Post is higher because the PAA (peracetic acid) a
 Look at the dosing and calculate a theoretical BOD
 
 ![Pasted image 20251120132232.png](/img/user/Pasted%20image%2020251120132232.png)
+
+Flow monitoring with Ovation
+AECOM engagement
+Pete: ISCO units, Pulse is more accurate
