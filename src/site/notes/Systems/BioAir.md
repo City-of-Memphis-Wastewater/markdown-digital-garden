@@ -18,6 +18,7 @@ Key people or groups:
 - [[People/Michael Johnson\|Michael Johnson]]
 
 
+Username and password: [[Information Heap/BioAir Credentials\|BioAir Credentials]]
 
 | Item            | OneDrive Shared File Location                         |
 | --------------- | ----------------------------------------------------- |
