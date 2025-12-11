@@ -112,3 +112,48 @@ git checkout -b "$BRANCH"
 ```
 
 By understanding the difference between the substitution rules for single quotes and double quotes, you gain full, predictable control over your shell environment.
+
+---
+# References
+### 📚 Primary Technical References
+
+1. **Zsh Documentation (Man Pages)**:
+    
+    - **Topic:** Command Substitution and Quoting
+        
+    - **Citation Focus:** The official manual page for Zsh provides the definitive, detailed definition of command substitution (both `\`` and` $(...)`) and outlines the exact rules for expansion within single quotes (`'...'`) and double quotes (`"..."`). This is the authoritative source.
+        
+    - **Reference Point:** Search within the manual for the sections on **"Parameter Expansion"** and **"Quoting"**.
+        
+2. **Bash Reference Manual (as a Comparative Standard)**:
+    
+    - **Topic:** Command Substitution
+        
+    - **Citation Focus:** Since Zsh and Bash share this fundamental behavior, citing the widely accessible Bash Reference Manual helps contextualize the feature for a broader audience. It clearly distinguishes the behavior of single quotes (strong quoting) from double quotes (weak quoting).
+        
+    - **Reference Point:** Look up **"Command Substitution"** and the section detailing the effects of quoting on command line processing.
+        
+3. **The GNU `info` pages for Bash**:
+    
+    - **Topic:** Shell features and interpretation.
+        
+    - **Citation Focus:** The `info` pages (accessible via `info bash` in the terminal) often contain more structured and educational explanations of shell concepts than the standard man pages.
+        
+
+### 💻 Practical Learning Resources
+
+While not primary documentation, these resources are excellent for supporting a practical understanding:
+
+4. **The `sh` Program / POSIX Shell Standard**:
+    
+    - **Topic:** Shell command language (the foundation for Zsh and Bash).
+        
+    - **Citation Focus:** Mentioning the POSIX standard lends weight to the fact that command substitution is not an arbitrary Zsh feature, but a fundamental building block of the Unix command line environment.
+        
+5. **Online Shell Scripting Guides and Tutorials**:
+    
+    - **Topic:** Practical Quoting Best Practices.
+        
+    - **Citation Focus:** Use a reputable, well-known online guide to reinforce the practical advice (like always using single quotes for literal strings) that stems from the technical rules.
+        
+
