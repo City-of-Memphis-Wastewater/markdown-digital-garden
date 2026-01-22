@@ -8,6 +8,7 @@ Date: [[-Daily Activity Log-/2026 01-January 22\|2026 01-January 22]]
 
 January 9th went of the scale
 Tioga cleaned on the 13th - [[People/Ryan Stringer\|Ryan Stringer]]
+![Pasted image 20260122132940.png](/img/user/Pasted%20image%2020260122132940.png)
 
 Check scale of MI-AI1008COD-AV, MI-AI1008BOD-AV
 
