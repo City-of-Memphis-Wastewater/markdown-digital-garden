@@ -15,3 +15,8 @@ Check scale of MI-AI1008COD-AV, MI-AI1008BOD-AV
 ![Pasted image 20260122132412.png](/img/user/Pasted%20image%2020260122132412.png)
 ![Pasted image 20260122132428.png](/img/user/Pasted%20image%2020260122132428.png)
 ![Pasted image 20260122132607.png](/img/user/Pasted%20image%2020260122132607.png)
+
+![Pasted image 20260122135120.png](/img/user/Pasted%20image%2020260122135120.png)
+
+Do a three way comparison at Maxson:
+- SCAN vs Hach vs Lab

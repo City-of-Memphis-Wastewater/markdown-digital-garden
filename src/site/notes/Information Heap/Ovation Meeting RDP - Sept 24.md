@@ -21,7 +21,7 @@ Look for the project folder.
 - Check operating system of 217
 - Check make and model of panel mount, to stuff  
 
-- Proposal team has a backlog for the Airwall 110.
+- Proposal team has a backlog for the [[Information Heap/Airwall 110\|Airwall 110]]
 - Worst case two weeks, best case one week.
 - Tauric is the Airwall guru
 
