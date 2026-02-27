@@ -90,7 +90,7 @@ WEG acquired E+H and basically let them die.
 - Mike: Changes are that something got into 1 and caused it to vibrate and caused it to fail.
 - Chris: 1 is top heavy.
 - Don: if they redesign it, can they put in a more modern motor
-- Chris: [[Harvey Woodall\|Harvey Woodall]] wants to step down the power on that motor.
+- Chris: [[People/Harvey Woodall\|Harvey Woodall]] wants to step down the power on that motor.
 - Mike: 2 and 3 are also both 1200 HP. 1,2,3 have always been variable.
 - Clayton: Was 70 MGD over zealous when the 700 HP motors were all upgraded to 1200 HP.
 - Chris: The mag systems don't have to be air condition cooled. Consider throwing away the VFD's. On 2 and 3.
