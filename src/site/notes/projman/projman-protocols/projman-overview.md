@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/projman/projman-protocols/projman-overview/","noteIcon":"","created":"2026-03-09T12:44:21.034-05:00"}
+---
+
+Date: [[-Daily Activity Log-/2026 03-March 09\|2026 03-March 09]]
+
+- [[projman/projman\|projman]] is an abbreviation of [[Vocabulary/project management\|project management]] 
+- Projects managed using standardized project management protocols by [[People/Clayton Bennett\|Clayton Bennett]] will be managed in the /projman/ folder at the top level of a system. This follows a pattern set by the use of the /dev/ folder. We see /dev/ folders in various local file systems and in this Obsidian vault. We may also see /projman/ folders at the highest level of an environment, such as in SharePoint docs, in the local file system, and in this markdown vault. This allow for clean separation of concerns - Markdown notes in the expected place versus other file types, namely those of the Microsoft Suite, like PPT, XLSX, DOCX, etc.
+- A protocol should be established for which files are primary to the local file system (or rather OneDrive), a organization wide SharePoint, and in the Obsidian markdown vault. There should also be a protocol for backup and synchronization / waterfalling, if for example, the employee-based OneDrive content and the local markdown vault are copied and backed up to the SharePoint content. A fourth location to consider is the N:/ drive, which exists in parallel to the SharePoint as a repository of stable records shared across time and personal at the City of Memphis level.
+- The primary pursuit of this project management system is for [[People/Clayton Bennett\|Clayton Bennett]] to invent his own wheel to be able to perform his responsibilities. The system is not prescriptive in nature, though we strive to establish and exemplify solid approaches which might be leveraged by others.
+- Connectivity, automation, and code-based processing should be applied very carefully, once a project is well understood and there is a clear opportunity. Fight the temptation to make documentation and reading responsibilities into new Python or /dev/ projects.
