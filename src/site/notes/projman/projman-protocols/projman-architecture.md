@@ -20,7 +20,6 @@ The [[Vocabulary/Maxson\|Maxson]] plant is a process implementation. Key facets 
 - Power Automate
 - Postman
 - GitHub
-- Emerson Ovation
 - Blender
 - Logbooks (pen and paper)
 - Filing systems (paper based print offs)
@@ -29,6 +28,16 @@ The [[Vocabulary/Maxson\|Maxson]] plant is a process implementation. Key facets 
 - Google Earth
 - FreeCAD
 - AutoCAD
+- Gant charts
+- Outlook Calendar
+
+
+# What wider integrations might be useful as sources of reporting and information?
+
+- [[Information Heap/Hexagon EAM\|Hexagon EAM]]
+- [[Software/Emerson Ovation\|Emerson Ovation]], TT [[Information Heap/EDS\|EDS]]
+
+See [[projman/projman-protocols/projman-api-protocol\|projman-api-protocol]] and [[projman/projman-protocols/projman-cli-protocol\|projman-cli-protocol]]
 
 ---
 
@@ -43,3 +52,31 @@ The [[Vocabulary/Maxson\|Maxson]] plant is a process implementation. Key facets 
 - Write access for all team members, including maintenance and operation
 - Read access for the public
 - Read access for City of Memphis employees at various levels, including the Department of wider Public Works 
+
+## Discoverability
+
+## Neatness and Clarity
+
+## Leveragability
+
+## Stability
+
+## Maintainability
+
+---
+
+# People Who Exemplify Project Management at Maxson
+
+- [[People/Chris Luss\|Chris Luss]]
+- [[People/Harvey Woodall\|Harvey Woodall]]
+- [[People/Gary Young\|Gary Young]]
+- [[People/Carl Stevenson\|Carl Stevenson]]
+- [[People/Don Hudgins\|Don Hudgins]]
+
+---
+
+# Who Are the Contractors We Work With Who Have Project Management Strategies?
+
+- [[Contractors/CDM Smith\|CDM Smith]]
+- [[Contractors/Black & Veatch\|Black & Veatch]]
+- [[Contractors/Stantec\|Stantec]]

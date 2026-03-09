@@ -9,3 +9,8 @@ Date: [[-Daily Activity Log-/2026 03-March 09\|2026 03-March 09]]
 - A protocol should be established for which files are primary to the local file system (or rather OneDrive), a organization wide SharePoint, and in the Obsidian markdown vault. There should also be a protocol for backup and synchronization / waterfalling, if for example, the employee-based OneDrive content and the local markdown vault are copied and backed up to the SharePoint content. A fourth location to consider is the N:/ drive, which exists in parallel to the SharePoint as a repository of stable records shared across time and personal at the City of Memphis level.
 - The primary pursuit of this project management system is for [[People/Clayton Bennett\|Clayton Bennett]] to invent his own wheel to be able to perform his responsibilities. The system is not prescriptive in nature, though we strive to establish and exemplify solid approaches which might be leveraged by others.
 - Connectivity, automation, and code-based processing should be applied very carefully, once a project is well understood and there is a clear opportunity. Fight the temptation to make documentation and reading responsibilities into new Python or /dev/ projects.
+- The central purpose of project management is information tracking and success in reaching goals.
+- Key elements for a project to analyze include:
+	- Stakeholders and owners
+	- Milestones
+	- Risks and failure modes

@@ -16,7 +16,7 @@ Command:
 eds trend YRI1671 YRI1661 YRI1651 VI1672 VI1675 VI1665 VI1662 VI1655 VI1652 --days 300
 
 ```
-There is a meter section is [[Hexagon EAM\|Hexagon EAM]], for each Asset
+There is a meter section is [[Information Heap/Hexagon EAM\|Hexagon EAM]], for each Asset
 
 I would assume there is a way to connect the temp and vibration meter values from our Ovation DCS via API to feed into Hexagon EAM, such that a PM can be triggered if some threshold value is exceeded. The alterative is for a person to manually notice an Ovation alarm for the exceeded critical threshold, but it would be better to connect directly to Hexagon. 
 

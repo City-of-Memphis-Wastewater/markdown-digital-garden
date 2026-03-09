@@ -4,6 +4,8 @@
 
 Date: [[-Daily Activity Log-/2025 11-November 26\|2025 11-November 26]]
 
+[[dev/biogas-tracker/gastrack\|gastrack]]
+
 ```
  oolong@CIT-36NZRL3  ~/dev  cd gastrack
 

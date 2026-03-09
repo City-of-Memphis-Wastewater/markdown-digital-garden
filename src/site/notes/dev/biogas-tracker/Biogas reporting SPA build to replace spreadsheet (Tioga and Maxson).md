@@ -4,6 +4,8 @@
 
 Date: [[-Daily Activity Log-/2025 11-November 25\|2025 11-November 25]]
 
+Project name: [[dev/biogas-tracker/gastrack\|gastrack]]
+
 ```
 yo 
 

@@ -9,7 +9,7 @@ This is a project begun my [[People/Clayton Bennett\|Clayton Bennett]] to send d
 Relevant:
 - [[Information Heap/RJN Upload\|RJN Upload]]
 - [[AI-generated/EDS to RJN data pipeline\|EDS to RJN data pipeline]]
-- [[EDS\|EDS]]
+- [[Information Heap/EDS\|EDS]]
 - [[Assignments/Data integration with the RJN Clarity dashboard\|Data integration with the RJN Clarity dashboard]]
 - [[Contractors/AECOM\|AECOM]]
 

@@ -7,7 +7,7 @@ Date: [[-Daily Activity Log-/2025 10-October 29\|2025 10-October 29]]
 Self: [[Meetings/TEM Proposal to Achieve SCHI Compliance\|TEM Proposal to Achieve SCHI Compliance]]
 
 Attendees: 
-- [[Maggie Strom\|Maggie Strom]]
+- [[People/Maggie Strom\|Maggie Strom]]
 - [[People/Don Hudgins\|Don Hudgins]]
 - [[People/Henry Nakayama\|Henry Nakayama]]
 - [[People/Clayton Bennett\|Clayton Bennett]]
