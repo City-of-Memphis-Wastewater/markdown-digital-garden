@@ -4,11 +4,11 @@
 
 Date: [[-Daily Activity Log-/2026 01-January 30\|2026 01-January 30]]
 
-We want [[Information Heap/Garth Egbert\|Garth Egbert]] involved on the call.
+We want [[People/Garth Egbert\|Garth Egbert]] involved on the call.
 
 SureService Contract Number MC 626
 
-[[Information Heap/Drop 160\|Drop 160]] at [[Information Heap/Maxson\|Maxson]] has not been storing data since March 2025. [[Information Heap/Drop 161\|Drop 161]], the backup OPH 
+[[Information Heap/Drop 160\|Drop 160]] at [[Vocabulary/Maxson\|Maxson]] has not been storing data since March 2025. [[Information Heap/Drop 161\|Drop 161]], the backup OPH 
 
 Ovation Version 3.8
 

@@ -4,4 +4,4 @@
 
 Date: [[-Daily Activity Log-/2025 06-June 18\|2025 06-June 18]]
 
-Retired machinist for [[Information Heap/Maxson\|Maxson]], now works as a contractor.
+Retired machinist for [[Vocabulary/Maxson\|Maxson]], now works as a contractor.

@@ -6,5 +6,5 @@ Date: [[-Daily Activity Log-/2025 06-June 17\|2025 06-June 17]]
 
 #contractor 
 Project:
-- Tie in [[Information Heap/Maxson\|Maxson]] effluent to [[Industry/xAI\|xAI]] [[Colossus\|Colossus]]
+- Tie in [[Vocabulary/Maxson\|Maxson]] effluent to [[Industry/xAI\|xAI]] [[Colossus\|Colossus]]
 - Sub for [[Contractors/Malasari Engineering\|Malasari Engineering]] to do an electrical reliability study

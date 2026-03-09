@@ -7,4 +7,4 @@ Email: samuel.jenkins@memphistn.gov
 
 Role: Waste water operator
 License: Class 3
-Location: [[Information Heap/Maxson\|Maxson]]
+Location: [[Vocabulary/Maxson\|Maxson]]

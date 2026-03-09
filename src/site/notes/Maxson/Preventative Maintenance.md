@@ -5,7 +5,7 @@
 Contacts:
 [[People/Kim Crawford\|Kim Crawford]]
 [[People/Mars\|Mars]]
-[[Vocabulary/PM\|PM]]
+[[pm/pm\|PM]]
 #equipment 
 #equipment 
 #maintenance 

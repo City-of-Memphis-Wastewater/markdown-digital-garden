@@ -4,5 +4,5 @@
 
 Date: [[-Daily Activity Log-/2025 04-April 17\|2025 04-April 17]]
 
-Employer: [[Information Heap/Maxson\|Maxson]]
+Employer: [[Vocabulary/Maxson\|Maxson]]
 Position: Wastewater treatment trainee

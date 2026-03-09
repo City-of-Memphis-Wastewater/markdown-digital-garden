@@ -5,4 +5,4 @@
 Primary contact: [[People/Brian Stacks\|Brian Stacks]]
 #contractor
 
-Major construction projects at 2022-2025 at [[Information Heap/Maxson\|Maxson]].
+Major construction projects at 2022-2025 at [[Vocabulary/Maxson\|Maxson]].
