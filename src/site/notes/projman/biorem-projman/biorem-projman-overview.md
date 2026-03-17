@@ -6,13 +6,14 @@ Date: [[-Daily Activity Log-/2026 03-March 09\|2026 03-March 09]]
 
 # Key Stakeholders
 - [[Contractors/Bar Environmental\|Bar Environmental]]
-	- [[Information Heap/Jeremy Rivere\|Jeremy Rivere]] - Long term contracted operator of the [[Systems/BioRem\|BioRem]] system
+	- [[People/Jeremy Rivere\|Jeremy Rivere]] - Long term contracted operator of the [[Systems/BioRem\|BioRem]] system
 	- [[People/Andy LeJeune\|Andy LeJeune]]
 	- [[Information Heap/Blake Heilman\|Blake Heilman]]
 - [[Vocabulary/Maxson\|Maxson]]
 	- [[People/Clayton Bennett\|Clayton Bennett]] - Current project manager
 	- [[People/Chris Luss\|Chris Luss]] - Current plant manager, long term project manager
 	- [[People/Carl Stevenson\|Carl Stevenson]] - Long term project manager, relations with [[Contractors/Bar Environmental\|Bar Environmental]]
+	- [[People/Carlton Mull\|Carlton Mull]] - Electrical Foreman
 	- [[People/Harvey Woodall\|Harvey Woodall]] - Current maintenance manager
 	- [[People/Gary Young\|Gary Young]] - Current maintenance manager
 	- [[People/Don Hudgins\|Don Hudgins]] - The Whip
@@ -110,10 +111,15 @@ Date: [[-Daily Activity Log-/2026 03-March 09\|2026 03-March 09]]
 
 - Ovation files - See [[projman/biorem-projman/biorem-projman-ovationdcs\|biorem-projman-ovationdcs]] 
 	- Graphics
-		- 4001.diag
 		- 2000ab.diag
+		- 2002.diag
+		- 4001.diag
+		- PLG6000.diag
+		- PLG6001.diag
+		- PLG6002.diag
+		- PLG6003.diag
 	- Control sheets
-		- Please add
+		- Please add, seem to be missing
 
 
 # History, Status

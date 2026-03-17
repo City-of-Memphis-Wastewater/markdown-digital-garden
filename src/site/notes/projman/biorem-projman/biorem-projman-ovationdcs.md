@@ -17,6 +17,12 @@ Known graphics:
 
 ---
 
+## Drawings
+- 2323F-D-001
+- 2323F-E-001
+
+---
+
 ## Points
 
 All points at the [[Vocabulary/Maxson\|Maxson]] plant have the IESS suffix ".UNIT0@NET0"
@@ -66,3 +72,9 @@ Known control sheets:
 ```
 which control sheets are these BR_ points used in? For all the points used in the biorem graphics, like the points used in pages 4001.diag, 2000ab.diag, 2002.diag, PLG6000.diag, PLG6001.diag, PLG6002.diag, and PLG6003.diag - in which various control sheets are these points used? What is the architecture of the biorem system that unifies these points and control sheets? You mentioned XML - is there some unified strucure and grouping and ornagization? it feels like these things are just painted across various graphics and control sheeets without another layer of documentation. It feels like a terrible case of "the code is the documentation"
 ```
+
+
+---
+
+### Relevant Ovation Tickets
+- [[Ovation Help Tickets/Ovation Call NC-2600-8165\|Ovation Call NC-2600-8165]]

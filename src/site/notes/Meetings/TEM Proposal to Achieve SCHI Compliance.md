@@ -22,7 +22,7 @@ Henry, key issues:
 Clayton: How often does packing need to be cleaned?
 - Monthly
 
-[[Lorde and Company\|Lorde and Company]] will have to come out to and automate the [[Systems/BioRem\|BioRem]] system. 
+[[Information Heap/Lord and Company\|Lord and Company]] will have to come out to and automate the [[Systems/BioRem\|BioRem]] system. 
 
 We want a say in the [[jargon/consent decree\|consent decree]], which is coming anyways - the sooner the better.
 

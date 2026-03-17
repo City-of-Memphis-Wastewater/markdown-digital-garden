@@ -18,4 +18,4 @@ _Office_: (901) 636-4333
 
 _Fax_: (901) 357-4607
 
-Works with [[Tammy Westbrook\|Tammy Westbrook]]
+Works with [[People/Tammy Westbrook\|Tammy Westbrook]]
