@@ -5,9 +5,11 @@
 Date: [[-Daily Activity Log-/2026 03-March 17\|2026 03-March 17]]
 
 ## Purpose
-We are inspecting whether or not bearing temperatures were effectively monitored for the  the [[Lonestar\|Lonestar]] [[Reaeration Blowers\|Reaeration Blowers]] 
+We are inspecting whether or not bearing temperatures were effectively monitored for the   [[Lonestar\|Lonestar]] [[Reaeration Blowers\|Reaeration Blowers]] 
 
 #reaeration #lonestar #blowers
+
+No alarms were triggered for Blower 2 (B-166) at least back to April 2024.
 
 ---
 
