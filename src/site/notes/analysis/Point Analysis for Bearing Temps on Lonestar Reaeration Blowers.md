@@ -92,5 +92,8 @@ eds trend tah1674 tah1675 tah1676 tah1677 tah1673 tah1679 tah16710 --days 365 -d
 
 ---
 
-## Next steps:
-- Search all historic alarms for these points.
+## Ovation Alarm App:
+
+Search all historic alarms for these points. None found for Blower 2, only for Blower 3, on Nov 21, 2025.
+
+![alarm-TAH1674,1675,1676,1677-21November2025.png](/img/user/alarm-TAH1674,1675,1676,1677-21November2025.png)
