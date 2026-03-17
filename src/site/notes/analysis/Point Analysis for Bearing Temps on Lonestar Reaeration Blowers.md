@@ -23,7 +23,11 @@ These points are found on control sheet: "RAS BLOWER 1 (B-165) STEERING", which 
 | TAH1653  | B-165 HI MTR TMP COIL U    |
 | TAH1659  | B-165 HI MTR TMP COIL V    |
 | TAH16510 | B-165 HI MTR TMP COIL W    |
+
 All of these show 0 and "Normal" for the past year, from the EDS and Trend.
+
+--
+
 ```bash
 eds trend tah1654 tah1655 tah1656 tah1657 tah1653 tah1659 tah16510 --days 365 -dp 4000
 ```
@@ -33,7 +37,7 @@ eds trend tah1654 tah1655 tah1656 tah1657 tah1653 tah1659 tah16510 --days 365 -d
 ---
 
 ## Blower 1, B-166
-These points are found on control sheet: "RAS BLOWER 1 (B-166) STEERING", which is on Drop 6, Task 2, Sheet 193
+These points are found on control sheet: "RAS BLOWER 2 (B-166) STEERING", which is on Drop 6, Task 2, Sheet 193
 
 | IDCS     | Description                |
 | -------- | -------------------------- |
@@ -44,6 +48,8 @@ These points are found on control sheet: "RAS BLOWER 1 (B-166) STEERING", which 
 | TAH1663  | B-166 HI MTR TMP COIL U    |
 | TAH1669  | B-166 HI MTR TMP COIL V    |
 | TAH16610 | B-166 HI MTR TMP COIL W    |
+
+--
 
 All of these show 0 and "Normal" for the past year, from the EDS and Trend.
 
@@ -56,7 +62,7 @@ eds trend tah1664 tah1665 tah1666 tah1667 tah1663 tah1669 tah16610 --days 365 -d
 ---
 
 ## Blower 1, B-167
-These points are found on control sheet: "RAS BLOWER 1 (B-167) STEERING", which is on Drop 6, Task 2, Sheet 195
+These points are found on control sheet: "RAS BLOWER 3 (B-167) STEERING", which is on Drop 6, Task 2, Sheet 195
 
 | IDCS     | Description                |
 | -------- | -------------------------- |
@@ -67,7 +73,10 @@ These points are found on control sheet: "RAS BLOWER 1 (B-167) STEERING", which 
 | TAH1673  | B-167 HI MTR TMP COIL U    |
 | TAH1679  | B-167 HI MTR TMP COIL V    |
 | TAH16710 | B-167 HI MTR TMP COIL W    |
-Most of these show 0 and "Normal" for the past year, from the EDS and Trend. TAH1677 showed a high value of 1.0 on Nov 21, 2025, for eight minutes, from 10:33 AM to 10:41 AM.
+
+--
+
+Most of these show 0 and "Normal" for the past year, from the EDS and Trend. All four of the bearing temp sensors for Blower 3 (TAH1674, TAH1675, TAH1676, TAH1677) showed a high value of 1.0 on Nov 21, 2025, for eight minutes, from 10:33 AM to 10:41 AM.
 
 ```bash
 eds trend tah1674 tah1675 tah1676 tah1677 tah1673 tah1679 tah16710 --days 365 -dp 4000
@@ -78,6 +87,8 @@ eds trend tah1674 tah1675 tah1676 tah1677 tah1673 tah1679 tah16710 --days 365 -d
 ![Pasted image 20260317143031.png](/img/user/Pasted%20image%2020260317143031.png)
 
 ![Pasted image 20260317143709.png](/img/user/Pasted%20image%2020260317143709.png)
+
+[[reaeration-blowers-tah1677_21Nov2025.html]]
 
 ---
 
