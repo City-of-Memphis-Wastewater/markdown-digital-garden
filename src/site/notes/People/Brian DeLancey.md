@@ -9,3 +9,5 @@ Email: brian.delancey@emerson.com
 Cohort:
 - [[People/Guillermo Abreu\|Guillermo Abreu]]
 - [[People/Jack Matheney\|Jack Matheney]]
+
+Role: Product Support Manager at [[Contractors/Emerson\|Emerson]]

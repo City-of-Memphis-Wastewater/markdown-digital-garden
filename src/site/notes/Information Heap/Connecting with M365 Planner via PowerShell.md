@@ -8,6 +8,7 @@ Date: [[-Daily Activity Log-/2026 03-March 02\|2026 03-March 02]]
 Connect-MgGraph 
 Get-MgUserPlannerPlan -UserId "george.bennett@memphistn.gov" | Select-Object Id, Title, ContainerId
 ```
+https://learn.microsoft.com/en-us/powershell/module/microsoft.graph.authentication/connect-mggraph?view=graph-powershell-1.0
 
 ```
 PS C:\Users\george.bennett\dev> Get-MgPlannerPlanTask -PlannerPlanId "vez7tvdWkEyI6NbxMh63AIIAED2_" | Select-Object Id, Title, BucketId

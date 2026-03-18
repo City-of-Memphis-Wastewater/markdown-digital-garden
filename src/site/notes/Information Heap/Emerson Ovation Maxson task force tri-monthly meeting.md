@@ -38,6 +38,8 @@ Date: [[-Daily Activity Log-/2026 03-March 18\|2026 03-March 18]]
 	- [[Information Heap/Ankur Gangwar\|Ankur Gangwar]]
 	- [[People/Brian Luciew\|Brian Luciew]]
 	- [[People/Eric Zadai\|Eric Zadai]]
+	- [[People/Brian DeLancey\|Brian DeLancey]]
+	- [[People/Gil Sabourin\|Gil Sabourin]]
 	- Ask directly - which of you can be our key technical point person?
 - Revisit 10 year contract and scope of work
 	- Field work
