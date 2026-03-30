@@ -8,7 +8,7 @@ Date: [[-Daily Activity Log-/2026 03-March 09\|2026 03-March 09]]
 - [[Contractors/Bar Environmental\|Bar Environmental]]
 	- [[People/Jeremy Rivere\|Jeremy Rivere]] - Long term contracted operator of the [[Systems/BioRem\|BioRem]] system
 	- [[People/Andy LeJeune\|Andy LeJeune]]
-	- [[Information Heap/Blake Heilman\|Blake Heilman]]
+	- [[People/Blake Heilman\|Blake Heilman]]
 - [[Vocabulary/Maxson\|Maxson]]
 	- [[People/Clayton Bennett\|Clayton Bennett]] - Current project manager
 	- [[People/Chris Luss\|Chris Luss]] - Current plant manager, long term project manager

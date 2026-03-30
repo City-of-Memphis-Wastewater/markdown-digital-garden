@@ -7,3 +7,5 @@ Date: [[-Daily Activity Log-/2026 03-March 18\|2026 03-March 18]]
 Email: Gil.Sabourin@Emerson.com
 
 Role: Manages **Field Service** Team in Charlotte
+
+Email: Gil.Sabourin@Emerson.com

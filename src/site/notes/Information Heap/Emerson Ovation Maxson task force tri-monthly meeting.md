@@ -84,7 +84,7 @@ Is the Ovation system isolated or integrated in terms of asset tracking.
 
 ___
 
-## Concise representation for meeting agenda for [[2026 03-March 19\|2026 03-March 19]]
+## Concise representation for meeting agenda for [[Information Heap/2026 03-March 19\|2026 03-March 19]]
 
 - Discuss plans for how we can hit the ground running once we have the Airwall 110
 - Identify the ongoing Emerson team - who is our number one technical point person and Emerson-side project owner?
@@ -99,3 +99,13 @@ ___
 - Expectations for HMI 4.0 and for next Evergreen
 -  Ovation DROP 217 3.3-> 3.8 upgrade missed during Evergreen (circa 2024)
 - Stantec as Integrator
+
+---
+
+Meeting notes:
+
+- Joseph Cullen - DCS Expert with Stantec
+
+Support typically comes out of the region.
+Who is our number one Emerson technical support.
+- Treat Jack and Matt as our key folks. 
