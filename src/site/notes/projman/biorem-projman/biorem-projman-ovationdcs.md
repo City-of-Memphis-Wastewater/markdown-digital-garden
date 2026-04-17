@@ -40,6 +40,8 @@ On DROP 200, in cmd, run
 ```cmd
 sqlplus / as sysdba
 ```
+
+More details: [[Information Heap/sqlplus\|sqlplus]]
 ### Points found in  2000ab.diag
 
 | **IDCS**          | **Category**  | **Label**               | **Unit** |
